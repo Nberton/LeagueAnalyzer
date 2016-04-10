@@ -1,0 +1,50 @@
+
+
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/highcharts-3d.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<script src="http://d3js.org/d3.v2.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+
+
+<style type="text/css">
+#container {
+    height: 400px;
+    min-width: 310px; 
+    max-width: 800px;
+    margin: 0 auto;
+}
+.axis path,
+.axis line {
+    fill: none;
+    stroke: grey;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+}
+</style>
+
+<body>
+<h3>Please Select a LoL Game and color:</h3>
+<!--<div>-->
+    <!--<select id="gameID">-->
+        <!--<option></option>-->
+        <!--<option value="Game1">Game 1</option>-->
+        <!--<option value="Game2">Game 2</option>-->
+        <!--<option value="Game3">Game 3</option>-->
+        <!--<option value="Game4">Game 4</option>-->
+        <!--<option value="Game5">Game 5</option>-->
+    <!--</select>-->
+    <!--<select id="graphColor">-->
+        <!--<option value="blue">Blue</option>-->
+        <!--<option value="pink">Pink</option>-->
+        <!--<option value="orange">Orange</option>-->
+    <!--</select>-->
+<!--</div>-->
+<div class="chart" style="padding-left: 20px">
+
+</div>
+<div>
+    <script src="lines.js"></script>
+</div>
+<script src="streamgraph.js"></script>
+</body>
