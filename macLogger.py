@@ -1,6 +1,8 @@
-from pynput.mouse import Listener
+from pynput import mouse
+from pynput import keyboard
 import pyaudio
 import wave
+import time
 
 
 CHUNK = 1024
@@ -30,20 +32,40 @@ def Beep():
     p.terminate()
 
 
+def on_click_wait(x, y, button, pressed):
+    if x == 0 and y == 0:
+        Beep()
+        return False
+
+
 def on_click(x, y, button, pressed):
     if x == 0 and y == 0:
         Beep()
         return False
-    print('{0} at {1}'.format(
-        'Pressed' if pressed else 'Released',
-        (x, y)))
-    # if not pressed:
-    #     # Stop listener
-    #     return False
-    if pressed:
-        Beep()
+
+    currentTime = time.time() - start
+
+    print "%.5f - %d,%d" %(currentTime, x, y)
 
 
-# Collect events until released
-with Listener(on_click=on_click) as listener:
+def on_press(key):
+
+    if key == keyboard.Key.esc:
+        return False
+
+    currentTime = time.time() - start
+
+    print "%.5f - %s" % (currentTime, key)
+
+
+# # Collect events until released
+# with mouse.Listener(on_click=on_click_wait) as listener:
+#     listener.join()
+#
+#
+start = time.time()
+# with mouse.Listener(on_click=on_click) as listener:
+#     listener.join()
+
+with keyboard.Listener(on_press=on_press) as listener:
     listener.join()
