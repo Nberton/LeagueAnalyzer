@@ -1,0 +1,6 @@
+6.43102 - Key.cmd
+7.68200 - Key.alt
+7.91423 - Key.ctrl
+3.06437 - Key.cmd
+3.46205 - Key.alt
+4.05408 - Key.space

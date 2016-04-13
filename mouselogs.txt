@@ -1,0 +1,4 @@
+1.19579 - 324,555 - Button.left
+1.28358 - 324,555 - Button.left
+2.06193 - 232,639 - Button.left
+2.14239 - 232,639 - Button.left

@@ -7,6 +7,7 @@ import time
 
 CHUNK = 1024
 
+
 def Beep():
     wf = wave.open('beep.wav', 'rb')
     p = pyaudio.PyAudio()
@@ -39,24 +40,31 @@ def on_click_wait(x, y, button, pressed):
 
 
 def on_click(x, y, button, pressed):
+
     if x == 0 and y == 0:
         Beep()
         keyboardListener.stop()
         return False
 
     currentTime = time.time() - start
+    fp = open("mouselogs.txt", "a")
 
-    print "%.5f - %d,%d" %(currentTime, x, y)
+    fp.write("%.5f - %d,%d - %s\n" %(currentTime, x, y, button))
+    fp.close()
 
 
 def on_press(key):
-
     if key == keyboard.Key.esc:
         return False
 
     currentTime = time.time() - start
+    fp = open("keylogs.txt", "a")
+    try:
+        fp.write( "%.5f - %c\n" %(currentTime, key.char))
+    except:
+        fp.write("%.5f - %s\n" % (currentTime, key))
 
-    print "%.5f - %s" % (currentTime, key)
+    fp.close()
 
 
 # Collect events until released
