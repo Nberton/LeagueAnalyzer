@@ -41,6 +41,7 @@ def on_click_wait(x, y, button, pressed):
 def on_click(x, y, button, pressed):
     if x == 0 and y == 0:
         Beep()
+        keyboardListener.stop()
         return False
 
     currentTime = time.time() - start
@@ -58,14 +59,21 @@ def on_press(key):
     print "%.5f - %s" % (currentTime, key)
 
 
-# # Collect events until released
-# with mouse.Listener(on_click=on_click_wait) as listener:
-#     listener.join()
-#
-#
-start = time.time()
-# with mouse.Listener(on_click=on_click) as listener:
-#     listener.join()
-
-with keyboard.Listener(on_press=on_press) as listener:
+# Collect events until released
+with mouse.Listener(on_click=on_click_wait) as listener:
     listener.join()
+
+
+start = time.time()
+
+with mouse.Listener(on_click=on_click) as mouseListener:
+
+    with keyboard.Listener(on_press=on_press) as keyboardListener:
+        keyboardListener.join()
+
+    # keyboardListener.join()
+    mouseListener.join()
+
+
+
+
