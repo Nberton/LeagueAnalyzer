@@ -15,7 +15,7 @@ Steps when using the program:
 3) Once you have entered the game left click in the top left corner
    and there should be an audible "Beep" signaling that the program
    begun recording mouse/keyboard input.
-4) Win
+4) Win or Lose
 5) At the end of the match left click the top left corner again
    to end the program.  There should be an audible "Beep" signaling
    the program has ended.
