@@ -3,11 +3,12 @@
 Python version : 2.7.11
 
 To get macLogger.py running on mac via terminal
-* brew install python
-* brew install portaudio
-* pip install pynput
-* pip install pyaudio
-
+```sh
+$ brew install python
+$ brew install portaudio
+$ pip install pynput
+$ pip install pyaudio
+```
 
 Steps when using the program:
 * Open LoL and macLogger.py
