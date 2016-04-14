@@ -3,13 +3,22 @@ from pynput import keyboard
 import pyaudio
 import wave
 import time
+import os
 
 
 CHUNK = 1024
 
+def getFolder():
+    gameNumber = 0
+    for folder in os.listdir("Data/"):
+        gameNumber += 1
+    print gameNumber
+
+    return gameNumber + 1
+
 
 def Beep():
-    wf = wave.open('beep.wav', 'rb')
+    wf = wave.open('../../beep.wav', 'rb')
     p = pyaudio.PyAudio()
 
     stream = p.open(format=p.get_format_from_width(wf.getsampwidth()),
@@ -67,21 +76,20 @@ def on_press(key):
     fp.close()
 
 
-# Collect events until released
-with mouse.Listener(on_click=on_click_wait) as listener:
-    listener.join()
+if __name__ == "__main__":
+    gameNumber = getFolder()
+    newFolder = "Data/Game%d" %gameNumber
+    os.makedirs(newFolder)
+    os.chdir(newFolder)
+    start = time.time()
 
+    # Collect events until released
+    with mouse.Listener(on_click=on_click_wait) as listener:
+        listener.join()
 
-start = time.time()
+    with mouse.Listener(on_click=on_click) as mouseListener:
+        with keyboard.Listener(on_press=on_press) as keyboardListener:
+            keyboardListener.join()
 
-with mouse.Listener(on_click=on_click) as mouseListener:
-
-    with keyboard.Listener(on_press=on_press) as keyboardListener:
-        keyboardListener.join()
-
-    # keyboardListener.join()
-    mouseListener.join()
-
-
-
-
+        # keyboardListener.join()
+        mouseListener.join()
