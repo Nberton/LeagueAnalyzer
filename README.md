@@ -10,6 +10,15 @@ $ pip install pynput
 $ pip install pyaudio
 ```
 
+When recording on Mac, you must grant accessibility to League
+* Settings
+* Security and Privacy
+* Privacy
+* Accessibility
+* click the "+" (If this is disabled you need to click the lock in the bottom left)
+* Find League of Legends under applications
+* Click "Open" to add it
+
 Steps when using the program:
 * Open LoL and macLogger.py
 * Run MacLogger.py and begin League game
