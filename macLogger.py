@@ -52,6 +52,7 @@ def on_click(x, y, button, pressed):
 
     if x == 0 and y == 0 and button == mouse.Button.left:
         Beep()
+        Beep()
         keyboardListener.stop()
         return False
 
