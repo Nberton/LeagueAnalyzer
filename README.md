@@ -30,3 +30,9 @@ Steps when using the program:
    to end the program.  There should be an audible "Beep" signaling
    the program has ended.
 * Create a ReadMe to record the champion and lane position.
+
+
+Created a executable file to help gather data
+* Download 'dist' folder
+* Run through terminal
+* Ensure that you grant accessibility to terminal (see above steps for league)
