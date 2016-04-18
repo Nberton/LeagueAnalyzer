@@ -60,7 +60,7 @@ def on_click(x, y, button, pressed):
     fp = open("mouselogs.txt", "a")
 
     fp.write("%.5f - %d,%d - %s\n" %(currentTime, x, y, button))
-    print "%.5f - %d,%d - %s" %(currentTime, x, y, button)
+    # print "%.5f - %d,%d - %s" %(currentTime, x, y, button)
     fp.close()
 
 
@@ -75,7 +75,7 @@ def on_press(key):
     except:
         fp.write("%.5f - %s\n" % (currentTime, key))
 
-    print key
+    # print key
 
     fp.close()
 
