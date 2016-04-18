@@ -60,12 +60,13 @@ def on_click(x, y, button, pressed):
     fp = open("mouselogs.txt", "a")
 
     fp.write("%.5f - %d,%d - %s\n" %(currentTime, x, y, button))
+    print "%.5f - %d,%d - %s" %(currentTime, x, y, button)
     fp.close()
 
 
 def on_press(key):
-    if key == keyboard.Key.esc:
-        return False
+    # if key == keyboard.Key.esc:
+    #     return False
 
     currentTime = time.time() - start
     fp = open("keylogs.txt", "a")
@@ -73,6 +74,8 @@ def on_press(key):
         fp.write( "%.5f - %c\n" %(currentTime, key.char))
     except:
         fp.write("%.5f - %s\n" % (currentTime, key))
+
+    print key
 
     fp.close()
 
@@ -82,6 +85,8 @@ if __name__ == "__main__":
     newFolder = "Data/Game%d" %gameNumber
     os.makedirs(newFolder)
     os.chdir(newFolder)
+    readme = open("ReadMe.txt", "a")
+    readme.close()
     start = time.time()
 
     # Collect events until released
