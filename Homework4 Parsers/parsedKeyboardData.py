@@ -1,4 +1,5 @@
 f = open('keylogs.txt','r')
+
 output = open('keylogs_parse.txt','w')
 for line in f:
     newLine = line.strip().split('-')

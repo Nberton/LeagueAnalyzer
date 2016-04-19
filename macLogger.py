@@ -87,6 +87,7 @@ if __name__ == "__main__":
     os.chdir(newFolder)
     readme = open("ReadMe.txt", "a")
     readme.close()
+    os.mkdir('Parsed Data')
     start = time.time()
 
     # Collect events until released

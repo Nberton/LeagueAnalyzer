@@ -1,2 +1,2 @@
-Played as Annie mid lane.
-Bot game
+Xin Zhao
+Jungle
