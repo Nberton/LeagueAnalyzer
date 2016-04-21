@@ -19,11 +19,11 @@ var svg = d3.select("#para").append("svg")
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-d3.csv("cars.csv", function(error, cars) {
+d3.csv("test.csv", function(error, cars) {
 
   // Extract the list of dimensions and create a scale for each.
   x.domain(dimensions = d3.keys(cars[0]).filter(function(d) {
-    return d != "name" && (y[d] = d3.scale.linear()
+    return d!= 'Champion' && d!='Lane' && d != "name" && (y[d] = d3.scale.linear()
         .domain(d3.extent(cars, function(p) { return +p[d]; }))
         .range([height, 0]));
   }));
