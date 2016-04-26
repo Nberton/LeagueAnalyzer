@@ -4,12 +4,12 @@ import os
 
 dir = "../Data"
 
-output = open("collectedAPM.csv", "w")
+output = open("../StreamGraph/collectedAPMSeconds.csv", "w")
 
 output.write("game,time,actions")
 
 for folder in os.listdir(dir):
-    filename = folder + "/actionsPerMinute.csv"
+    filename = dir + "/" +  folder + "/Parsed Data/actionsPer10Second.csv"
     time = 0
     file  = open(filename, "r")
     for line in file:
@@ -20,14 +20,14 @@ for folder in os.listdir(dir):
 
             while( time+1 < newTime):
                 time += 1
-                output.write("\n%s,%d,%d" %(folder, time, 0))
+                output.write("\n%s,%d,%d" %(folder[4:], time, 0))
 
             time = newTime
-            output.write("\n%s,%d,%d" %(folder, time, number))
+            output.write("\n%s,%d,%d" %(folder[4:], time, number))
 
-    while (time < 50):
+    while (time < 250):
         time += 1
-        output.write("\n%s,%d,%d" %(folder, time, 0))
+        output.write("\n%s,%d,%d" %(folder[4:], time, 0))
 
     file.close()
 output.close()

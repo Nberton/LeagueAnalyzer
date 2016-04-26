@@ -5,13 +5,13 @@ def ParseMouse(input, output):
     for line in input:
         newLine = line.strip().split('-')
         time = float(newLine[0])
-        position = newLine[1]
-        button = newLine[2]
+        position = newLine[1].strip()
+        button = newLine[2].strip()
 
         color = ''
-        if button == mouse.Button.right:
+        if button == "Button.right":
             color = 'blue'
-        elif button == mouse.Button.left:
+        elif button == "Button.left":
             color = 'red'
         else:
             color = 'green'
@@ -20,9 +20,7 @@ def ParseMouse(input, output):
         pos_x = int(position[0])
         pos_y = int(position[1])
 
-
-
-        output.write("{x:%.3f, y:%d, z:%d, fillColor:'%s'},\n" % (time, pos_y, pos_x, color))
+        output.write('{"x":%.3f, "y":-%d, "z":-%d, "fillColor":"%s"}\n' % (time, pos_y, pos_x, color))
 
 
 def ParseGameFolder(gameFolder):
