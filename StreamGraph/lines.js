@@ -34,7 +34,7 @@ var svg = d3.select("body").append("svg")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 
-d3.csv("collectedAPM.csv", function (data) {
+d3.csv("collectedAPMSeconds.csv", function (data) {
     data.forEach(function(d) {
         d.time = +d.time;
         d.actions = +d.actions;

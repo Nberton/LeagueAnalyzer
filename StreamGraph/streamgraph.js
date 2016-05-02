@@ -4,7 +4,7 @@
     Minor code changes done by Marshall Shortledge
  */
 
-chart("collectedAPM.csv", "orange");
+chart("collectedAPMSeconds.csv", "orange");
 
 var datearray = [];
 var colorrange = [];
@@ -23,7 +23,8 @@ function chart(csvpath, color) {
     }
     strokecolor = colorrange[0];
 
-    var format = d3.time.format("%M");
+    var format = d3.time.format("%L");
+
 
     var margin = {top: 20, right: 40, bottom: 30, left: 30};
     var width = document.body.clientWidth - margin.left - margin.right;
@@ -125,11 +126,11 @@ function chart(csvpath, color) {
                 mousex = d3.mouse(this);
                 mousex = mousex[0];
                 var invertedx = x.invert(mousex);
-                invertedx = invertedx.getMinutes();// + invertedx.getDate();
+                invertedx = invertedx.getMilliseconds();// + invertedx.getDate();
                 var selected = (d.values);
                 for (var k = 0; k < selected.length; k++) {
                     datearray[k] = selected[k].time
-                    datearray[k] = datearray[k].getMinutes(); //getMonth() + datearray[k].getDate();
+                    datearray[k] = datearray[k].getMilliseconds(); //getMonth() + datearray[k].getDate();
                 }
 
                 mousedate = datearray.indexOf(invertedx);

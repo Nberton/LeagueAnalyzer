@@ -94,11 +94,12 @@ $(function () {
     // Set up the chart
     //alert(options.series[0].data);
     var chart = new Highcharts.Chart(options);
-    var fileName = "";
+    var fileName = "../Data/Game1/Parsed Data/mouseParse - Scatter.txt";
+    UpdateGraph();
 
     $('#gameID').change(function() {
         fileName = $('#gameID').val();
-        fileName = fileName + "/mouselogs_parse.txt";
+        fileName = "../Data/" + fileName + "/Parsed Data/mouseParse - Scatter.txt";
         UpdateGraph();
     });
 
