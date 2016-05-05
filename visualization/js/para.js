@@ -11,7 +11,7 @@ d3.csv('test.csv', function(data) {
 
   var blue_to_brown = d3.scale.linear()
   .domain([0, 170])
-  .range(["steelblue", "brown"])
+  .range(["steelblue", "red"])
   .interpolate(d3.interpolateLab);
 
   var colorC = function(d) { return colorgen(d.Champion); };
