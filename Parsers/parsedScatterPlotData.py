@@ -2,6 +2,7 @@ import os
 from pynput import mouse
 
 def ParseMouse(input, output):
+    output.write("z,y,x,button")
     for line in input:
         newLine = line.strip().split('-')
         time = float(newLine[0])
@@ -10,9 +11,9 @@ def ParseMouse(input, output):
 
         color = ''
         if button == "Button.right":
-            color = 'blue'
+            color = 'right'
         elif button == "Button.left":
-            color = 'red'
+            color = 'left'
         else:
             color = 'green'
 
@@ -20,8 +21,8 @@ def ParseMouse(input, output):
         pos_x = int(position[0])
         pos_y = int(position[1])
 
-        output.write('{"x":%.3f, "y":-%d, "z":-%d, "fillColor":"%s"}\n' % (time, pos_y, pos_x, color))
-
+        #output.write('{"x":%.3f, "y":-%d, "z":-%d, "fillColor":"%s"}\n' % (time, pos_y, pos_x, color))
+        output.write('\n%.3f,-%d,%d,%s' % (time, pos_y, pos_x, color))
 
 def ParseGameFolder(gameFolder):
     mouseLogs = open(gameFolder + '/mouselogs.txt', 'r')
