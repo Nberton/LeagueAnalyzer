@@ -1,30 +1,53 @@
 
+<head>
+	<!-- Plotly.js -->
+	<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+</head>
+<body>
+<!-- Plotly chart will be drawn inside this DIV -->
+<button onclick="handleFiles()">Click Me!</button>
+<select id="games"></select>
+<div id="myDiv" style="width:100%;height:100%"></div>
+<script src="scatter-plotly.js"> </script>
+</body>
 
-<script src="https://code.highcharts.com/highcharts.js"></script>
-<script src="https://code.highcharts.com/highcharts-3d.js"></script>
-<script src="https://code.highcharts.com/modules/exporting.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
-<script src="scatter.js"></script>
+<!--<head>-->
+	<!--<script src="three.js"></script>-->
+	<!--<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>-->
 
-<style type="text/css">
-#container {
-    height: 800px; 
-    min-width: 310px; 
-    max-width: 800px;
-    margin: 0 auto;
-}
-</style>
 
-<h3>Please Select a Game:</h3>
-<select id="gameID">
-	<option></option>
-	<option value="Game1">Game 1</option>
-	<option value="Game2">Game 2</option>
-	<option value="Game3">Game 3</option>
-	<option value="Game4">Game 4</option>
-	<option value="Game5">Game 5</option>
-</select>
+	<!--<style type="text/css">-->
+		<!--#container {-->
+			<!--height: 800px;-->
+			<!--min-width: 310px;-->
+			<!--max-width: 800px;-->
+			<!--margin: 0 auto;-->
+		<!--}-->
+	<!--</style>-->
+<!--</head>-->
 
-<div class="chart-container">
-	<div id="container" style="height: 400px"></div>	
-</div>
+
+<!--<div id="wrapper">-->
+	<!--<p>-->
+		<!--<input id="uploader" name="uploader" type="file" />-->
+	<!--</p>-->
+	<!--<div id="container"></div>-->
+<!--</div>-->
+<!--<body>-->
+<!--<script src="scatterWebGL.js"></script>-->
+<!--</body>-->
+
+<!--<h3>Please Select a Game:</h3>-->
+<!--<select id="gameID">-->
+	<!--<option></option>-->
+	<!--<option value="Game1">Game 1</option>-->
+	<!--<option value="Game2">Game 2</option>-->
+	<!--<option value="Game3">Game 3</option>-->
+	<!--<option value="Game4">Game 4</option>-->
+	<!--<option value="Game5">Game 5</option>-->
+<!--</select>-->
+
+<!--<div class="chart-container">-->
+	<!--<div id="container" style="height: 400px"></div>	-->
+<!--</div>-->

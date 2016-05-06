@@ -1,2242 +1,2243 @@
-{"x":0.468, "y":-742, "z":-1102, "fillColor":"blue"}
-{"x":0.576, "y":-613, "z":-1093, "fillColor":"blue"}
-{"x":0.683, "y":-514, "z":-1183, "fillColor":"blue"}
-{"x":0.791, "y":-507, "z":-1188, "fillColor":"blue"}
-{"x":0.898, "y":-342, "z":-1158, "fillColor":"blue"}
-{"x":1.025, "y":-362, "z":-1141, "fillColor":"blue"}
-{"x":1.146, "y":-363, "z":-1147, "fillColor":"blue"}
-{"x":1.269, "y":-368, "z":-1155, "fillColor":"blue"}
-{"x":1.372, "y":-384, "z":-1168, "fillColor":"blue"}
-{"x":1.483, "y":-420, "z":-1151, "fillColor":"blue"}
-{"x":1.597, "y":-414, "z":-1175, "fillColor":"blue"}
-{"x":1.715, "y":-433, "z":-1153, "fillColor":"blue"}
-{"x":1.814, "y":-481, "z":-1164, "fillColor":"blue"}
-{"x":1.902, "y":-486, "z":-1159, "fillColor":"blue"}
-{"x":2.325, "y":-495, "z":-1120, "fillColor":"blue"}
-{"x":2.420, "y":-501, "z":-1095, "fillColor":"blue"}
-{"x":2.530, "y":-503, "z":-1094, "fillColor":"blue"}
-{"x":2.630, "y":-504, "z":-1090, "fillColor":"blue"}
-{"x":3.018, "y":-454, "z":-1103, "fillColor":"blue"}
-{"x":3.106, "y":-451, "z":-1103, "fillColor":"blue"}
-{"x":4.002, "y":-1093, "z":-782, "fillColor":"red"}
-{"x":4.096, "y":-1092, "z":-782, "fillColor":"red"}
-{"x":4.738, "y":-527, "z":-1086, "fillColor":"blue"}
-{"x":4.809, "y":-527, "z":-1084, "fillColor":"blue"}
-{"x":4.934, "y":-519, "z":-1069, "fillColor":"blue"}
-{"x":5.041, "y":-519, "z":-1071, "fillColor":"blue"}
-{"x":5.229, "y":-535, "z":-1094, "fillColor":"blue"}
-{"x":5.350, "y":-540, "z":-1094, "fillColor":"blue"}
-{"x":5.453, "y":-540, "z":-1094, "fillColor":"blue"}
-{"x":5.572, "y":-542, "z":-1086, "fillColor":"blue"}
-{"x":5.668, "y":-542, "z":-1086, "fillColor":"blue"}
-{"x":5.792, "y":-542, "z":-1086, "fillColor":"blue"}
-{"x":5.891, "y":-542, "z":-1086, "fillColor":"blue"}
-{"x":6.004, "y":-542, "z":-1085, "fillColor":"blue"}
-{"x":6.508, "y":-444, "z":-1022, "fillColor":"blue"}
-{"x":6.632, "y":-444, "z":-1022, "fillColor":"blue"}
-{"x":7.540, "y":-544, "z":-1070, "fillColor":"blue"}
-{"x":7.639, "y":-545, "z":-1070, "fillColor":"blue"}
-{"x":8.585, "y":-394, "z":-1096, "fillColor":"blue"}
-{"x":8.628, "y":-394, "z":-1096, "fillColor":"blue"}
-{"x":9.110, "y":-381, "z":-1246, "fillColor":"blue"}
-{"x":9.199, "y":-381, "z":-1254, "fillColor":"blue"}
-{"x":9.732, "y":-337, "z":-1491, "fillColor":"blue"}
-{"x":9.831, "y":-353, "z":-1534, "fillColor":"blue"}
-{"x":9.926, "y":-447, "z":-1473, "fillColor":"blue"}
-{"x":10.021, "y":-515, "z":-1442, "fillColor":"blue"}
-{"x":10.129, "y":-528, "z":-1475, "fillColor":"blue"}
-{"x":10.225, "y":-532, "z":-1487, "fillColor":"blue"}
-{"x":10.325, "y":-541, "z":-1571, "fillColor":"blue"}
-{"x":10.431, "y":-572, "z":-1584, "fillColor":"blue"}
-{"x":10.517, "y":-573, "z":-1584, "fillColor":"blue"}
-{"x":10.604, "y":-583, "z":-1582, "fillColor":"blue"}
-{"x":10.703, "y":-582, "z":-1600, "fillColor":"blue"}
-{"x":10.795, "y":-584, "z":-1598, "fillColor":"blue"}
-{"x":10.896, "y":-583, "z":-1607, "fillColor":"blue"}
-{"x":10.986, "y":-583, "z":-1607, "fillColor":"blue"}
-{"x":11.090, "y":-563, "z":-1616, "fillColor":"blue"}
-{"x":11.199, "y":-563, "z":-1620, "fillColor":"blue"}
-{"x":14.110, "y":-1237, "z":-1390, "fillColor":"red"}
-{"x":14.181, "y":-1237, "z":-1390, "fillColor":"red"}
-{"x":20.309, "y":-278, "z":-1153, "fillColor":"blue"}
-{"x":20.419, "y":-278, "z":-1153, "fillColor":"blue"}
-{"x":23.431, "y":-619, "z":-214, "fillColor":"red"}
-{"x":23.507, "y":-619, "z":-214, "fillColor":"red"}
-{"x":24.374, "y":-380, "z":-1309, "fillColor":"blue"}
-{"x":24.518, "y":-373, "z":-1314, "fillColor":"blue"}
-{"x":25.563, "y":-1128, "z":-1892, "fillColor":"red"}
-{"x":25.651, "y":-1128, "z":-1891, "fillColor":"red"}
-{"x":27.597, "y":-1047, "z":-1809, "fillColor":"red"}
-{"x":27.723, "y":-1047, "z":-1809, "fillColor":"red"}
-{"x":37.107, "y":-1132, "z":-1878, "fillColor":"red"}
-{"x":37.208, "y":-1132, "z":-1878, "fillColor":"red"}
-{"x":41.729, "y":-1195, "z":-2010, "fillColor":"red"}
-{"x":41.833, "y":-1199, "z":-2010, "fillColor":"red"}
-{"x":46.674, "y":-577, "z":-1086, "fillColor":"blue"}
-{"x":46.855, "y":-554, "z":-1067, "fillColor":"blue"}
-{"x":46.908, "y":-529, "z":-1061, "fillColor":"blue"}
-{"x":47.001, "y":-540, "z":-1076, "fillColor":"blue"}
-{"x":47.071, "y":-537, "z":-1077, "fillColor":"blue"}
-{"x":47.182, "y":-538, "z":-1085, "fillColor":"blue"}
-{"x":47.275, "y":-551, "z":-1119, "fillColor":"blue"}
-{"x":47.394, "y":-550, "z":-1113, "fillColor":"blue"}
-{"x":47.465, "y":-550, "z":-1113, "fillColor":"blue"}
-{"x":47.575, "y":-550, "z":-1111, "fillColor":"blue"}
-{"x":47.655, "y":-552, "z":-1109, "fillColor":"blue"}
-{"x":47.765, "y":-560, "z":-1108, "fillColor":"blue"}
-{"x":47.854, "y":-559, "z":-1107, "fillColor":"blue"}
-{"x":47.965, "y":-559, "z":-1107, "fillColor":"blue"}
-{"x":48.050, "y":-553, "z":-1110, "fillColor":"blue"}
-{"x":48.153, "y":-553, "z":-1111, "fillColor":"blue"}
-{"x":48.239, "y":-553, "z":-1111, "fillColor":"blue"}
-{"x":48.342, "y":-553, "z":-1111, "fillColor":"blue"}
-{"x":48.434, "y":-553, "z":-1110, "fillColor":"blue"}
-{"x":48.551, "y":-553, "z":-1109, "fillColor":"blue"}
-{"x":48.638, "y":-554, "z":-1109, "fillColor":"blue"}
-{"x":48.745, "y":-554, "z":-1109, "fillColor":"blue"}
-{"x":48.826, "y":-554, "z":-1109, "fillColor":"blue"}
-{"x":48.937, "y":-554, "z":-1108, "fillColor":"blue"}
-{"x":49.033, "y":-554, "z":-1108, "fillColor":"blue"}
-{"x":49.149, "y":-554, "z":-1108, "fillColor":"blue"}
-{"x":49.238, "y":-554, "z":-1108, "fillColor":"blue"}
-{"x":49.345, "y":-554, "z":-1108, "fillColor":"blue"}
-{"x":49.438, "y":-554, "z":-1108, "fillColor":"blue"}
-{"x":49.554, "y":-554, "z":-1108, "fillColor":"blue"}
-{"x":49.648, "y":-554, "z":-1108, "fillColor":"blue"}
-{"x":49.766, "y":-554, "z":-1108, "fillColor":"blue"}
-{"x":49.858, "y":-554, "z":-1108, "fillColor":"blue"}
-{"x":49.991, "y":-554, "z":-1108, "fillColor":"blue"}
-{"x":50.102, "y":-554, "z":-1108, "fillColor":"blue"}
-{"x":50.217, "y":-554, "z":-1108, "fillColor":"blue"}
-{"x":50.721, "y":-621, "z":-1115, "fillColor":"blue"}
-{"x":50.825, "y":-630, "z":-1112, "fillColor":"blue"}
-{"x":51.220, "y":-648, "z":-1102, "fillColor":"blue"}
-{"x":51.331, "y":-648, "z":-1102, "fillColor":"blue"}
-{"x":57.602, "y":-749, "z":-757, "fillColor":"blue"}
-{"x":57.698, "y":-749, "z":-757, "fillColor":"blue"}
-{"x":58.501, "y":-603, "z":-1082, "fillColor":"blue"}
-{"x":58.578, "y":-592, "z":-1084, "fillColor":"blue"}
-{"x":58.696, "y":-551, "z":-1113, "fillColor":"blue"}
-{"x":58.793, "y":-483, "z":-1122, "fillColor":"blue"}
-{"x":58.875, "y":-403, "z":-1151, "fillColor":"blue"}
-{"x":58.977, "y":-416, "z":-1163, "fillColor":"blue"}
-{"x":59.457, "y":-156, "z":-1222, "fillColor":"blue"}
-{"x":59.542, "y":-151, "z":-1222, "fillColor":"blue"}
-{"x":59.638, "y":-141, "z":-1225, "fillColor":"blue"}
-{"x":59.738, "y":-149, "z":-1230, "fillColor":"blue"}
-{"x":60.269, "y":-198, "z":-996, "fillColor":"blue"}
-{"x":60.365, "y":-201, "z":-996, "fillColor":"blue"}
-{"x":60.486, "y":-227, "z":-938, "fillColor":"blue"}
-{"x":60.587, "y":-263, "z":-870, "fillColor":"blue"}
-{"x":60.680, "y":-276, "z":-857, "fillColor":"blue"}
-{"x":60.804, "y":-326, "z":-845, "fillColor":"blue"}
-{"x":60.924, "y":-376, "z":-833, "fillColor":"blue"}
-{"x":61.030, "y":-386, "z":-832, "fillColor":"blue"}
-{"x":61.742, "y":-605, "z":-864, "fillColor":"blue"}
-{"x":61.831, "y":-676, "z":-810, "fillColor":"blue"}
-{"x":61.945, "y":-704, "z":-806, "fillColor":"blue"}
-{"x":62.021, "y":-762, "z":-758, "fillColor":"blue"}
-{"x":62.220, "y":-362, "z":-898, "fillColor":"blue"}
-{"x":62.302, "y":-411, "z":-900, "fillColor":"blue"}
-{"x":62.423, "y":-355, "z":-964, "fillColor":"blue"}
-{"x":62.528, "y":-291, "z":-1001, "fillColor":"blue"}
-{"x":62.617, "y":-250, "z":-1138, "fillColor":"blue"}
-{"x":62.723, "y":-262, "z":-1148, "fillColor":"blue"}
-{"x":62.818, "y":-286, "z":-1186, "fillColor":"blue"}
-{"x":62.935, "y":-374, "z":-1178, "fillColor":"blue"}
-{"x":63.029, "y":-408, "z":-1180, "fillColor":"blue"}
-{"x":63.127, "y":-502, "z":-1154, "fillColor":"blue"}
-{"x":63.465, "y":-763, "z":-1277, "fillColor":"blue"}
-{"x":63.573, "y":-805, "z":-1291, "fillColor":"blue"}
-{"x":63.699, "y":-850, "z":-1247, "fillColor":"blue"}
-{"x":63.815, "y":-833, "z":-1247, "fillColor":"blue"}
-{"x":63.983, "y":-651, "z":-1354, "fillColor":"blue"}
-{"x":64.075, "y":-447, "z":-1291, "fillColor":"blue"}
-{"x":64.163, "y":-436, "z":-1263, "fillColor":"blue"}
-{"x":64.271, "y":-442, "z":-1213, "fillColor":"blue"}
-{"x":64.370, "y":-370, "z":-1133, "fillColor":"blue"}
-{"x":64.472, "y":-355, "z":-1129, "fillColor":"blue"}
-{"x":64.550, "y":-285, "z":-1125, "fillColor":"blue"}
-{"x":64.657, "y":-315, "z":-1116, "fillColor":"blue"}
-{"x":65.082, "y":-648, "z":-1133, "fillColor":"blue"}
-{"x":65.153, "y":-667, "z":-1145, "fillColor":"blue"}
-{"x":65.256, "y":-662, "z":-1120, "fillColor":"blue"}
-{"x":65.389, "y":-748, "z":-1005, "fillColor":"blue"}
-{"x":65.487, "y":-795, "z":-959, "fillColor":"blue"}
-{"x":65.583, "y":-834, "z":-934, "fillColor":"blue"}
-{"x":65.676, "y":-849, "z":-886, "fillColor":"blue"}
-{"x":65.806, "y":-849, "z":-885, "fillColor":"blue"}
-{"x":65.867, "y":-849, "z":-874, "fillColor":"blue"}
-{"x":65.976, "y":-891, "z":-833, "fillColor":"blue"}
-{"x":66.066, "y":-920, "z":-730, "fillColor":"blue"}
-{"x":66.155, "y":-943, "z":-661, "fillColor":"blue"}
-{"x":66.241, "y":-934, "z":-658, "fillColor":"blue"}
-{"x":66.354, "y":-940, "z":-645, "fillColor":"blue"}
-{"x":66.566, "y":-623, "z":-868, "fillColor":"blue"}
-{"x":66.655, "y":-598, "z":-860, "fillColor":"blue"}
-{"x":66.732, "y":-439, "z":-982, "fillColor":"blue"}
-{"x":66.869, "y":-401, "z":-1045, "fillColor":"blue"}
-{"x":66.946, "y":-332, "z":-1102, "fillColor":"blue"}
-{"x":67.063, "y":-301, "z":-1120, "fillColor":"blue"}
-{"x":67.152, "y":-222, "z":-1174, "fillColor":"blue"}
-{"x":67.266, "y":-197, "z":-1188, "fillColor":"blue"}
-{"x":67.734, "y":-277, "z":-1239, "fillColor":"blue"}
-{"x":67.817, "y":-278, "z":-1240, "fillColor":"blue"}
-{"x":67.911, "y":-267, "z":-1313, "fillColor":"blue"}
-{"x":68.034, "y":-272, "z":-1314, "fillColor":"blue"}
-{"x":69.374, "y":-302, "z":-1262, "fillColor":"blue"}
-{"x":69.462, "y":-303, "z":-1272, "fillColor":"blue"}
-{"x":69.574, "y":-258, "z":-1330, "fillColor":"blue"}
-{"x":69.665, "y":-250, "z":-1337, "fillColor":"blue"}
-{"x":70.495, "y":-390, "z":-1187, "fillColor":"blue"}
-{"x":70.599, "y":-390, "z":-1187, "fillColor":"blue"}
-{"x":71.108, "y":-354, "z":-1286, "fillColor":"blue"}
-{"x":71.222, "y":-356, "z":-1295, "fillColor":"blue"}
-{"x":71.916, "y":-178, "z":-1330, "fillColor":"blue"}
-{"x":72.056, "y":-197, "z":-1314, "fillColor":"blue"}
-{"x":72.139, "y":-252, "z":-1328, "fillColor":"blue"}
-{"x":72.270, "y":-362, "z":-1332, "fillColor":"blue"}
-{"x":72.352, "y":-483, "z":-1335, "fillColor":"blue"}
-{"x":72.455, "y":-562, "z":-1333, "fillColor":"blue"}
-{"x":72.549, "y":-554, "z":-1345, "fillColor":"blue"}
-{"x":72.650, "y":-550, "z":-1348, "fillColor":"blue"}
-{"x":74.059, "y":-642, "z":-1199, "fillColor":"blue"}
-{"x":74.150, "y":-642, "z":-1200, "fillColor":"blue"}
-{"x":75.700, "y":-680, "z":-1133, "fillColor":"blue"}
-{"x":75.797, "y":-680, "z":-1133, "fillColor":"blue"}
-{"x":79.798, "y":-208, "z":-1320, "fillColor":"blue"}
-{"x":79.891, "y":-208, "z":-1321, "fillColor":"blue"}
-{"x":80.005, "y":-218, "z":-1389, "fillColor":"blue"}
-{"x":80.129, "y":-218, "z":-1394, "fillColor":"blue"}
-{"x":80.682, "y":-338, "z":-1537, "fillColor":"blue"}
-{"x":80.785, "y":-338, "z":-1536, "fillColor":"blue"}
-{"x":80.873, "y":-335, "z":-1533, "fillColor":"blue"}
-{"x":80.996, "y":-326, "z":-1529, "fillColor":"blue"}
-{"x":81.515, "y":-209, "z":-1334, "fillColor":"blue"}
-{"x":81.614, "y":-214, "z":-1324, "fillColor":"blue"}
-{"x":81.683, "y":-273, "z":-1275, "fillColor":"blue"}
-{"x":81.808, "y":-322, "z":-1250, "fillColor":"blue"}
-{"x":81.878, "y":-334, "z":-1242, "fillColor":"blue"}
-{"x":81.997, "y":-373, "z":-1197, "fillColor":"blue"}
-{"x":82.552, "y":-421, "z":-1065, "fillColor":"blue"}
-{"x":82.627, "y":-434, "z":-1072, "fillColor":"blue"}
-{"x":83.495, "y":-595, "z":-792, "fillColor":"blue"}
-{"x":83.614, "y":-596, "z":-799, "fillColor":"blue"}
-{"x":84.776, "y":-345, "z":-1361, "fillColor":"blue"}
-{"x":84.879, "y":-348, "z":-1377, "fillColor":"blue"}
-{"x":85.004, "y":-358, "z":-1361, "fillColor":"blue"}
-{"x":85.116, "y":-379, "z":-1328, "fillColor":"blue"}
-{"x":85.716, "y":-443, "z":-1251, "fillColor":"blue"}
-{"x":85.808, "y":-474, "z":-1219, "fillColor":"blue"}
-{"x":86.473, "y":-628, "z":-1377, "fillColor":"blue"}
-{"x":86.562, "y":-628, "z":-1376, "fillColor":"blue"}
-{"x":86.657, "y":-677, "z":-1388, "fillColor":"blue"}
-{"x":86.757, "y":-744, "z":-1368, "fillColor":"blue"}
-{"x":87.173, "y":-923, "z":-1112, "fillColor":"blue"}
-{"x":87.293, "y":-922, "z":-1120, "fillColor":"blue"}
-{"x":87.800, "y":-446, "z":-1226, "fillColor":"blue"}
-{"x":87.899, "y":-380, "z":-1256, "fillColor":"blue"}
-{"x":87.987, "y":-337, "z":-1251, "fillColor":"blue"}
-{"x":88.081, "y":-332, "z":-1246, "fillColor":"blue"}
-{"x":88.163, "y":-359, "z":-1184, "fillColor":"blue"}
-{"x":88.280, "y":-438, "z":-1072, "fillColor":"blue"}
-{"x":88.359, "y":-432, "z":-1058, "fillColor":"blue"}
-{"x":88.482, "y":-437, "z":-1053, "fillColor":"blue"}
-{"x":88.565, "y":-443, "z":-1048, "fillColor":"blue"}
-{"x":88.662, "y":-448, "z":-1040, "fillColor":"blue"}
-{"x":88.748, "y":-448, "z":-1040, "fillColor":"blue"}
-{"x":88.848, "y":-448, "z":-1040, "fillColor":"blue"}
-{"x":89.174, "y":-568, "z":-918, "fillColor":"blue"}
-{"x":89.261, "y":-568, "z":-918, "fillColor":"blue"}
-{"x":89.356, "y":-580, "z":-894, "fillColor":"blue"}
-{"x":89.451, "y":-579, "z":-872, "fillColor":"blue"}
-{"x":89.551, "y":-528, "z":-830, "fillColor":"blue"}
-{"x":89.682, "y":-536, "z":-808, "fillColor":"blue"}
-{"x":89.752, "y":-538, "z":-783, "fillColor":"blue"}
-{"x":89.877, "y":-554, "z":-772, "fillColor":"blue"}
-{"x":89.970, "y":-554, "z":-772, "fillColor":"blue"}
-{"x":90.073, "y":-563, "z":-772, "fillColor":"blue"}
-{"x":90.190, "y":-561, "z":-770, "fillColor":"blue"}
-{"x":90.304, "y":-560, "z":-770, "fillColor":"blue"}
-{"x":91.060, "y":-476, "z":-810, "fillColor":"blue"}
-{"x":91.187, "y":-477, "z":-810, "fillColor":"blue"}
-{"x":91.630, "y":-553, "z":-795, "fillColor":"blue"}
-{"x":91.721, "y":-555, "z":-802, "fillColor":"blue"}
-{"x":94.453, "y":-658, "z":-714, "fillColor":"blue"}
-{"x":94.533, "y":-657, "z":-714, "fillColor":"blue"}
-{"x":96.136, "y":-500, "z":-953, "fillColor":"blue"}
-{"x":96.242, "y":-500, "z":-952, "fillColor":"blue"}
-{"x":96.526, "y":-373, "z":-1118, "fillColor":"blue"}
-{"x":96.627, "y":-373, "z":-1120, "fillColor":"blue"}
-{"x":96.873, "y":-352, "z":-1205, "fillColor":"blue"}
-{"x":96.979, "y":-353, "z":-1208, "fillColor":"blue"}
-{"x":97.791, "y":-516, "z":-916, "fillColor":"blue"}
-{"x":97.906, "y":-646, "z":-826, "fillColor":"blue"}
-{"x":98.242, "y":-459, "z":-797, "fillColor":"blue"}
-{"x":98.360, "y":-394, "z":-823, "fillColor":"blue"}
-{"x":99.666, "y":-1112, "z":-848, "fillColor":"red"}
-{"x":99.754, "y":-1111, "z":-846, "fillColor":"red"}
-{"x":100.287, "y":-668, "z":-682, "fillColor":"blue"}
-{"x":100.392, "y":-662, "z":-691, "fillColor":"blue"}
-{"x":101.745, "y":-418, "z":-1065, "fillColor":"blue"}
-{"x":101.838, "y":-418, "z":-1065, "fillColor":"blue"}
-{"x":102.381, "y":-370, "z":-1642, "fillColor":"blue"}
-{"x":102.690, "y":-357, "z":-1646, "fillColor":"blue"}
-{"x":102.786, "y":-338, "z":-1646, "fillColor":"blue"}
-{"x":102.889, "y":-341, "z":-1654, "fillColor":"blue"}
-{"x":102.999, "y":-339, "z":-1660, "fillColor":"blue"}
-{"x":103.106, "y":-341, "z":-1660, "fillColor":"blue"}
-{"x":103.826, "y":-319, "z":-1642, "fillColor":"blue"}
-{"x":103.913, "y":-283, "z":-1636, "fillColor":"blue"}
-{"x":104.018, "y":-203, "z":-1564, "fillColor":"blue"}
-{"x":104.124, "y":-272, "z":-1406, "fillColor":"blue"}
-{"x":104.206, "y":-315, "z":-1334, "fillColor":"blue"}
-{"x":104.310, "y":-323, "z":-1323, "fillColor":"blue"}
-{"x":107.237, "y":-428, "z":-1396, "fillColor":"blue"}
-{"x":107.332, "y":-441, "z":-1400, "fillColor":"blue"}
-{"x":107.423, "y":-445, "z":-1399, "fillColor":"blue"}
-{"x":107.531, "y":-448, "z":-1402, "fillColor":"blue"}
-{"x":107.723, "y":-432, "z":-1570, "fillColor":"blue"}
-{"x":107.828, "y":-387, "z":-1595, "fillColor":"blue"}
-{"x":107.913, "y":-239, "z":-1787, "fillColor":"blue"}
-{"x":108.023, "y":-247, "z":-1735, "fillColor":"blue"}
-{"x":108.892, "y":-232, "z":-1692, "fillColor":"blue"}
-{"x":109.000, "y":-232, "z":-1695, "fillColor":"blue"}
-{"x":109.460, "y":-439, "z":-1491, "fillColor":"blue"}
-{"x":109.556, "y":-439, "z":-1491, "fillColor":"blue"}
-{"x":110.013, "y":-422, "z":-1764, "fillColor":"blue"}
-{"x":110.109, "y":-424, "z":-1776, "fillColor":"blue"}
-{"x":110.877, "y":-307, "z":-1770, "fillColor":"blue"}
-{"x":110.972, "y":-303, "z":-1755, "fillColor":"blue"}
-{"x":111.649, "y":-395, "z":-1486, "fillColor":"blue"}
-{"x":111.751, "y":-396, "z":-1486, "fillColor":"blue"}
-{"x":112.234, "y":-452, "z":-1606, "fillColor":"blue"}
-{"x":112.330, "y":-450, "z":-1606, "fillColor":"blue"}
-{"x":112.543, "y":-289, "z":-1612, "fillColor":"blue"}
-{"x":112.670, "y":-283, "z":-1608, "fillColor":"blue"}
-{"x":113.236, "y":-250, "z":-1831, "fillColor":"blue"}
-{"x":113.327, "y":-268, "z":-1864, "fillColor":"blue"}
-{"x":113.457, "y":-268, "z":-1892, "fillColor":"blue"}
-{"x":113.574, "y":-300, "z":-1905, "fillColor":"blue"}
-{"x":114.032, "y":-51, "z":-1883, "fillColor":"blue"}
-{"x":114.137, "y":-42, "z":-1879, "fillColor":"blue"}
-{"x":114.239, "y":-53, "z":-1889, "fillColor":"blue"}
-{"x":114.348, "y":-107, "z":-1918, "fillColor":"blue"}
-{"x":114.659, "y":-187, "z":-1687, "fillColor":"blue"}
-{"x":114.751, "y":-173, "z":-1669, "fillColor":"blue"}
-{"x":114.858, "y":-172, "z":-1637, "fillColor":"blue"}
-{"x":114.950, "y":-180, "z":-1609, "fillColor":"blue"}
-{"x":115.054, "y":-175, "z":-1605, "fillColor":"blue"}
-{"x":115.153, "y":-191, "z":-1593, "fillColor":"blue"}
-{"x":115.261, "y":-214, "z":-1572, "fillColor":"blue"}
-{"x":115.370, "y":-263, "z":-1474, "fillColor":"blue"}
-{"x":115.460, "y":-321, "z":-1403, "fillColor":"blue"}
-{"x":115.581, "y":-425, "z":-1289, "fillColor":"blue"}
-{"x":115.667, "y":-461, "z":-1242, "fillColor":"blue"}
-{"x":115.781, "y":-480, "z":-1212, "fillColor":"blue"}
-{"x":115.870, "y":-460, "z":-1193, "fillColor":"blue"}
-{"x":115.978, "y":-476, "z":-1167, "fillColor":"blue"}
-{"x":116.060, "y":-501, "z":-1104, "fillColor":"blue"}
-{"x":116.150, "y":-501, "z":-1104, "fillColor":"blue"}
-{"x":116.724, "y":-499, "z":-994, "fillColor":"blue"}
-{"x":116.839, "y":-498, "z":-994, "fillColor":"blue"}
-{"x":116.924, "y":-508, "z":-981, "fillColor":"blue"}
-{"x":117.045, "y":-545, "z":-921, "fillColor":"blue"}
-{"x":117.145, "y":-582, "z":-891, "fillColor":"blue"}
-{"x":117.251, "y":-607, "z":-875, "fillColor":"blue"}
-{"x":118.276, "y":-415, "z":-950, "fillColor":"blue"}
-{"x":118.377, "y":-430, "z":-1000, "fillColor":"blue"}
-{"x":118.456, "y":-432, "z":-975, "fillColor":"blue"}
-{"x":118.579, "y":-621, "z":-821, "fillColor":"blue"}
-{"x":118.669, "y":-693, "z":-771, "fillColor":"blue"}
-{"x":118.759, "y":-728, "z":-746, "fillColor":"blue"}
-{"x":118.939, "y":-542, "z":-1133, "fillColor":"blue"}
-{"x":119.044, "y":-642, "z":-1182, "fillColor":"blue"}
-{"x":119.141, "y":-697, "z":-1175, "fillColor":"blue"}
-{"x":119.223, "y":-701, "z":-1180, "fillColor":"blue"}
-{"x":119.337, "y":-727, "z":-1254, "fillColor":"blue"}
-{"x":119.424, "y":-731, "z":-1265, "fillColor":"blue"}
-{"x":119.552, "y":-617, "z":-1352, "fillColor":"blue"}
-{"x":119.645, "y":-616, "z":-1352, "fillColor":"blue"}
-{"x":119.737, "y":-550, "z":-1411, "fillColor":"blue"}
-{"x":119.849, "y":-547, "z":-1414, "fillColor":"blue"}
-{"x":119.941, "y":-533, "z":-1431, "fillColor":"blue"}
-{"x":120.045, "y":-535, "z":-1444, "fillColor":"blue"}
-{"x":120.521, "y":-638, "z":-1199, "fillColor":"blue"}
-{"x":120.616, "y":-638, "z":-1199, "fillColor":"blue"}
-{"x":120.948, "y":-364, "z":-1382, "fillColor":"blue"}
-{"x":121.047, "y":-379, "z":-1369, "fillColor":"blue"}
-{"x":121.138, "y":-388, "z":-1375, "fillColor":"blue"}
-{"x":121.244, "y":-416, "z":-1373, "fillColor":"blue"}
-{"x":121.341, "y":-339, "z":-1380, "fillColor":"blue"}
-{"x":121.461, "y":-351, "z":-1375, "fillColor":"blue"}
-{"x":121.566, "y":-318, "z":-1375, "fillColor":"blue"}
-{"x":121.634, "y":-317, "z":-1375, "fillColor":"blue"}
-{"x":122.120, "y":-245, "z":-1681, "fillColor":"blue"}
-{"x":122.238, "y":-245, "z":-1684, "fillColor":"blue"}
-{"x":122.792, "y":-500, "z":-1687, "fillColor":"blue"}
-{"x":122.844, "y":-513, "z":-1684, "fillColor":"blue"}
-{"x":123.498, "y":-828, "z":-1164, "fillColor":"blue"}
-{"x":123.598, "y":-838, "z":-1161, "fillColor":"blue"}
-{"x":125.044, "y":-451, "z":-1457, "fillColor":"blue"}
-{"x":125.133, "y":-392, "z":-1517, "fillColor":"blue"}
-{"x":125.220, "y":-243, "z":-1686, "fillColor":"blue"}
-{"x":125.319, "y":-224, "z":-1661, "fillColor":"blue"}
-{"x":125.388, "y":-145, "z":-1689, "fillColor":"blue"}
-{"x":125.497, "y":-144, "z":-1728, "fillColor":"blue"}
-{"x":125.939, "y":-174, "z":-1754, "fillColor":"blue"}
-{"x":126.031, "y":-193, "z":-1739, "fillColor":"blue"}
-{"x":126.974, "y":-290, "z":-1561, "fillColor":"blue"}
-{"x":127.057, "y":-285, "z":-1561, "fillColor":"blue"}
-{"x":127.708, "y":-253, "z":-1509, "fillColor":"blue"}
-{"x":127.801, "y":-247, "z":-1511, "fillColor":"blue"}
-{"x":128.938, "y":-235, "z":-1327, "fillColor":"blue"}
-{"x":129.028, "y":-235, "z":-1326, "fillColor":"blue"}
-{"x":129.137, "y":-246, "z":-1314, "fillColor":"blue"}
-{"x":129.220, "y":-246, "z":-1320, "fillColor":"blue"}
-{"x":129.344, "y":-217, "z":-1349, "fillColor":"blue"}
-{"x":129.428, "y":-219, "z":-1356, "fillColor":"blue"}
-{"x":129.549, "y":-322, "z":-1315, "fillColor":"blue"}
-{"x":129.632, "y":-367, "z":-1262, "fillColor":"blue"}
-{"x":129.739, "y":-425, "z":-1174, "fillColor":"blue"}
-{"x":129.834, "y":-467, "z":-1141, "fillColor":"blue"}
-{"x":129.931, "y":-523, "z":-1092, "fillColor":"blue"}
-{"x":130.024, "y":-566, "z":-1050, "fillColor":"blue"}
-{"x":130.132, "y":-591, "z":-1041, "fillColor":"blue"}
-{"x":130.233, "y":-630, "z":-979, "fillColor":"blue"}
-{"x":130.322, "y":-669, "z":-887, "fillColor":"blue"}
-{"x":130.420, "y":-673, "z":-889, "fillColor":"blue"}
-{"x":130.518, "y":-672, "z":-888, "fillColor":"blue"}
-{"x":130.602, "y":-670, "z":-891, "fillColor":"blue"}
-{"x":130.680, "y":-657, "z":-921, "fillColor":"blue"}
-{"x":130.778, "y":-674, "z":-894, "fillColor":"blue"}
-{"x":130.858, "y":-682, "z":-869, "fillColor":"blue"}
-{"x":130.953, "y":-811, "z":-727, "fillColor":"blue"}
-{"x":131.038, "y":-802, "z":-712, "fillColor":"blue"}
-{"x":131.151, "y":-841, "z":-698, "fillColor":"blue"}
-{"x":131.241, "y":-836, "z":-685, "fillColor":"blue"}
-{"x":131.338, "y":-838, "z":-682, "fillColor":"blue"}
-{"x":131.437, "y":-849, "z":-655, "fillColor":"blue"}
-{"x":131.563, "y":-856, "z":-651, "fillColor":"blue"}
-{"x":131.661, "y":-891, "z":-594, "fillColor":"blue"}
-{"x":131.759, "y":-977, "z":-508, "fillColor":"blue"}
-{"x":131.830, "y":-1022, "z":-431, "fillColor":"blue"}
-{"x":131.936, "y":-1097, "z":-378, "fillColor":"blue"}
-{"x":132.342, "y":-750, "z":-603, "fillColor":"blue"}
-{"x":132.418, "y":-843, "z":-524, "fillColor":"blue"}
-{"x":132.505, "y":-853, "z":-517, "fillColor":"blue"}
-{"x":132.709, "y":-959, "z":-494, "fillColor":"blue"}
-{"x":132.794, "y":-942, "z":-512, "fillColor":"blue"}
-{"x":132.817, "y":-941, "z":-512, "fillColor":"blue"}
-{"x":132.891, "y":-924, "z":-527, "fillColor":"blue"}
-{"x":132.991, "y":-942, "z":-480, "fillColor":"blue"}
-{"x":133.487, "y":-781, "z":-408, "fillColor":"blue"}
-{"x":133.574, "y":-812, "z":-394, "fillColor":"blue"}
-{"x":133.682, "y":-865, "z":-415, "fillColor":"blue"}
-{"x":133.779, "y":-887, "z":-380, "fillColor":"blue"}
-{"x":133.872, "y":-874, "z":-343, "fillColor":"blue"}
-{"x":133.980, "y":-888, "z":-336, "fillColor":"blue"}
-{"x":134.062, "y":-889, "z":-321, "fillColor":"blue"}
-{"x":134.160, "y":-889, "z":-321, "fillColor":"blue"}
-{"x":134.265, "y":-876, "z":-306, "fillColor":"blue"}
-{"x":134.333, "y":-874, "z":-307, "fillColor":"blue"}
-{"x":134.444, "y":-779, "z":-361, "fillColor":"blue"}
-{"x":134.543, "y":-775, "z":-365, "fillColor":"blue"}
-{"x":134.647, "y":-783, "z":-347, "fillColor":"blue"}
-{"x":134.744, "y":-816, "z":-312, "fillColor":"blue"}
-{"x":135.099, "y":-414, "z":-816, "fillColor":"blue"}
-{"x":135.198, "y":-411, "z":-828, "fillColor":"blue"}
-{"x":135.293, "y":-328, "z":-942, "fillColor":"blue"}
-{"x":135.406, "y":-336, "z":-977, "fillColor":"blue"}
-{"x":135.498, "y":-328, "z":-1057, "fillColor":"blue"}
-{"x":135.636, "y":-398, "z":-1076, "fillColor":"blue"}
-{"x":135.716, "y":-431, "z":-1140, "fillColor":"blue"}
-{"x":135.819, "y":-483, "z":-1130, "fillColor":"blue"}
-{"x":136.389, "y":-834, "z":-883, "fillColor":"blue"}
-{"x":136.481, "y":-828, "z":-877, "fillColor":"blue"}
-{"x":136.595, "y":-726, "z":-686, "fillColor":"blue"}
-{"x":136.696, "y":-728, "z":-684, "fillColor":"blue"}
-{"x":136.806, "y":-754, "z":-603, "fillColor":"blue"}
-{"x":136.896, "y":-793, "z":-446, "fillColor":"blue"}
-{"x":137.169, "y":-499, "z":-1208, "fillColor":"blue"}
-{"x":137.242, "y":-454, "z":-1273, "fillColor":"blue"}
-{"x":137.344, "y":-356, "z":-1414, "fillColor":"blue"}
-{"x":137.447, "y":-324, "z":-1347, "fillColor":"blue"}
-{"x":137.561, "y":-155, "z":-1376, "fillColor":"blue"}
-{"x":137.666, "y":-156, "z":-1380, "fillColor":"blue"}
-{"x":137.934, "y":-76, "z":-1398, "fillColor":"blue"}
-{"x":138.019, "y":-78, "z":-1399, "fillColor":"blue"}
-{"x":138.254, "y":-209, "z":-1479, "fillColor":"blue"}
-{"x":138.347, "y":-211, "z":-1491, "fillColor":"blue"}
-{"x":140.343, "y":-233, "z":-1610, "fillColor":"blue"}
-{"x":140.454, "y":-142, "z":-1668, "fillColor":"blue"}
-{"x":141.302, "y":-413, "z":-959, "fillColor":"blue"}
-{"x":141.403, "y":-405, "z":-957, "fillColor":"blue"}
-{"x":141.525, "y":-382, "z":-945, "fillColor":"blue"}
-{"x":141.643, "y":-372, "z":-945, "fillColor":"blue"}
-{"x":142.441, "y":-406, "z":-1397, "fillColor":"blue"}
-{"x":142.551, "y":-408, "z":-1399, "fillColor":"blue"}
-{"x":142.717, "y":-379, "z":-1479, "fillColor":"blue"}
-{"x":142.763, "y":-380, "z":-1479, "fillColor":"blue"}
-{"x":143.200, "y":-890, "z":-924, "fillColor":"blue"}
-{"x":143.296, "y":-723, "z":-1058, "fillColor":"blue"}
-{"x":143.384, "y":-645, "z":-1281, "fillColor":"blue"}
-{"x":143.480, "y":-770, "z":-1230, "fillColor":"blue"}
-{"x":143.780, "y":-451, "z":-1604, "fillColor":"blue"}
-{"x":143.882, "y":-454, "z":-1602, "fillColor":"blue"}
-{"x":144.704, "y":-1119, "z":-949, "fillColor":"red"}
-{"x":144.816, "y":-1105, "z":-948, "fillColor":"red"}
-{"x":145.103, "y":-513, "z":-1430, "fillColor":"blue"}
-{"x":145.212, "y":-512, "z":-1429, "fillColor":"blue"}
-{"x":145.302, "y":-514, "z":-1429, "fillColor":"blue"}
-{"x":145.408, "y":-516, "z":-1450, "fillColor":"blue"}
-{"x":145.685, "y":-475, "z":-1541, "fillColor":"blue"}
-{"x":145.742, "y":-455, "z":-1553, "fillColor":"blue"}
-{"x":145.835, "y":-411, "z":-1589, "fillColor":"blue"}
-{"x":145.947, "y":-410, "z":-1589, "fillColor":"blue"}
-{"x":146.027, "y":-403, "z":-1611, "fillColor":"blue"}
-{"x":146.135, "y":-403, "z":-1610, "fillColor":"blue"}
-{"x":146.244, "y":-403, "z":-1610, "fillColor":"blue"}
-{"x":146.350, "y":-403, "z":-1603, "fillColor":"blue"}
-{"x":146.693, "y":-263, "z":-1620, "fillColor":"blue"}
-{"x":146.807, "y":-248, "z":-1620, "fillColor":"blue"}
-{"x":147.157, "y":-319, "z":-1656, "fillColor":"blue"}
-{"x":147.258, "y":-342, "z":-1654, "fillColor":"blue"}
-{"x":147.371, "y":-369, "z":-1679, "fillColor":"blue"}
-{"x":147.467, "y":-367, "z":-1682, "fillColor":"blue"}
-{"x":147.591, "y":-311, "z":-1729, "fillColor":"blue"}
-{"x":147.677, "y":-311, "z":-1730, "fillColor":"blue"}
-{"x":147.900, "y":-244, "z":-1747, "fillColor":"blue"}
-{"x":147.985, "y":-241, "z":-1747, "fillColor":"blue"}
-{"x":148.076, "y":-181, "z":-1770, "fillColor":"blue"}
-{"x":148.191, "y":-197, "z":-1755, "fillColor":"blue"}
-{"x":148.577, "y":-267, "z":-1451, "fillColor":"blue"}
-{"x":148.674, "y":-266, "z":-1451, "fillColor":"blue"}
-{"x":148.762, "y":-237, "z":-1463, "fillColor":"blue"}
-{"x":148.857, "y":-240, "z":-1448, "fillColor":"blue"}
-{"x":148.935, "y":-230, "z":-1451, "fillColor":"blue"}
-{"x":149.038, "y":-235, "z":-1452, "fillColor":"blue"}
-{"x":149.178, "y":-204, "z":-1481, "fillColor":"blue"}
-{"x":149.310, "y":-173, "z":-1470, "fillColor":"blue"}
-{"x":149.411, "y":-148, "z":-1474, "fillColor":"blue"}
-{"x":149.501, "y":-104, "z":-1482, "fillColor":"blue"}
-{"x":149.558, "y":-13, "z":-1499, "fillColor":"blue"}
-{"x":149.670, "y":-10, "z":-1471, "fillColor":"blue"}
-{"x":150.105, "y":-601, "z":-1568, "fillColor":"blue"}
-{"x":150.209, "y":-597, "z":-1610, "fillColor":"blue"}
-{"x":150.299, "y":-514, "z":-1623, "fillColor":"blue"}
-{"x":150.411, "y":-547, "z":-1609, "fillColor":"blue"}
-{"x":150.490, "y":-539, "z":-1623, "fillColor":"blue"}
-{"x":150.604, "y":-561, "z":-1637, "fillColor":"blue"}
-{"x":150.678, "y":-501, "z":-1650, "fillColor":"blue"}
-{"x":150.801, "y":-498, "z":-1648, "fillColor":"blue"}
-{"x":150.887, "y":-484, "z":-1640, "fillColor":"blue"}
-{"x":150.995, "y":-482, "z":-1639, "fillColor":"blue"}
-{"x":151.072, "y":-467, "z":-1622, "fillColor":"blue"}
-{"x":151.177, "y":-458, "z":-1622, "fillColor":"blue"}
-{"x":151.259, "y":-438, "z":-1612, "fillColor":"blue"}
-{"x":151.391, "y":-426, "z":-1613, "fillColor":"blue"}
-{"x":151.460, "y":-403, "z":-1607, "fillColor":"blue"}
-{"x":151.621, "y":-357, "z":-1594, "fillColor":"blue"}
-{"x":151.662, "y":-348, "z":-1587, "fillColor":"blue"}
-{"x":151.825, "y":-337, "z":-1588, "fillColor":"blue"}
-{"x":151.907, "y":-325, "z":-1706, "fillColor":"blue"}
-{"x":152.007, "y":-317, "z":-1711, "fillColor":"blue"}
-{"x":152.124, "y":-200, "z":-1680, "fillColor":"blue"}
-{"x":152.204, "y":-198, "z":-1680, "fillColor":"blue"}
-{"x":152.300, "y":-74, "z":-1671, "fillColor":"blue"}
-{"x":152.410, "y":-105, "z":-1679, "fillColor":"blue"}
-{"x":152.919, "y":-269, "z":-1498, "fillColor":"blue"}
-{"x":153.021, "y":-281, "z":-1500, "fillColor":"blue"}
-{"x":153.129, "y":-278, "z":-1466, "fillColor":"blue"}
-{"x":153.224, "y":-281, "z":-1447, "fillColor":"blue"}
-{"x":153.349, "y":-246, "z":-1370, "fillColor":"blue"}
-{"x":153.478, "y":-289, "z":-1340, "fillColor":"blue"}
-{"x":153.622, "y":-387, "z":-1340, "fillColor":"blue"}
-{"x":153.723, "y":-386, "z":-1348, "fillColor":"blue"}
-{"x":153.904, "y":-326, "z":-1512, "fillColor":"blue"}
-{"x":154.002, "y":-320, "z":-1528, "fillColor":"blue"}
-{"x":154.640, "y":-243, "z":-1522, "fillColor":"blue"}
-{"x":154.793, "y":-225, "z":-1523, "fillColor":"blue"}
-{"x":154.901, "y":-224, "z":-1519, "fillColor":"blue"}
-{"x":155.006, "y":-224, "z":-1519, "fillColor":"blue"}
-{"x":163.404, "y":-1253, "z":-1314, "fillColor":"red"}
-{"x":163.491, "y":-1253, "z":-1314, "fillColor":"red"}
-{"x":165.737, "y":-383, "z":-1144, "fillColor":"blue"}
-{"x":165.840, "y":-382, "z":-1143, "fillColor":"blue"}
-{"x":168.144, "y":-1180, "z":-2013, "fillColor":"red"}
-{"x":168.237, "y":-1180, "z":-2013, "fillColor":"red"}
-{"x":174.076, "y":-416, "z":-933, "fillColor":"blue"}
-{"x":174.178, "y":-414, "z":-933, "fillColor":"blue"}
-{"x":174.273, "y":-415, "z":-933, "fillColor":"blue"}
-{"x":174.367, "y":-414, "z":-933, "fillColor":"blue"}
-{"x":174.470, "y":-406, "z":-927, "fillColor":"blue"}
-{"x":174.572, "y":-406, "z":-927, "fillColor":"blue"}
-{"x":174.672, "y":-398, "z":-923, "fillColor":"blue"}
-{"x":174.793, "y":-398, "z":-922, "fillColor":"blue"}
-{"x":174.876, "y":-398, "z":-922, "fillColor":"blue"}
-{"x":175.000, "y":-398, "z":-922, "fillColor":"blue"}
-{"x":175.259, "y":-433, "z":-978, "fillColor":"blue"}
-{"x":175.353, "y":-436, "z":-987, "fillColor":"blue"}
-{"x":175.467, "y":-433, "z":-1010, "fillColor":"blue"}
-{"x":175.577, "y":-433, "z":-1011, "fillColor":"blue"}
-{"x":176.222, "y":-496, "z":-1112, "fillColor":"blue"}
-{"x":176.289, "y":-498, "z":-1111, "fillColor":"blue"}
-{"x":176.395, "y":-541, "z":-1111, "fillColor":"blue"}
-{"x":176.483, "y":-557, "z":-1106, "fillColor":"blue"}
-{"x":177.180, "y":-1229, "z":-643, "fillColor":"blue"}
-{"x":177.292, "y":-1089, "z":-694, "fillColor":"blue"}
-{"x":177.449, "y":-1097, "z":-661, "fillColor":"blue"}
-{"x":177.480, "y":-1224, "z":-473, "fillColor":"blue"}
-{"x":177.846, "y":-596, "z":-754, "fillColor":"blue"}
-{"x":177.968, "y":-663, "z":-789, "fillColor":"blue"}
-{"x":178.315, "y":-742, "z":-712, "fillColor":"blue"}
-{"x":178.421, "y":-749, "z":-696, "fillColor":"blue"}
-{"x":178.520, "y":-776, "z":-645, "fillColor":"blue"}
-{"x":178.637, "y":-781, "z":-635, "fillColor":"blue"}
-{"x":178.767, "y":-756, "z":-644, "fillColor":"blue"}
-{"x":178.880, "y":-755, "z":-644, "fillColor":"blue"}
-{"x":179.193, "y":-673, "z":-674, "fillColor":"blue"}
-{"x":179.301, "y":-673, "z":-674, "fillColor":"blue"}
-{"x":179.443, "y":-666, "z":-676, "fillColor":"blue"}
-{"x":179.527, "y":-666, "z":-676, "fillColor":"blue"}
-{"x":179.653, "y":-652, "z":-704, "fillColor":"blue"}
-{"x":179.753, "y":-649, "z":-703, "fillColor":"blue"}
-{"x":182.241, "y":-462, "z":-993, "fillColor":"blue"}
-{"x":182.326, "y":-466, "z":-995, "fillColor":"blue"}
-{"x":182.411, "y":-467, "z":-991, "fillColor":"blue"}
-{"x":182.522, "y":-517, "z":-906, "fillColor":"blue"}
-{"x":182.592, "y":-547, "z":-881, "fillColor":"blue"}
-{"x":182.703, "y":-614, "z":-832, "fillColor":"blue"}
-{"x":182.775, "y":-623, "z":-811, "fillColor":"blue"}
-{"x":182.872, "y":-659, "z":-765, "fillColor":"blue"}
-{"x":182.980, "y":-658, "z":-769, "fillColor":"blue"}
-{"x":183.068, "y":-673, "z":-789, "fillColor":"blue"}
-{"x":183.164, "y":-665, "z":-797, "fillColor":"blue"}
-{"x":183.249, "y":-672, "z":-792, "fillColor":"blue"}
-{"x":183.345, "y":-667, "z":-776, "fillColor":"blue"}
-{"x":183.441, "y":-668, "z":-772, "fillColor":"blue"}
-{"x":183.719, "y":-546, "z":-973, "fillColor":"blue"}
-{"x":183.780, "y":-546, "z":-974, "fillColor":"blue"}
-{"x":183.906, "y":-485, "z":-1012, "fillColor":"blue"}
-{"x":183.983, "y":-485, "z":-1012, "fillColor":"blue"}
-{"x":184.103, "y":-467, "z":-1032, "fillColor":"blue"}
-{"x":184.197, "y":-469, "z":-1025, "fillColor":"blue"}
-{"x":184.323, "y":-489, "z":-956, "fillColor":"blue"}
-{"x":184.406, "y":-484, "z":-925, "fillColor":"blue"}
-{"x":184.519, "y":-456, "z":-939, "fillColor":"blue"}
-{"x":184.618, "y":-464, "z":-932, "fillColor":"blue"}
-{"x":184.751, "y":-662, "z":-835, "fillColor":"blue"}
-{"x":184.842, "y":-685, "z":-811, "fillColor":"blue"}
-{"x":185.007, "y":-687, "z":-798, "fillColor":"blue"}
-{"x":185.067, "y":-689, "z":-792, "fillColor":"blue"}
-{"x":185.317, "y":-688, "z":-781, "fillColor":"blue"}
-{"x":185.403, "y":-688, "z":-781, "fillColor":"blue"}
-{"x":185.738, "y":-685, "z":-774, "fillColor":"blue"}
-{"x":185.839, "y":-685, "z":-774, "fillColor":"blue"}
-{"x":186.347, "y":-432, "z":-1064, "fillColor":"blue"}
-{"x":186.423, "y":-431, "z":-1062, "fillColor":"blue"}
-{"x":187.246, "y":-340, "z":-1270, "fillColor":"blue"}
-{"x":187.329, "y":-338, "z":-1272, "fillColor":"blue"}
-{"x":187.434, "y":-322, "z":-1295, "fillColor":"blue"}
-{"x":187.534, "y":-324, "z":-1283, "fillColor":"blue"}
-{"x":188.043, "y":-448, "z":-1298, "fillColor":"blue"}
-{"x":188.128, "y":-499, "z":-1292, "fillColor":"blue"}
-{"x":188.583, "y":-410, "z":-1206, "fillColor":"blue"}
-{"x":188.652, "y":-384, "z":-1176, "fillColor":"blue"}
-{"x":188.758, "y":-369, "z":-1068, "fillColor":"blue"}
-{"x":188.840, "y":-435, "z":-973, "fillColor":"blue"}
-{"x":188.950, "y":-463, "z":-897, "fillColor":"blue"}
-{"x":189.037, "y":-523, "z":-815, "fillColor":"blue"}
-{"x":189.125, "y":-653, "z":-818, "fillColor":"blue"}
-{"x":189.227, "y":-699, "z":-811, "fillColor":"blue"}
-{"x":189.659, "y":-788, "z":-598, "fillColor":"blue"}
-{"x":189.742, "y":-785, "z":-590, "fillColor":"blue"}
-{"x":190.696, "y":-786, "z":-1406, "fillColor":"blue"}
-{"x":190.793, "y":-810, "z":-1413, "fillColor":"blue"}
-{"x":190.893, "y":-834, "z":-1550, "fillColor":"blue"}
-{"x":190.982, "y":-844, "z":-1550, "fillColor":"blue"}
-{"x":191.533, "y":-972, "z":-1522, "fillColor":"blue"}
-{"x":191.640, "y":-972, "z":-1520, "fillColor":"blue"}
-{"x":192.041, "y":-699, "z":-1685, "fillColor":"blue"}
-{"x":192.121, "y":-684, "z":-1692, "fillColor":"blue"}
-{"x":192.215, "y":-612, "z":-1719, "fillColor":"blue"}
-{"x":192.315, "y":-602, "z":-1730, "fillColor":"blue"}
-{"x":192.784, "y":-348, "z":-1402, "fillColor":"blue"}
-{"x":192.910, "y":-457, "z":-1427, "fillColor":"blue"}
-{"x":192.999, "y":-486, "z":-1422, "fillColor":"blue"}
-{"x":193.091, "y":-509, "z":-1228, "fillColor":"blue"}
-{"x":193.200, "y":-524, "z":-877, "fillColor":"blue"}
-{"x":193.294, "y":-537, "z":-847, "fillColor":"blue"}
-{"x":194.273, "y":-381, "z":-918, "fillColor":"blue"}
-{"x":194.368, "y":-402, "z":-887, "fillColor":"blue"}
-{"x":194.460, "y":-488, "z":-789, "fillColor":"blue"}
-{"x":194.553, "y":-518, "z":-736, "fillColor":"blue"}
-{"x":195.213, "y":-469, "z":-1107, "fillColor":"blue"}
-{"x":195.291, "y":-452, "z":-1138, "fillColor":"blue"}
-{"x":195.395, "y":-472, "z":-1202, "fillColor":"blue"}
-{"x":195.481, "y":-498, "z":-1224, "fillColor":"blue"}
-{"x":195.594, "y":-547, "z":-1325, "fillColor":"blue"}
-{"x":195.665, "y":-564, "z":-1311, "fillColor":"blue"}
-{"x":195.780, "y":-584, "z":-1306, "fillColor":"blue"}
-{"x":195.887, "y":-631, "z":-1265, "fillColor":"blue"}
-{"x":196.347, "y":-778, "z":-832, "fillColor":"blue"}
-{"x":196.449, "y":-755, "z":-881, "fillColor":"blue"}
-{"x":196.535, "y":-654, "z":-1062, "fillColor":"blue"}
-{"x":196.638, "y":-674, "z":-1032, "fillColor":"blue"}
-{"x":196.748, "y":-727, "z":-987, "fillColor":"blue"}
-{"x":196.842, "y":-732, "z":-983, "fillColor":"blue"}
-{"x":196.956, "y":-751, "z":-981, "fillColor":"blue"}
-{"x":197.049, "y":-787, "z":-949, "fillColor":"blue"}
-{"x":197.180, "y":-665, "z":-1126, "fillColor":"blue"}
-{"x":197.287, "y":-737, "z":-1061, "fillColor":"blue"}
-{"x":197.391, "y":-745, "z":-1052, "fillColor":"blue"}
-{"x":197.481, "y":-776, "z":-988, "fillColor":"blue"}
-{"x":197.578, "y":-733, "z":-1010, "fillColor":"blue"}
-{"x":197.665, "y":-741, "z":-1003, "fillColor":"blue"}
-{"x":197.754, "y":-747, "z":-996, "fillColor":"blue"}
-{"x":197.834, "y":-753, "z":-930, "fillColor":"blue"}
-{"x":197.918, "y":-741, "z":-937, "fillColor":"blue"}
-{"x":198.024, "y":-843, "z":-810, "fillColor":"blue"}
-{"x":198.108, "y":-839, "z":-801, "fillColor":"blue"}
-{"x":198.235, "y":-850, "z":-770, "fillColor":"blue"}
-{"x":198.287, "y":-856, "z":-738, "fillColor":"blue"}
-{"x":198.394, "y":-897, "z":-664, "fillColor":"blue"}
-{"x":198.496, "y":-893, "z":-659, "fillColor":"blue"}
-{"x":198.584, "y":-943, "z":-573, "fillColor":"blue"}
-{"x":198.664, "y":-941, "z":-568, "fillColor":"blue"}
-{"x":198.762, "y":-962, "z":-536, "fillColor":"blue"}
-{"x":198.836, "y":-985, "z":-474, "fillColor":"blue"}
-{"x":198.956, "y":-993, "z":-461, "fillColor":"blue"}
-{"x":199.351, "y":-705, "z":-846, "fillColor":"blue"}
-{"x":199.462, "y":-670, "z":-959, "fillColor":"blue"}
-{"x":199.539, "y":-639, "z":-996, "fillColor":"blue"}
-{"x":199.637, "y":-664, "z":-980, "fillColor":"blue"}
-{"x":199.726, "y":-601, "z":-1032, "fillColor":"blue"}
-{"x":199.832, "y":-590, "z":-1059, "fillColor":"blue"}
-{"x":199.929, "y":-486, "z":-1183, "fillColor":"blue"}
-{"x":200.015, "y":-522, "z":-1136, "fillColor":"blue"}
-{"x":201.212, "y":-569, "z":-948, "fillColor":"blue"}
-{"x":201.297, "y":-625, "z":-855, "fillColor":"blue"}
-{"x":201.384, "y":-580, "z":-878, "fillColor":"blue"}
-{"x":201.462, "y":-579, "z":-879, "fillColor":"blue"}
-{"x":201.583, "y":-556, "z":-915, "fillColor":"blue"}
-{"x":201.679, "y":-473, "z":-1090, "fillColor":"blue"}
-{"x":201.782, "y":-475, "z":-1091, "fillColor":"blue"}
-{"x":201.854, "y":-474, "z":-1093, "fillColor":"blue"}
-{"x":201.966, "y":-428, "z":-1151, "fillColor":"blue"}
-{"x":202.063, "y":-426, "z":-1151, "fillColor":"blue"}
-{"x":202.140, "y":-410, "z":-1170, "fillColor":"blue"}
-{"x":202.255, "y":-437, "z":-1130, "fillColor":"blue"}
-{"x":202.326, "y":-426, "z":-1146, "fillColor":"blue"}
-{"x":202.599, "y":-456, "z":-1119, "fillColor":"blue"}
-{"x":202.686, "y":-417, "z":-1124, "fillColor":"blue"}
-{"x":202.786, "y":-429, "z":-1119, "fillColor":"blue"}
-{"x":202.885, "y":-419, "z":-1130, "fillColor":"blue"}
-{"x":202.978, "y":-431, "z":-1114, "fillColor":"blue"}
-{"x":203.066, "y":-415, "z":-1116, "fillColor":"blue"}
-{"x":203.161, "y":-421, "z":-1108, "fillColor":"blue"}
-{"x":203.284, "y":-411, "z":-1129, "fillColor":"blue"}
-{"x":203.341, "y":-368, "z":-1163, "fillColor":"blue"}
-{"x":203.430, "y":-327, "z":-1231, "fillColor":"blue"}
-{"x":203.535, "y":-331, "z":-1217, "fillColor":"blue"}
-{"x":203.639, "y":-263, "z":-1262, "fillColor":"blue"}
-{"x":203.743, "y":-267, "z":-1276, "fillColor":"blue"}
-{"x":203.822, "y":-247, "z":-1323, "fillColor":"blue"}
-{"x":203.919, "y":-244, "z":-1318, "fillColor":"blue"}
-{"x":204.013, "y":-186, "z":-1385, "fillColor":"blue"}
-{"x":204.114, "y":-217, "z":-1370, "fillColor":"blue"}
-{"x":204.212, "y":-170, "z":-1412, "fillColor":"blue"}
-{"x":204.312, "y":-173, "z":-1418, "fillColor":"blue"}
-{"x":204.898, "y":-463, "z":-1340, "fillColor":"blue"}
-{"x":204.948, "y":-441, "z":-1355, "fillColor":"blue"}
-{"x":205.026, "y":-356, "z":-1424, "fillColor":"blue"}
-{"x":205.144, "y":-343, "z":-1428, "fillColor":"blue"}
-{"x":205.212, "y":-318, "z":-1430, "fillColor":"blue"}
-{"x":205.322, "y":-337, "z":-1378, "fillColor":"blue"}
-{"x":205.407, "y":-406, "z":-1292, "fillColor":"blue"}
-{"x":205.563, "y":-348, "z":-1399, "fillColor":"blue"}
-{"x":205.647, "y":-384, "z":-1382, "fillColor":"blue"}
-{"x":205.763, "y":-418, "z":-1369, "fillColor":"blue"}
-{"x":205.855, "y":-422, "z":-1347, "fillColor":"blue"}
-{"x":205.975, "y":-453, "z":-1326, "fillColor":"blue"}
-{"x":206.040, "y":-454, "z":-1308, "fillColor":"blue"}
-{"x":206.341, "y":-445, "z":-1358, "fillColor":"blue"}
-{"x":206.425, "y":-421, "z":-1340, "fillColor":"blue"}
-{"x":206.532, "y":-459, "z":-1300, "fillColor":"blue"}
-{"x":206.625, "y":-440, "z":-1297, "fillColor":"blue"}
-{"x":206.721, "y":-447, "z":-1298, "fillColor":"blue"}
-{"x":206.805, "y":-440, "z":-1310, "fillColor":"blue"}
-{"x":206.951, "y":-446, "z":-1304, "fillColor":"blue"}
-{"x":207.019, "y":-446, "z":-1308, "fillColor":"blue"}
-{"x":207.131, "y":-446, "z":-1309, "fillColor":"blue"}
-{"x":207.211, "y":-444, "z":-1308, "fillColor":"blue"}
-{"x":207.348, "y":-444, "z":-1310, "fillColor":"blue"}
-{"x":207.437, "y":-445, "z":-1310, "fillColor":"blue"}
-{"x":207.555, "y":-447, "z":-1311, "fillColor":"blue"}
-{"x":207.646, "y":-447, "z":-1332, "fillColor":"blue"}
-{"x":207.751, "y":-458, "z":-1304, "fillColor":"blue"}
-{"x":207.853, "y":-449, "z":-1297, "fillColor":"blue"}
-{"x":207.956, "y":-450, "z":-1298, "fillColor":"blue"}
-{"x":208.049, "y":-424, "z":-1325, "fillColor":"blue"}
-{"x":208.160, "y":-425, "z":-1324, "fillColor":"blue"}
-{"x":208.248, "y":-425, "z":-1324, "fillColor":"blue"}
-{"x":208.356, "y":-433, "z":-1317, "fillColor":"blue"}
-{"x":208.451, "y":-429, "z":-1329, "fillColor":"blue"}
-{"x":208.559, "y":-440, "z":-1317, "fillColor":"blue"}
-{"x":208.658, "y":-438, "z":-1336, "fillColor":"blue"}
-{"x":208.759, "y":-440, "z":-1332, "fillColor":"blue"}
-{"x":208.856, "y":-431, "z":-1338, "fillColor":"blue"}
-{"x":208.958, "y":-434, "z":-1333, "fillColor":"blue"}
-{"x":209.039, "y":-433, "z":-1331, "fillColor":"blue"}
-{"x":209.142, "y":-448, "z":-1316, "fillColor":"blue"}
-{"x":209.221, "y":-447, "z":-1310, "fillColor":"blue"}
-{"x":209.321, "y":-447, "z":-1314, "fillColor":"blue"}
-{"x":209.398, "y":-446, "z":-1340, "fillColor":"blue"}
-{"x":209.511, "y":-462, "z":-1335, "fillColor":"blue"}
-{"x":209.606, "y":-448, "z":-1361, "fillColor":"blue"}
-{"x":209.715, "y":-422, "z":-1470, "fillColor":"blue"}
-{"x":209.815, "y":-364, "z":-1529, "fillColor":"blue"}
-{"x":209.934, "y":-465, "z":-1525, "fillColor":"blue"}
-{"x":210.038, "y":-433, "z":-1608, "fillColor":"blue"}
-{"x":210.140, "y":-431, "z":-1623, "fillColor":"blue"}
-{"x":210.241, "y":-291, "z":-1762, "fillColor":"blue"}
-{"x":210.341, "y":-263, "z":-1859, "fillColor":"blue"}
-{"x":210.679, "y":-146, "z":-1836, "fillColor":"blue"}
-{"x":210.795, "y":-148, "z":-1851, "fillColor":"blue"}
-{"x":210.880, "y":-134, "z":-1848, "fillColor":"blue"}
-{"x":210.997, "y":-96, "z":-1944, "fillColor":"blue"}
-{"x":211.457, "y":-224, "z":-1548, "fillColor":"blue"}
-{"x":211.551, "y":-205, "z":-1556, "fillColor":"blue"}
-{"x":212.540, "y":-352, "z":-1572, "fillColor":"blue"}
-{"x":212.629, "y":-343, "z":-1577, "fillColor":"blue"}
-{"x":212.961, "y":-273, "z":-1600, "fillColor":"blue"}
-{"x":213.037, "y":-253, "z":-1612, "fillColor":"blue"}
-{"x":213.584, "y":-213, "z":-1665, "fillColor":"blue"}
-{"x":213.714, "y":-212, "z":-1665, "fillColor":"blue"}
-{"x":214.786, "y":-95, "z":-1498, "fillColor":"blue"}
-{"x":214.891, "y":-88, "z":-1471, "fillColor":"blue"}
-{"x":215.265, "y":-95, "z":-1454, "fillColor":"blue"}
-{"x":215.347, "y":-95, "z":-1445, "fillColor":"blue"}
-{"x":215.453, "y":-73, "z":-1452, "fillColor":"blue"}
-{"x":215.579, "y":-73, "z":-1453, "fillColor":"blue"}
-{"x":216.246, "y":-182, "z":-1351, "fillColor":"blue"}
-{"x":216.356, "y":-182, "z":-1351, "fillColor":"blue"}
-{"x":226.444, "y":-1247, "z":-1359, "fillColor":"red"}
-{"x":226.534, "y":-1247, "z":-1359, "fillColor":"red"}
-{"x":227.470, "y":-368, "z":-1004, "fillColor":"blue"}
-{"x":227.571, "y":-367, "z":-1004, "fillColor":"blue"}
-{"x":228.521, "y":-1155, "z":-1997, "fillColor":"red"}
-{"x":228.611, "y":-1158, "z":-1999, "fillColor":"red"}
-{"x":239.150, "y":-646, "z":-1214, "fillColor":"blue"}
-{"x":239.260, "y":-646, "z":-1213, "fillColor":"blue"}
-{"x":239.340, "y":-646, "z":-1213, "fillColor":"blue"}
-{"x":239.457, "y":-646, "z":-1212, "fillColor":"blue"}
-{"x":239.656, "y":-646, "z":-1212, "fillColor":"blue"}
-{"x":239.767, "y":-646, "z":-1211, "fillColor":"blue"}
-{"x":239.883, "y":-648, "z":-1211, "fillColor":"blue"}
-{"x":240.009, "y":-653, "z":-1208, "fillColor":"blue"}
-{"x":240.122, "y":-654, "z":-1208, "fillColor":"blue"}
-{"x":240.226, "y":-654, "z":-1208, "fillColor":"blue"}
-{"x":240.332, "y":-654, "z":-1208, "fillColor":"blue"}
-{"x":240.436, "y":-654, "z":-1208, "fillColor":"blue"}
-{"x":240.534, "y":-654, "z":-1208, "fillColor":"blue"}
-{"x":240.655, "y":-654, "z":-1207, "fillColor":"blue"}
-{"x":240.757, "y":-654, "z":-1207, "fillColor":"blue"}
-{"x":240.883, "y":-654, "z":-1207, "fillColor":"blue"}
-{"x":244.427, "y":-759, "z":-1206, "fillColor":"blue"}
-{"x":244.519, "y":-759, "z":-1206, "fillColor":"blue"}
-{"x":244.625, "y":-759, "z":-1206, "fillColor":"blue"}
-{"x":244.708, "y":-757, "z":-1205, "fillColor":"blue"}
-{"x":245.070, "y":-681, "z":-1221, "fillColor":"blue"}
-{"x":245.180, "y":-680, "z":-1221, "fillColor":"blue"}
-{"x":247.064, "y":-562, "z":-1195, "fillColor":"blue"}
-{"x":247.154, "y":-564, "z":-1190, "fillColor":"blue"}
-{"x":247.679, "y":-538, "z":-1177, "fillColor":"blue"}
-{"x":247.770, "y":-536, "z":-1175, "fillColor":"blue"}
-{"x":247.907, "y":-503, "z":-1167, "fillColor":"blue"}
-{"x":248.017, "y":-503, "z":-1166, "fillColor":"blue"}
-{"x":248.153, "y":-502, "z":-1171, "fillColor":"blue"}
-{"x":248.258, "y":-502, "z":-1171, "fillColor":"blue"}
-{"x":248.460, "y":-502, "z":-1171, "fillColor":"blue"}
-{"x":248.548, "y":-501, "z":-1172, "fillColor":"blue"}
-{"x":248.671, "y":-557, "z":-1219, "fillColor":"blue"}
-{"x":248.808, "y":-585, "z":-1222, "fillColor":"blue"}
-{"x":248.905, "y":-591, "z":-1221, "fillColor":"blue"}
-{"x":249.015, "y":-637, "z":-1215, "fillColor":"blue"}
-{"x":249.123, "y":-644, "z":-1217, "fillColor":"blue"}
-{"x":249.206, "y":-644, "z":-1217, "fillColor":"blue"}
-{"x":249.679, "y":-420, "z":-1176, "fillColor":"blue"}
-{"x":249.771, "y":-400, "z":-1175, "fillColor":"blue"}
-{"x":249.870, "y":-343, "z":-1221, "fillColor":"blue"}
-{"x":249.988, "y":-342, "z":-1206, "fillColor":"blue"}
-{"x":251.614, "y":-411, "z":-1235, "fillColor":"blue"}
-{"x":251.719, "y":-413, "z":-1224, "fillColor":"blue"}
-{"x":253.476, "y":-270, "z":-840, "fillColor":"blue"}
-{"x":253.569, "y":-263, "z":-835, "fillColor":"blue"}
-{"x":253.653, "y":-263, "z":-818, "fillColor":"blue"}
-{"x":253.772, "y":-340, "z":-526, "fillColor":"blue"}
-{"x":255.345, "y":-1169, "z":-1824, "fillColor":"blue"}
-{"x":255.445, "y":-1170, "z":-1827, "fillColor":"blue"}
-{"x":256.416, "y":-1094, "z":-1033, "fillColor":"red"}
-{"x":256.496, "y":-1094, "z":-1033, "fillColor":"red"}
-{"x":257.761, "y":-1203, "z":-1830, "fillColor":"red"}
-{"x":257.858, "y":-1203, "z":-1830, "fillColor":"red"}
-{"x":265.602, "y":-827, "z":-861, "fillColor":"red"}
-{"x":265.995, "y":-640, "z":-1024, "fillColor":"red"}
-{"x":272.271, "y":-224, "z":-1527, "fillColor":"blue"}
-{"x":272.393, "y":-306, "z":-1501, "fillColor":"blue"}
-{"x":272.453, "y":-346, "z":-1466, "fillColor":"blue"}
-{"x":272.538, "y":-356, "z":-1456, "fillColor":"blue"}
-{"x":274.796, "y":-113, "z":-1261, "fillColor":"blue"}
-{"x":274.923, "y":-86, "z":-1263, "fillColor":"blue"}
-{"x":275.015, "y":-91, "z":-1256, "fillColor":"blue"}
-{"x":275.123, "y":-71, "z":-1257, "fillColor":"blue"}
-{"x":275.695, "y":-287, "z":-1117, "fillColor":"blue"}
-{"x":275.803, "y":-393, "z":-924, "fillColor":"blue"}
-{"x":275.889, "y":-424, "z":-848, "fillColor":"blue"}
-{"x":275.998, "y":-465, "z":-789, "fillColor":"blue"}
-{"x":276.081, "y":-479, "z":-738, "fillColor":"blue"}
-{"x":276.193, "y":-496, "z":-635, "fillColor":"blue"}
-{"x":276.278, "y":-492, "z":-616, "fillColor":"blue"}
-{"x":276.377, "y":-475, "z":-616, "fillColor":"blue"}
-{"x":276.467, "y":-439, "z":-667, "fillColor":"blue"}
-{"x":276.563, "y":-483, "z":-636, "fillColor":"blue"}
-{"x":276.656, "y":-438, "z":-792, "fillColor":"blue"}
-{"x":276.766, "y":-444, "z":-831, "fillColor":"blue"}
-{"x":276.831, "y":-427, "z":-878, "fillColor":"blue"}
-{"x":276.942, "y":-426, "z":-871, "fillColor":"blue"}
-{"x":277.017, "y":-399, "z":-920, "fillColor":"blue"}
-{"x":277.117, "y":-406, "z":-903, "fillColor":"blue"}
-{"x":277.192, "y":-397, "z":-933, "fillColor":"blue"}
-{"x":277.302, "y":-408, "z":-951, "fillColor":"blue"}
-{"x":277.367, "y":-401, "z":-969, "fillColor":"blue"}
-{"x":277.476, "y":-410, "z":-985, "fillColor":"blue"}
-{"x":277.550, "y":-408, "z":-990, "fillColor":"blue"}
-{"x":277.652, "y":-428, "z":-994, "fillColor":"blue"}
-{"x":277.723, "y":-403, "z":-990, "fillColor":"blue"}
-{"x":277.846, "y":-402, "z":-967, "fillColor":"blue"}
-{"x":277.924, "y":-402, "z":-963, "fillColor":"blue"}
-{"x":278.028, "y":-409, "z":-965, "fillColor":"blue"}
-{"x":278.102, "y":-411, "z":-975, "fillColor":"blue"}
-{"x":278.205, "y":-413, "z":-970, "fillColor":"blue"}
-{"x":278.332, "y":-412, "z":-973, "fillColor":"blue"}
-{"x":278.399, "y":-415, "z":-966, "fillColor":"blue"}
-{"x":278.504, "y":-623, "z":-687, "fillColor":"blue"}
-{"x":278.613, "y":-638, "z":-677, "fillColor":"blue"}
-{"x":278.690, "y":-645, "z":-757, "fillColor":"blue"}
-{"x":278.792, "y":-701, "z":-715, "fillColor":"blue"}
-{"x":278.869, "y":-703, "z":-705, "fillColor":"blue"}
-{"x":278.978, "y":-707, "z":-675, "fillColor":"blue"}
-{"x":279.055, "y":-695, "z":-636, "fillColor":"blue"}
-{"x":279.168, "y":-757, "z":-577, "fillColor":"blue"}
-{"x":279.250, "y":-755, "z":-563, "fillColor":"blue"}
-{"x":279.348, "y":-765, "z":-556, "fillColor":"blue"}
-{"x":279.540, "y":-473, "z":-927, "fillColor":"blue"}
-{"x":279.650, "y":-476, "z":-910, "fillColor":"blue"}
-{"x":279.755, "y":-500, "z":-794, "fillColor":"blue"}
-{"x":279.889, "y":-571, "z":-613, "fillColor":"blue"}
-{"x":279.974, "y":-582, "z":-590, "fillColor":"blue"}
-{"x":280.086, "y":-593, "z":-506, "fillColor":"blue"}
-{"x":280.174, "y":-599, "z":-494, "fillColor":"blue"}
-{"x":280.281, "y":-655, "z":-454, "fillColor":"blue"}
-{"x":280.374, "y":-675, "z":-445, "fillColor":"blue"}
-{"x":280.483, "y":-695, "z":-427, "fillColor":"blue"}
-{"x":280.718, "y":-620, "z":-416, "fillColor":"blue"}
-{"x":280.833, "y":-623, "z":-407, "fillColor":"blue"}
-{"x":281.033, "y":-401, "z":-695, "fillColor":"blue"}
-{"x":281.132, "y":-352, "z":-731, "fillColor":"blue"}
-{"x":281.218, "y":-276, "z":-877, "fillColor":"blue"}
-{"x":281.320, "y":-341, "z":-896, "fillColor":"blue"}
-{"x":281.416, "y":-345, "z":-1123, "fillColor":"blue"}
-{"x":281.528, "y":-353, "z":-1119, "fillColor":"blue"}
-{"x":281.628, "y":-209, "z":-1137, "fillColor":"blue"}
-{"x":281.732, "y":-212, "z":-1144, "fillColor":"blue"}
-{"x":282.303, "y":-232, "z":-1526, "fillColor":"blue"}
-{"x":282.389, "y":-254, "z":-1506, "fillColor":"blue"}
-{"x":282.489, "y":-250, "z":-1536, "fillColor":"blue"}
-{"x":282.602, "y":-257, "z":-1545, "fillColor":"blue"}
-{"x":284.157, "y":-362, "z":-1371, "fillColor":"blue"}
-{"x":284.255, "y":-362, "z":-1371, "fillColor":"blue"}
-{"x":284.753, "y":-204, "z":-1320, "fillColor":"blue"}
-{"x":284.863, "y":-214, "z":-1279, "fillColor":"blue"}
-{"x":284.980, "y":-237, "z":-1230, "fillColor":"blue"}
-{"x":285.106, "y":-366, "z":-1079, "fillColor":"blue"}
-{"x":285.187, "y":-434, "z":-1015, "fillColor":"blue"}
-{"x":285.291, "y":-471, "z":-988, "fillColor":"blue"}
-{"x":285.390, "y":-518, "z":-913, "fillColor":"blue"}
-{"x":285.514, "y":-605, "z":-817, "fillColor":"blue"}
-{"x":285.586, "y":-684, "z":-780, "fillColor":"blue"}
-{"x":285.697, "y":-737, "z":-750, "fillColor":"blue"}
-{"x":285.801, "y":-706, "z":-773, "fillColor":"blue"}
-{"x":285.919, "y":-706, "z":-775, "fillColor":"blue"}
-{"x":285.999, "y":-688, "z":-793, "fillColor":"blue"}
-{"x":286.101, "y":-692, "z":-778, "fillColor":"blue"}
-{"x":286.179, "y":-679, "z":-764, "fillColor":"blue"}
-{"x":286.286, "y":-686, "z":-760, "fillColor":"blue"}
-{"x":286.358, "y":-678, "z":-756, "fillColor":"blue"}
-{"x":286.460, "y":-683, "z":-752, "fillColor":"blue"}
-{"x":286.554, "y":-677, "z":-756, "fillColor":"blue"}
-{"x":286.665, "y":-679, "z":-762, "fillColor":"blue"}
-{"x":286.740, "y":-672, "z":-759, "fillColor":"blue"}
-{"x":286.855, "y":-671, "z":-756, "fillColor":"blue"}
-{"x":286.934, "y":-671, "z":-748, "fillColor":"blue"}
-{"x":287.054, "y":-671, "z":-753, "fillColor":"blue"}
-{"x":287.142, "y":-671, "z":-750, "fillColor":"blue"}
-{"x":287.251, "y":-673, "z":-752, "fillColor":"blue"}
-{"x":287.355, "y":-674, "z":-751, "fillColor":"blue"}
-{"x":287.454, "y":-675, "z":-753, "fillColor":"blue"}
-{"x":287.684, "y":-565, "z":-915, "fillColor":"blue"}
-{"x":287.831, "y":-479, "z":-997, "fillColor":"blue"}
-{"x":287.930, "y":-468, "z":-1016, "fillColor":"blue"}
-{"x":288.018, "y":-470, "z":-1009, "fillColor":"blue"}
-{"x":288.146, "y":-461, "z":-984, "fillColor":"blue"}
-{"x":288.242, "y":-450, "z":-995, "fillColor":"blue"}
-{"x":288.345, "y":-422, "z":-1009, "fillColor":"blue"}
-{"x":288.451, "y":-439, "z":-994, "fillColor":"blue"}
-{"x":288.544, "y":-544, "z":-980, "fillColor":"blue"}
-{"x":288.649, "y":-608, "z":-954, "fillColor":"blue"}
-{"x":288.785, "y":-533, "z":-997, "fillColor":"blue"}
-{"x":288.865, "y":-521, "z":-1017, "fillColor":"blue"}
-{"x":288.966, "y":-483, "z":-1042, "fillColor":"blue"}
-{"x":289.073, "y":-515, "z":-1037, "fillColor":"blue"}
-{"x":289.169, "y":-584, "z":-1020, "fillColor":"blue"}
-{"x":289.282, "y":-637, "z":-1019, "fillColor":"blue"}
-{"x":289.366, "y":-633, "z":-1018, "fillColor":"blue"}
-{"x":289.454, "y":-637, "z":-1007, "fillColor":"blue"}
-{"x":289.558, "y":-612, "z":-1024, "fillColor":"blue"}
-{"x":289.677, "y":-559, "z":-1018, "fillColor":"blue"}
-{"x":289.756, "y":-526, "z":-1011, "fillColor":"blue"}
-{"x":289.853, "y":-520, "z":-1015, "fillColor":"blue"}
-{"x":289.944, "y":-470, "z":-1015, "fillColor":"blue"}
-{"x":290.067, "y":-498, "z":-1010, "fillColor":"blue"}
-{"x":290.130, "y":-488, "z":-998, "fillColor":"blue"}
-{"x":290.254, "y":-499, "z":-1008, "fillColor":"blue"}
-{"x":290.596, "y":-431, "z":-1208, "fillColor":"blue"}
-{"x":290.687, "y":-392, "z":-1214, "fillColor":"blue"}
-{"x":290.773, "y":-302, "z":-1321, "fillColor":"blue"}
-{"x":290.874, "y":-310, "z":-1334, "fillColor":"blue"}
-{"x":290.956, "y":-258, "z":-1387, "fillColor":"blue"}
-{"x":291.073, "y":-267, "z":-1399, "fillColor":"blue"}
-{"x":291.623, "y":-301, "z":-1566, "fillColor":"blue"}
-{"x":291.718, "y":-302, "z":-1565, "fillColor":"blue"}
-{"x":291.829, "y":-313, "z":-1556, "fillColor":"blue"}
-{"x":291.939, "y":-311, "z":-1562, "fillColor":"blue"}
-{"x":292.459, "y":-236, "z":-1713, "fillColor":"blue"}
-{"x":292.566, "y":-237, "z":-1725, "fillColor":"blue"}
-{"x":293.960, "y":-168, "z":-1788, "fillColor":"blue"}
-{"x":294.070, "y":-174, "z":-1799, "fillColor":"blue"}
-{"x":294.790, "y":-190, "z":-1584, "fillColor":"blue"}
-{"x":294.897, "y":-199, "z":-1640, "fillColor":"blue"}
-{"x":295.000, "y":-201, "z":-1666, "fillColor":"blue"}
-{"x":295.098, "y":-206, "z":-1666, "fillColor":"blue"}
-{"x":295.572, "y":-82, "z":-1483, "fillColor":"blue"}
-{"x":295.678, "y":-78, "z":-1422, "fillColor":"blue"}
-{"x":295.923, "y":-141, "z":-1409, "fillColor":"blue"}
-{"x":296.019, "y":-156, "z":-1399, "fillColor":"blue"}
-{"x":296.695, "y":-123, "z":-1250, "fillColor":"blue"}
-{"x":296.815, "y":-123, "z":-1250, "fillColor":"blue"}
-{"x":296.927, "y":-123, "z":-1250, "fillColor":"blue"}
-{"x":297.018, "y":-124, "z":-1250, "fillColor":"blue"}
-{"x":299.131, "y":-766, "z":-964, "fillColor":"blue"}
-{"x":299.256, "y":-785, "z":-904, "fillColor":"blue"}
-{"x":299.357, "y":-776, "z":-890, "fillColor":"blue"}
-{"x":299.464, "y":-780, "z":-876, "fillColor":"blue"}
-{"x":299.553, "y":-791, "z":-865, "fillColor":"blue"}
-{"x":299.662, "y":-807, "z":-850, "fillColor":"blue"}
-{"x":299.758, "y":-810, "z":-847, "fillColor":"blue"}
-{"x":299.856, "y":-815, "z":-842, "fillColor":"blue"}
-{"x":299.974, "y":-816, "z":-842, "fillColor":"blue"}
-{"x":300.056, "y":-818, "z":-838, "fillColor":"blue"}
-{"x":300.726, "y":-751, "z":-869, "fillColor":"blue"}
-{"x":300.851, "y":-748, "z":-873, "fillColor":"blue"}
-{"x":300.953, "y":-676, "z":-892, "fillColor":"blue"}
-{"x":301.058, "y":-676, "z":-892, "fillColor":"blue"}
-{"x":301.147, "y":-640, "z":-929, "fillColor":"blue"}
-{"x":301.251, "y":-600, "z":-938, "fillColor":"blue"}
-{"x":301.304, "y":-561, "z":-953, "fillColor":"blue"}
-{"x":301.602, "y":-692, "z":-933, "fillColor":"blue"}
-{"x":301.681, "y":-680, "z":-916, "fillColor":"blue"}
-{"x":301.778, "y":-714, "z":-898, "fillColor":"blue"}
-{"x":301.853, "y":-715, "z":-903, "fillColor":"blue"}
-{"x":301.964, "y":-739, "z":-881, "fillColor":"blue"}
-{"x":302.050, "y":-723, "z":-861, "fillColor":"blue"}
-{"x":302.161, "y":-709, "z":-862, "fillColor":"blue"}
-{"x":302.256, "y":-660, "z":-863, "fillColor":"blue"}
-{"x":302.367, "y":-666, "z":-873, "fillColor":"blue"}
-{"x":302.441, "y":-644, "z":-821, "fillColor":"blue"}
-{"x":302.566, "y":-683, "z":-771, "fillColor":"blue"}
-{"x":302.649, "y":-722, "z":-737, "fillColor":"blue"}
-{"x":302.758, "y":-779, "z":-712, "fillColor":"blue"}
-{"x":302.844, "y":-771, "z":-772, "fillColor":"blue"}
-{"x":302.948, "y":-779, "z":-769, "fillColor":"blue"}
-{"x":303.028, "y":-793, "z":-749, "fillColor":"blue"}
-{"x":303.132, "y":-795, "z":-744, "fillColor":"blue"}
-{"x":303.235, "y":-795, "z":-744, "fillColor":"blue"}
-{"x":303.350, "y":-795, "z":-744, "fillColor":"blue"}
-{"x":303.987, "y":-648, "z":-451, "fillColor":"blue"}
-{"x":304.101, "y":-652, "z":-559, "fillColor":"blue"}
-{"x":304.193, "y":-656, "z":-607, "fillColor":"blue"}
-{"x":304.295, "y":-841, "z":-582, "fillColor":"blue"}
-{"x":304.379, "y":-857, "z":-604, "fillColor":"blue"}
-{"x":304.508, "y":-874, "z":-605, "fillColor":"blue"}
-{"x":304.568, "y":-873, "z":-606, "fillColor":"blue"}
-{"x":304.700, "y":-904, "z":-620, "fillColor":"blue"}
-{"x":304.768, "y":-905, "z":-619, "fillColor":"blue"}
-{"x":304.884, "y":-919, "z":-610, "fillColor":"blue"}
-{"x":304.955, "y":-942, "z":-567, "fillColor":"blue"}
-{"x":305.058, "y":-1058, "z":-443, "fillColor":"blue"}
-{"x":305.195, "y":-936, "z":-609, "fillColor":"blue"}
-{"x":305.298, "y":-1033, "z":-399, "fillColor":"blue"}
-{"x":305.378, "y":-1156, "z":-317, "fillColor":"blue"}
-{"x":305.481, "y":-1279, "z":-0, "fillColor":"blue"}
-{"x":305.630, "y":-843, "z":-423, "fillColor":"blue"}
-{"x":305.732, "y":-826, "z":-470, "fillColor":"blue"}
-{"x":305.825, "y":-767, "z":-451, "fillColor":"blue"}
-{"x":305.928, "y":-598, "z":-368, "fillColor":"blue"}
-{"x":306.005, "y":-550, "z":-360, "fillColor":"blue"}
-{"x":306.126, "y":-452, "z":-394, "fillColor":"blue"}
-{"x":306.194, "y":-394, "z":-393, "fillColor":"blue"}
-{"x":306.305, "y":-525, "z":-430, "fillColor":"blue"}
-{"x":306.358, "y":-501, "z":-397, "fillColor":"blue"}
-{"x":306.520, "y":-529, "z":-400, "fillColor":"blue"}
-{"x":306.623, "y":-543, "z":-365, "fillColor":"blue"}
-{"x":306.725, "y":-560, "z":-356, "fillColor":"blue"}
-{"x":306.885, "y":-506, "z":-720, "fillColor":"blue"}
-{"x":307.029, "y":-531, "z":-681, "fillColor":"blue"}
-{"x":307.110, "y":-502, "z":-681, "fillColor":"blue"}
-{"x":307.198, "y":-526, "z":-656, "fillColor":"blue"}
-{"x":307.288, "y":-493, "z":-630, "fillColor":"blue"}
-{"x":307.379, "y":-494, "z":-618, "fillColor":"blue"}
-{"x":307.468, "y":-427, "z":-696, "fillColor":"blue"}
-{"x":307.557, "y":-426, "z":-709, "fillColor":"blue"}
-{"x":307.642, "y":-398, "z":-897, "fillColor":"blue"}
-{"x":307.750, "y":-408, "z":-882, "fillColor":"blue"}
-{"x":307.833, "y":-368, "z":-924, "fillColor":"blue"}
-{"x":307.950, "y":-373, "z":-941, "fillColor":"blue"}
-{"x":309.070, "y":-1249, "z":-1358, "fillColor":"red"}
-{"x":309.162, "y":-1249, "z":-1358, "fillColor":"red"}
-{"x":322.776, "y":-1083, "z":-856, "fillColor":"red"}
-{"x":322.875, "y":-1083, "z":-856, "fillColor":"red"}
-{"x":332.837, "y":-996, "z":-1882, "fillColor":"blue"}
-{"x":333.043, "y":-996, "z":-1882, "fillColor":"blue"}
-{"x":333.256, "y":-996, "z":-1882, "fillColor":"blue"}
-{"x":333.343, "y":-996, "z":-1882, "fillColor":"blue"}
-{"x":333.769, "y":-998, "z":-1882, "fillColor":"red"}
-{"x":333.861, "y":-998, "z":-1882, "fillColor":"red"}
-{"x":338.233, "y":-1109, "z":-1899, "fillColor":"blue"}
-{"x":338.335, "y":-1109, "z":-1900, "fillColor":"blue"}
-{"x":338.804, "y":-1125, "z":-1900, "fillColor":"red"}
-{"x":338.893, "y":-1125, "z":-1900, "fillColor":"red"}
-{"x":345.704, "y":-536, "z":-1164, "fillColor":"blue"}
-{"x":345.813, "y":-537, "z":-1167, "fillColor":"blue"}
-{"x":345.918, "y":-545, "z":-1175, "fillColor":"blue"}
-{"x":346.030, "y":-557, "z":-1175, "fillColor":"blue"}
-{"x":346.117, "y":-556, "z":-1166, "fillColor":"blue"}
-{"x":346.231, "y":-556, "z":-1167, "fillColor":"blue"}
-{"x":346.893, "y":-533, "z":-1082, "fillColor":"blue"}
-{"x":346.991, "y":-531, "z":-1071, "fillColor":"blue"}
-{"x":347.088, "y":-497, "z":-1037, "fillColor":"blue"}
-{"x":347.198, "y":-465, "z":-1030, "fillColor":"blue"}
-{"x":347.317, "y":-263, "z":-1099, "fillColor":"blue"}
-{"x":347.414, "y":-171, "z":-1242, "fillColor":"blue"}
-{"x":347.491, "y":-161, "z":-1320, "fillColor":"blue"}
-{"x":347.589, "y":-167, "z":-1309, "fillColor":"blue"}
-{"x":347.705, "y":-232, "z":-1300, "fillColor":"blue"}
-{"x":347.828, "y":-390, "z":-1286, "fillColor":"blue"}
-{"x":347.914, "y":-405, "z":-1286, "fillColor":"blue"}
-{"x":348.031, "y":-449, "z":-1247, "fillColor":"blue"}
-{"x":348.109, "y":-482, "z":-1225, "fillColor":"blue"}
-{"x":348.254, "y":-634, "z":-1105, "fillColor":"blue"}
-{"x":348.701, "y":-413, "z":-769, "fillColor":"blue"}
-{"x":348.799, "y":-370, "z":-766, "fillColor":"blue"}
-{"x":348.902, "y":-433, "z":-830, "fillColor":"blue"}
-{"x":349.021, "y":-480, "z":-839, "fillColor":"blue"}
-{"x":349.109, "y":-494, "z":-839, "fillColor":"blue"}
-{"x":349.220, "y":-502, "z":-834, "fillColor":"blue"}
-{"x":350.106, "y":-928, "z":-472, "fillColor":"blue"}
-{"x":350.202, "y":-898, "z":-510, "fillColor":"blue"}
-{"x":350.309, "y":-829, "z":-556, "fillColor":"blue"}
-{"x":350.454, "y":-822, "z":-553, "fillColor":"blue"}
-{"x":350.702, "y":-349, "z":-728, "fillColor":"blue"}
-{"x":350.787, "y":-338, "z":-727, "fillColor":"blue"}
-{"x":350.884, "y":-301, "z":-717, "fillColor":"blue"}
-{"x":351.005, "y":-307, "z":-721, "fillColor":"blue"}
-{"x":351.215, "y":-346, "z":-773, "fillColor":"blue"}
-{"x":351.326, "y":-346, "z":-777, "fillColor":"blue"}
-{"x":351.654, "y":-107, "z":-764, "fillColor":"blue"}
-{"x":351.748, "y":-107, "z":-776, "fillColor":"blue"}
-{"x":351.832, "y":-73, "z":-775, "fillColor":"blue"}
-{"x":351.957, "y":-91, "z":-800, "fillColor":"blue"}
-{"x":353.091, "y":-24, "z":-942, "fillColor":"blue"}
-{"x":353.176, "y":-19, "z":-946, "fillColor":"blue"}
-{"x":353.877, "y":-116, "z":-1015, "fillColor":"blue"}
-{"x":353.972, "y":-116, "z":-1014, "fillColor":"blue"}
-{"x":354.108, "y":-123, "z":-909, "fillColor":"blue"}
-{"x":354.210, "y":-134, "z":-823, "fillColor":"blue"}
-{"x":354.299, "y":-134, "z":-768, "fillColor":"blue"}
-{"x":354.412, "y":-166, "z":-672, "fillColor":"blue"}
-{"x":354.496, "y":-175, "z":-645, "fillColor":"blue"}
-{"x":354.640, "y":-218, "z":-596, "fillColor":"blue"}
-{"x":354.937, "y":-602, "z":-100, "fillColor":"blue"}
-{"x":355.053, "y":-588, "z":-157, "fillColor":"blue"}
-{"x":355.620, "y":-836, "z":-1636, "fillColor":"blue"}
-{"x":355.714, "y":-836, "z":-1637, "fillColor":"blue"}
-{"x":355.804, "y":-837, "z":-1769, "fillColor":"blue"}
-{"x":355.892, "y":-969, "z":-1810, "fillColor":"blue"}
-{"x":356.523, "y":-752, "z":-1671, "fillColor":"blue"}
-{"x":356.604, "y":-752, "z":-1670, "fillColor":"blue"}
-{"x":356.712, "y":-752, "z":-1670, "fillColor":"blue"}
-{"x":356.813, "y":-752, "z":-1670, "fillColor":"blue"}
-{"x":356.960, "y":-761, "z":-1696, "fillColor":"blue"}
-{"x":357.054, "y":-761, "z":-1696, "fillColor":"blue"}
-{"x":358.343, "y":-796, "z":-1147, "fillColor":"blue"}
-{"x":358.452, "y":-796, "z":-1146, "fillColor":"blue"}
-{"x":358.567, "y":-793, "z":-1137, "fillColor":"blue"}
-{"x":358.673, "y":-794, "z":-1113, "fillColor":"blue"}
-{"x":358.771, "y":-788, "z":-1103, "fillColor":"blue"}
-{"x":358.887, "y":-788, "z":-1102, "fillColor":"blue"}
-{"x":358.985, "y":-788, "z":-1104, "fillColor":"blue"}
-{"x":359.093, "y":-790, "z":-1100, "fillColor":"blue"}
-{"x":359.199, "y":-790, "z":-1106, "fillColor":"blue"}
-{"x":359.296, "y":-791, "z":-1102, "fillColor":"blue"}
-{"x":359.391, "y":-789, "z":-1099, "fillColor":"blue"}
-{"x":359.491, "y":-789, "z":-1098, "fillColor":"blue"}
-{"x":359.586, "y":-783, "z":-1100, "fillColor":"blue"}
-{"x":359.683, "y":-783, "z":-1098, "fillColor":"blue"}
-{"x":359.778, "y":-779, "z":-1099, "fillColor":"blue"}
-{"x":359.890, "y":-781, "z":-1095, "fillColor":"blue"}
-{"x":360.006, "y":-779, "z":-1095, "fillColor":"blue"}
-{"x":360.101, "y":-779, "z":-1095, "fillColor":"blue"}
-{"x":360.457, "y":-832, "z":-1266, "fillColor":"blue"}
-{"x":360.550, "y":-826, "z":-1254, "fillColor":"blue"}
-{"x":362.187, "y":-734, "z":-1535, "fillColor":"blue"}
-{"x":362.282, "y":-733, "z":-1536, "fillColor":"blue"}
-{"x":362.392, "y":-668, "z":-1565, "fillColor":"blue"}
-{"x":362.478, "y":-663, "z":-1562, "fillColor":"blue"}
-{"x":362.564, "y":-627, "z":-1644, "fillColor":"blue"}
-{"x":362.684, "y":-636, "z":-1633, "fillColor":"blue"}
-{"x":362.765, "y":-618, "z":-1661, "fillColor":"blue"}
-{"x":362.888, "y":-656, "z":-1721, "fillColor":"blue"}
-{"x":362.949, "y":-740, "z":-1786, "fillColor":"blue"}
-{"x":363.090, "y":-766, "z":-1794, "fillColor":"blue"}
-{"x":363.163, "y":-737, "z":-1835, "fillColor":"blue"}
-{"x":363.290, "y":-744, "z":-1834, "fillColor":"blue"}
-{"x":363.364, "y":-745, "z":-1834, "fillColor":"blue"}
-{"x":363.487, "y":-773, "z":-1827, "fillColor":"blue"}
-{"x":363.560, "y":-773, "z":-1829, "fillColor":"blue"}
-{"x":363.681, "y":-837, "z":-1844, "fillColor":"blue"}
-{"x":363.757, "y":-870, "z":-1916, "fillColor":"blue"}
-{"x":363.861, "y":-1128, "z":-2047, "fillColor":"blue"}
-{"x":364.104, "y":-837, "z":-1377, "fillColor":"blue"}
-{"x":364.207, "y":-871, "z":-1418, "fillColor":"blue"}
-{"x":364.296, "y":-999, "z":-1564, "fillColor":"blue"}
-{"x":364.405, "y":-1003, "z":-1563, "fillColor":"blue"}
-{"x":364.487, "y":-947, "z":-1636, "fillColor":"blue"}
-{"x":364.604, "y":-948, "z":-1594, "fillColor":"blue"}
-{"x":364.671, "y":-939, "z":-1613, "fillColor":"blue"}
-{"x":364.764, "y":-919, "z":-1617, "fillColor":"blue"}
-{"x":364.860, "y":-849, "z":-1630, "fillColor":"blue"}
-{"x":364.962, "y":-805, "z":-1608, "fillColor":"blue"}
-{"x":365.048, "y":-682, "z":-1588, "fillColor":"blue"}
-{"x":365.151, "y":-668, "z":-1539, "fillColor":"blue"}
-{"x":365.236, "y":-659, "z":-1573, "fillColor":"blue"}
-{"x":365.351, "y":-656, "z":-1573, "fillColor":"blue"}
-{"x":365.420, "y":-584, "z":-1549, "fillColor":"blue"}
-{"x":365.546, "y":-587, "z":-1520, "fillColor":"blue"}
-{"x":365.626, "y":-573, "z":-1549, "fillColor":"blue"}
-{"x":365.743, "y":-590, "z":-1499, "fillColor":"blue"}
-{"x":365.817, "y":-585, "z":-1506, "fillColor":"blue"}
-{"x":365.951, "y":-590, "z":-1480, "fillColor":"blue"}
-{"x":366.030, "y":-576, "z":-1519, "fillColor":"blue"}
-{"x":366.162, "y":-584, "z":-1523, "fillColor":"blue"}
-{"x":366.238, "y":-568, "z":-1542, "fillColor":"blue"}
-{"x":366.351, "y":-569, "z":-1529, "fillColor":"blue"}
-{"x":366.429, "y":-566, "z":-1543, "fillColor":"blue"}
-{"x":366.551, "y":-568, "z":-1470, "fillColor":"blue"}
-{"x":366.629, "y":-547, "z":-1388, "fillColor":"blue"}
-{"x":366.761, "y":-456, "z":-1180, "fillColor":"blue"}
-{"x":366.827, "y":-448, "z":-1140, "fillColor":"blue"}
-{"x":366.939, "y":-452, "z":-1106, "fillColor":"blue"}
-{"x":367.030, "y":-417, "z":-1070, "fillColor":"blue"}
-{"x":367.143, "y":-413, "z":-1066, "fillColor":"blue"}
-{"x":367.226, "y":-391, "z":-1053, "fillColor":"blue"}
-{"x":367.342, "y":-385, "z":-1045, "fillColor":"blue"}
-{"x":367.413, "y":-370, "z":-1042, "fillColor":"blue"}
-{"x":367.530, "y":-371, "z":-1034, "fillColor":"blue"}
-{"x":367.606, "y":-371, "z":-1034, "fillColor":"blue"}
-{"x":367.721, "y":-371, "z":-1034, "fillColor":"blue"}
-{"x":367.801, "y":-356, "z":-1037, "fillColor":"blue"}
-{"x":367.930, "y":-357, "z":-1037, "fillColor":"blue"}
-{"x":368.017, "y":-355, "z":-1049, "fillColor":"blue"}
-{"x":368.135, "y":-355, "z":-1041, "fillColor":"blue"}
-{"x":368.217, "y":-358, "z":-1056, "fillColor":"blue"}
-{"x":368.333, "y":-363, "z":-1046, "fillColor":"blue"}
-{"x":368.427, "y":-358, "z":-1041, "fillColor":"blue"}
-{"x":368.530, "y":-373, "z":-976, "fillColor":"blue"}
-{"x":368.607, "y":-366, "z":-969, "fillColor":"blue"}
-{"x":368.724, "y":-391, "z":-944, "fillColor":"blue"}
-{"x":368.821, "y":-354, "z":-1029, "fillColor":"blue"}
-{"x":368.938, "y":-360, "z":-1018, "fillColor":"blue"}
-{"x":369.032, "y":-320, "z":-1038, "fillColor":"blue"}
-{"x":369.145, "y":-316, "z":-1029, "fillColor":"blue"}
-{"x":369.216, "y":-316, "z":-1030, "fillColor":"blue"}
-{"x":369.326, "y":-324, "z":-1014, "fillColor":"blue"}
-{"x":369.433, "y":-251, "z":-1038, "fillColor":"blue"}
-{"x":369.487, "y":-16, "z":-1042, "fillColor":"blue"}
-{"x":369.631, "y":-210, "z":-1059, "fillColor":"blue"}
-{"x":369.738, "y":-207, "z":-1073, "fillColor":"blue"}
-{"x":369.849, "y":-206, "z":-1056, "fillColor":"blue"}
-{"x":370.009, "y":-288, "z":-1040, "fillColor":"blue"}
-{"x":370.089, "y":-373, "z":-1071, "fillColor":"blue"}
-{"x":370.230, "y":-437, "z":-1049, "fillColor":"blue"}
-{"x":370.336, "y":-447, "z":-1060, "fillColor":"blue"}
-{"x":370.456, "y":-469, "z":-1051, "fillColor":"blue"}
-{"x":370.542, "y":-515, "z":-1135, "fillColor":"blue"}
-{"x":370.662, "y":-560, "z":-1149, "fillColor":"blue"}
-{"x":370.750, "y":-600, "z":-1164, "fillColor":"blue"}
-{"x":370.849, "y":-598, "z":-1156, "fillColor":"blue"}
-{"x":370.937, "y":-458, "z":-1029, "fillColor":"blue"}
-{"x":371.051, "y":-457, "z":-1029, "fillColor":"blue"}
-{"x":371.117, "y":-419, "z":-994, "fillColor":"blue"}
-{"x":371.243, "y":-425, "z":-1003, "fillColor":"blue"}
-{"x":371.312, "y":-427, "z":-1029, "fillColor":"blue"}
-{"x":371.434, "y":-449, "z":-1053, "fillColor":"blue"}
-{"x":371.506, "y":-450, "z":-1053, "fillColor":"blue"}
-{"x":371.612, "y":-464, "z":-1054, "fillColor":"blue"}
-{"x":371.690, "y":-475, "z":-1081, "fillColor":"blue"}
-{"x":371.800, "y":-517, "z":-1088, "fillColor":"blue"}
-{"x":371.874, "y":-542, "z":-1093, "fillColor":"blue"}
-{"x":371.976, "y":-602, "z":-1115, "fillColor":"blue"}
-{"x":372.051, "y":-597, "z":-1154, "fillColor":"blue"}
-{"x":372.161, "y":-606, "z":-1165, "fillColor":"blue"}
-{"x":372.230, "y":-618, "z":-1168, "fillColor":"blue"}
-{"x":372.365, "y":-669, "z":-1189, "fillColor":"blue"}
-{"x":372.442, "y":-686, "z":-1213, "fillColor":"blue"}
-{"x":372.563, "y":-727, "z":-1237, "fillColor":"blue"}
-{"x":372.640, "y":-776, "z":-1270, "fillColor":"blue"}
-{"x":372.745, "y":-815, "z":-1282, "fillColor":"blue"}
-{"x":372.823, "y":-831, "z":-1312, "fillColor":"blue"}
-{"x":372.946, "y":-866, "z":-1312, "fillColor":"blue"}
-{"x":373.013, "y":-887, "z":-1340, "fillColor":"blue"}
-{"x":373.144, "y":-922, "z":-1347, "fillColor":"blue"}
-{"x":373.218, "y":-982, "z":-1400, "fillColor":"blue"}
-{"x":373.306, "y":-1144, "z":-1541, "fillColor":"blue"}
-{"x":373.710, "y":-621, "z":-1134, "fillColor":"blue"}
-{"x":373.803, "y":-648, "z":-1074, "fillColor":"blue"}
-{"x":373.896, "y":-595, "z":-967, "fillColor":"blue"}
-{"x":374.004, "y":-600, "z":-877, "fillColor":"blue"}
-{"x":374.101, "y":-594, "z":-880, "fillColor":"blue"}
-{"x":374.224, "y":-595, "z":-872, "fillColor":"blue"}
-{"x":374.683, "y":-793, "z":-1426, "fillColor":"blue"}
-{"x":374.794, "y":-829, "z":-1426, "fillColor":"blue"}
-{"x":374.885, "y":-919, "z":-1502, "fillColor":"blue"}
-{"x":375.000, "y":-936, "z":-1518, "fillColor":"blue"}
-{"x":375.689, "y":-615, "z":-439, "fillColor":"blue"}
-{"x":375.806, "y":-602, "z":-415, "fillColor":"blue"}
-{"x":375.918, "y":-439, "z":-396, "fillColor":"blue"}
-{"x":376.043, "y":-338, "z":-322, "fillColor":"blue"}
-{"x":376.321, "y":-836, "z":-228, "fillColor":"blue"}
-{"x":376.443, "y":-953, "z":-44, "fillColor":"blue"}
-{"x":378.131, "y":-1119, "z":-869, "fillColor":"red"}
-{"x":378.201, "y":-1118, "z":-869, "fillColor":"red"}
-{"x":379.184, "y":-229, "z":-753, "fillColor":"blue"}
-{"x":379.306, "y":-221, "z":-759, "fillColor":"blue"}
-{"x":379.404, "y":-9, "z":-706, "fillColor":"blue"}
-{"x":379.543, "y":-0, "z":-706, "fillColor":"blue"}
-{"x":379.975, "y":-294, "z":-1001, "fillColor":"blue"}
-{"x":380.070, "y":-291, "z":-1001, "fillColor":"blue"}
-{"x":380.179, "y":-272, "z":-1022, "fillColor":"blue"}
-{"x":380.293, "y":-260, "z":-1007, "fillColor":"blue"}
-{"x":381.351, "y":-112, "z":-817, "fillColor":"blue"}
-{"x":381.470, "y":-116, "z":-778, "fillColor":"blue"}
-{"x":381.691, "y":-116, "z":-711, "fillColor":"blue"}
-{"x":381.828, "y":-97, "z":-481, "fillColor":"blue"}
-{"x":383.662, "y":-339, "z":-946, "fillColor":"blue"}
-{"x":383.764, "y":-333, "z":-945, "fillColor":"blue"}
-{"x":384.553, "y":-615, "z":-744, "fillColor":"blue"}
-{"x":384.636, "y":-611, "z":-746, "fillColor":"blue"}
-{"x":384.735, "y":-612, "z":-745, "fillColor":"blue"}
-{"x":384.821, "y":-582, "z":-723, "fillColor":"blue"}
-{"x":384.935, "y":-545, "z":-744, "fillColor":"blue"}
-{"x":385.033, "y":-549, "z":-740, "fillColor":"blue"}
-{"x":385.157, "y":-617, "z":-715, "fillColor":"blue"}
-{"x":385.247, "y":-645, "z":-724, "fillColor":"blue"}
-{"x":385.343, "y":-558, "z":-754, "fillColor":"blue"}
-{"x":385.460, "y":-563, "z":-751, "fillColor":"blue"}
-{"x":385.547, "y":-566, "z":-763, "fillColor":"blue"}
-{"x":385.643, "y":-587, "z":-764, "fillColor":"blue"}
-{"x":385.729, "y":-547, "z":-770, "fillColor":"blue"}
-{"x":385.836, "y":-547, "z":-761, "fillColor":"blue"}
-{"x":385.943, "y":-504, "z":-761, "fillColor":"blue"}
-{"x":386.048, "y":-494, "z":-750, "fillColor":"blue"}
-{"x":386.138, "y":-399, "z":-746, "fillColor":"blue"}
-{"x":386.237, "y":-384, "z":-748, "fillColor":"blue"}
-{"x":386.334, "y":-327, "z":-732, "fillColor":"blue"}
-{"x":386.427, "y":-319, "z":-725, "fillColor":"blue"}
-{"x":386.517, "y":-264, "z":-721, "fillColor":"blue"}
-{"x":386.628, "y":-281, "z":-713, "fillColor":"blue"}
-{"x":386.729, "y":-268, "z":-729, "fillColor":"blue"}
-{"x":386.839, "y":-267, "z":-729, "fillColor":"blue"}
-{"x":386.933, "y":-261, "z":-735, "fillColor":"blue"}
-{"x":387.054, "y":-256, "z":-735, "fillColor":"blue"}
-{"x":387.565, "y":-627, "z":-688, "fillColor":"blue"}
-{"x":387.672, "y":-668, "z":-660, "fillColor":"blue"}
-{"x":387.757, "y":-622, "z":-635, "fillColor":"blue"}
-{"x":387.884, "y":-659, "z":-625, "fillColor":"blue"}
-{"x":388.013, "y":-652, "z":-717, "fillColor":"blue"}
-{"x":388.127, "y":-680, "z":-668, "fillColor":"blue"}
-{"x":388.857, "y":-660, "z":-709, "fillColor":"blue"}
-{"x":388.949, "y":-660, "z":-707, "fillColor":"blue"}
-{"x":389.038, "y":-659, "z":-595, "fillColor":"blue"}
-{"x":389.156, "y":-642, "z":-539, "fillColor":"blue"}
-{"x":389.231, "y":-645, "z":-533, "fillColor":"blue"}
-{"x":389.360, "y":-729, "z":-426, "fillColor":"blue"}
-{"x":389.904, "y":-709, "z":-617, "fillColor":"blue"}
-{"x":389.997, "y":-706, "z":-612, "fillColor":"blue"}
-{"x":390.113, "y":-648, "z":-578, "fillColor":"blue"}
-{"x":390.230, "y":-623, "z":-438, "fillColor":"blue"}
-{"x":390.946, "y":-140, "z":-442, "fillColor":"blue"}
-{"x":391.076, "y":-140, "z":-442, "fillColor":"blue"}
-{"x":391.379, "y":-143, "z":-434, "fillColor":"blue"}
-{"x":391.482, "y":-181, "z":-442, "fillColor":"blue"}
-{"x":391.549, "y":-181, "z":-442, "fillColor":"blue"}
-{"x":391.629, "y":-181, "z":-442, "fillColor":"blue"}
-{"x":391.746, "y":-181, "z":-442, "fillColor":"blue"}
-{"x":391.872, "y":-181, "z":-441, "fillColor":"blue"}
-{"x":393.724, "y":-246, "z":-546, "fillColor":"blue"}
-{"x":393.831, "y":-247, "z":-548, "fillColor":"blue"}
-{"x":398.883, "y":-392, "z":-547, "fillColor":"blue"}
-{"x":398.999, "y":-392, "z":-547, "fillColor":"blue"}
-{"x":400.596, "y":-448, "z":-521, "fillColor":"blue"}
-{"x":400.715, "y":-615, "z":-526, "fillColor":"blue"}
-{"x":400.787, "y":-712, "z":-498, "fillColor":"blue"}
-{"x":400.886, "y":-846, "z":-420, "fillColor":"blue"}
-{"x":400.975, "y":-862, "z":-383, "fillColor":"blue"}
-{"x":401.081, "y":-1073, "z":-0, "fillColor":"blue"}
-{"x":401.520, "y":-642, "z":-605, "fillColor":"blue"}
-{"x":401.614, "y":-642, "z":-605, "fillColor":"blue"}
-{"x":401.734, "y":-535, "z":-571, "fillColor":"blue"}
-{"x":401.852, "y":-525, "z":-540, "fillColor":"blue"}
-{"x":401.962, "y":-320, "z":-480, "fillColor":"blue"}
-{"x":402.058, "y":-220, "z":-434, "fillColor":"blue"}
-{"x":402.158, "y":-0, "z":-221, "fillColor":"blue"}
-{"x":402.288, "y":-40, "z":-0, "fillColor":"blue"}
-{"x":403.469, "y":-506, "z":-773, "fillColor":"blue"}
-{"x":403.573, "y":-505, "z":-772, "fillColor":"blue"}
-{"x":403.688, "y":-458, "z":-780, "fillColor":"blue"}
-{"x":403.772, "y":-350, "z":-832, "fillColor":"blue"}
-{"x":404.376, "y":-266, "z":-1475, "fillColor":"blue"}
-{"x":404.480, "y":-284, "z":-1545, "fillColor":"blue"}
-{"x":404.569, "y":-290, "z":-1564, "fillColor":"blue"}
-{"x":404.667, "y":-300, "z":-1577, "fillColor":"blue"}
-{"x":404.763, "y":-342, "z":-1521, "fillColor":"blue"}
-{"x":404.874, "y":-342, "z":-1519, "fillColor":"blue"}
-{"x":404.953, "y":-341, "z":-1512, "fillColor":"blue"}
-{"x":405.058, "y":-339, "z":-1506, "fillColor":"blue"}
-{"x":405.148, "y":-329, "z":-1471, "fillColor":"blue"}
-{"x":405.272, "y":-327, "z":-1465, "fillColor":"blue"}
-{"x":405.349, "y":-323, "z":-1451, "fillColor":"blue"}
-{"x":405.499, "y":-323, "z":-1450, "fillColor":"blue"}
-{"x":405.613, "y":-323, "z":-1450, "fillColor":"blue"}
-{"x":405.757, "y":-323, "z":-1451, "fillColor":"blue"}
-{"x":405.914, "y":-326, "z":-1451, "fillColor":"blue"}
-{"x":405.997, "y":-329, "z":-1449, "fillColor":"blue"}
-{"x":406.089, "y":-345, "z":-1496, "fillColor":"blue"}
-{"x":406.199, "y":-348, "z":-1510, "fillColor":"blue"}
-{"x":407.338, "y":-448, "z":-1426, "fillColor":"blue"}
-{"x":407.448, "y":-515, "z":-1376, "fillColor":"blue"}
-{"x":407.539, "y":-522, "z":-1373, "fillColor":"blue"}
-{"x":407.661, "y":-523, "z":-1373, "fillColor":"blue"}
-{"x":408.759, "y":-471, "z":-1293, "fillColor":"blue"}
-{"x":408.858, "y":-577, "z":-1182, "fillColor":"blue"}
-{"x":408.956, "y":-669, "z":-1111, "fillColor":"blue"}
-{"x":409.064, "y":-759, "z":-938, "fillColor":"blue"}
-{"x":410.366, "y":-1094, "z":-935, "fillColor":"red"}
-{"x":410.470, "y":-1094, "z":-935, "fillColor":"red"}
-{"x":410.828, "y":-887, "z":-608, "fillColor":"blue"}
-{"x":410.927, "y":-824, "z":-822, "fillColor":"blue"}
-{"x":411.619, "y":-900, "z":-0, "fillColor":"blue"}
-{"x":411.659, "y":-942, "z":-0, "fillColor":"blue"}
-{"x":412.075, "y":-429, "z":-1218, "fillColor":"blue"}
-{"x":412.153, "y":-428, "z":-1214, "fillColor":"blue"}
-{"x":412.250, "y":-418, "z":-1233, "fillColor":"blue"}
-{"x":412.336, "y":-414, "z":-1251, "fillColor":"blue"}
-{"x":412.678, "y":-370, "z":-1392, "fillColor":"blue"}
-{"x":412.788, "y":-371, "z":-1399, "fillColor":"blue"}
-{"x":412.896, "y":-367, "z":-1317, "fillColor":"blue"}
-{"x":412.985, "y":-404, "z":-1238, "fillColor":"blue"}
-{"x":413.094, "y":-483, "z":-1227, "fillColor":"blue"}
-{"x":413.204, "y":-531, "z":-1138, "fillColor":"blue"}
-{"x":413.308, "y":-533, "z":-1114, "fillColor":"blue"}
-{"x":413.431, "y":-537, "z":-1011, "fillColor":"blue"}
-{"x":413.557, "y":-344, "z":-943, "fillColor":"blue"}
-{"x":413.669, "y":-287, "z":-919, "fillColor":"blue"}
-{"x":413.774, "y":-217, "z":-875, "fillColor":"blue"}
-{"x":413.882, "y":-198, "z":-833, "fillColor":"blue"}
-{"x":413.968, "y":-188, "z":-778, "fillColor":"blue"}
-{"x":414.104, "y":-200, "z":-738, "fillColor":"blue"}
-{"x":414.197, "y":-207, "z":-714, "fillColor":"blue"}
-{"x":414.312, "y":-410, "z":-604, "fillColor":"blue"}
-{"x":414.421, "y":-455, "z":-610, "fillColor":"blue"}
-{"x":414.540, "y":-460, "z":-612, "fillColor":"blue"}
-{"x":414.711, "y":-525, "z":-688, "fillColor":"blue"}
-{"x":414.820, "y":-545, "z":-698, "fillColor":"blue"}
-{"x":414.914, "y":-575, "z":-569, "fillColor":"blue"}
-{"x":415.017, "y":-575, "z":-569, "fillColor":"blue"}
-{"x":415.228, "y":-690, "z":-755, "fillColor":"blue"}
-{"x":415.327, "y":-702, "z":-762, "fillColor":"blue"}
-{"x":415.426, "y":-733, "z":-771, "fillColor":"blue"}
-{"x":415.529, "y":-755, "z":-798, "fillColor":"blue"}
-{"x":415.615, "y":-787, "z":-801, "fillColor":"blue"}
-{"x":415.700, "y":-835, "z":-814, "fillColor":"blue"}
-{"x":415.798, "y":-832, "z":-869, "fillColor":"blue"}
-{"x":415.887, "y":-832, "z":-869, "fillColor":"blue"}
-{"x":416.005, "y":-746, "z":-872, "fillColor":"blue"}
-{"x":416.093, "y":-708, "z":-855, "fillColor":"blue"}
-{"x":416.179, "y":-660, "z":-794, "fillColor":"blue"}
-{"x":416.271, "y":-659, "z":-792, "fillColor":"blue"}
-{"x":416.366, "y":-629, "z":-756, "fillColor":"blue"}
-{"x":416.475, "y":-625, "z":-758, "fillColor":"blue"}
-{"x":416.603, "y":-319, "z":-1256, "fillColor":"blue"}
-{"x":416.715, "y":-262, "z":-1382, "fillColor":"blue"}
-{"x":416.785, "y":-222, "z":-1466, "fillColor":"blue"}
-{"x":416.920, "y":-215, "z":-1587, "fillColor":"blue"}
-{"x":416.974, "y":-199, "z":-1667, "fillColor":"blue"}
-{"x":417.107, "y":-211, "z":-1673, "fillColor":"blue"}
-{"x":417.176, "y":-211, "z":-1673, "fillColor":"blue"}
-{"x":417.295, "y":-241, "z":-1654, "fillColor":"blue"}
-{"x":418.706, "y":-1245, "z":-1395, "fillColor":"red"}
-{"x":418.792, "y":-1245, "z":-1395, "fillColor":"red"}
-{"x":419.957, "y":-284, "z":-1179, "fillColor":"blue"}
-{"x":420.067, "y":-298, "z":-1162, "fillColor":"blue"}
-{"x":420.918, "y":-50, "z":-998, "fillColor":"red"}
-{"x":421.008, "y":-50, "z":-998, "fillColor":"red"}
-{"x":422.159, "y":-50, "z":-998, "fillColor":"blue"}
-{"x":422.275, "y":-50, "z":-998, "fillColor":"blue"}
-{"x":422.592, "y":-50, "z":-998, "fillColor":"red"}
-{"x":422.710, "y":-50, "z":-998, "fillColor":"red"}
-{"x":422.936, "y":-51, "z":-998, "fillColor":"red"}
-{"x":423.032, "y":-51, "z":-998, "fillColor":"red"}
-{"x":423.536, "y":-51, "z":-998, "fillColor":"red"}
-{"x":423.633, "y":-51, "z":-998, "fillColor":"red"}
-{"x":427.101, "y":-1263, "z":-1348, "fillColor":"red"}
-{"x":427.197, "y":-1262, "z":-1347, "fillColor":"red"}
-{"x":429.952, "y":-57, "z":-881, "fillColor":"red"}
-{"x":430.066, "y":-56, "z":-881, "fillColor":"red"}
-{"x":430.787, "y":-55, "z":-880, "fillColor":"red"}
-{"x":430.887, "y":-55, "z":-880, "fillColor":"red"}
-{"x":431.583, "y":-1255, "z":-1347, "fillColor":"red"}
-{"x":431.670, "y":-1259, "z":-1353, "fillColor":"red"}
-{"x":435.204, "y":-721, "z":-292, "fillColor":"red"}
-{"x":435.319, "y":-721, "z":-292, "fillColor":"red"}
-{"x":436.526, "y":-364, "z":-1282, "fillColor":"blue"}
-{"x":436.636, "y":-364, "z":-1283, "fillColor":"blue"}
-{"x":438.672, "y":-1246, "z":-1373, "fillColor":"red"}
-{"x":438.782, "y":-1246, "z":-1374, "fillColor":"red"}
-{"x":442.873, "y":-480, "z":-990, "fillColor":"blue"}
-{"x":443.003, "y":-479, "z":-990, "fillColor":"blue"}
-{"x":445.024, "y":-1168, "z":-1777, "fillColor":"red"}
-{"x":445.116, "y":-1168, "z":-1777, "fillColor":"red"}
-{"x":453.048, "y":-528, "z":-1096, "fillColor":"blue"}
-{"x":453.128, "y":-527, "z":-1096, "fillColor":"blue"}
-{"x":453.213, "y":-516, "z":-1101, "fillColor":"blue"}
-{"x":453.392, "y":-505, "z":-1115, "fillColor":"blue"}
-{"x":453.444, "y":-503, "z":-1124, "fillColor":"blue"}
-{"x":453.538, "y":-473, "z":-1159, "fillColor":"blue"}
-{"x":453.581, "y":-471, "z":-1160, "fillColor":"blue"}
-{"x":453.695, "y":-529, "z":-1221, "fillColor":"blue"}
-{"x":453.761, "y":-552, "z":-1243, "fillColor":"blue"}
-{"x":453.873, "y":-626, "z":-1241, "fillColor":"blue"}
-{"x":453.951, "y":-639, "z":-1261, "fillColor":"blue"}
-{"x":454.073, "y":-685, "z":-1272, "fillColor":"blue"}
-{"x":454.140, "y":-710, "z":-1299, "fillColor":"blue"}
-{"x":454.243, "y":-708, "z":-1299, "fillColor":"blue"}
-{"x":454.317, "y":-654, "z":-1383, "fillColor":"blue"}
-{"x":454.423, "y":-668, "z":-1400, "fillColor":"blue"}
-{"x":454.506, "y":-666, "z":-1501, "fillColor":"blue"}
-{"x":454.622, "y":-686, "z":-1509, "fillColor":"blue"}
-{"x":454.706, "y":-677, "z":-1514, "fillColor":"blue"}
-{"x":454.809, "y":-677, "z":-1525, "fillColor":"blue"}
-{"x":454.877, "y":-677, "z":-1522, "fillColor":"blue"}
-{"x":454.984, "y":-677, "z":-1526, "fillColor":"blue"}
-{"x":455.086, "y":-686, "z":-1562, "fillColor":"blue"}
-{"x":455.170, "y":-688, "z":-1565, "fillColor":"blue"}
-{"x":455.445, "y":-700, "z":-1436, "fillColor":"blue"}
-{"x":455.553, "y":-684, "z":-1396, "fillColor":"blue"}
-{"x":455.650, "y":-705, "z":-1429, "fillColor":"blue"}
-{"x":455.755, "y":-720, "z":-1448, "fillColor":"blue"}
-{"x":455.856, "y":-746, "z":-1474, "fillColor":"blue"}
-{"x":455.964, "y":-756, "z":-1445, "fillColor":"blue"}
-{"x":456.076, "y":-765, "z":-1332, "fillColor":"blue"}
-{"x":456.204, "y":-767, "z":-1310, "fillColor":"blue"}
-{"x":456.289, "y":-789, "z":-1209, "fillColor":"blue"}
-{"x":456.384, "y":-789, "z":-1229, "fillColor":"blue"}
-{"x":456.481, "y":-808, "z":-1386, "fillColor":"blue"}
-{"x":456.590, "y":-887, "z":-1597, "fillColor":"blue"}
-{"x":456.665, "y":-890, "z":-1629, "fillColor":"blue"}
-{"x":456.778, "y":-890, "z":-1632, "fillColor":"blue"}
-{"x":456.848, "y":-919, "z":-1795, "fillColor":"blue"}
-{"x":456.955, "y":-1070, "z":-1835, "fillColor":"blue"}
-{"x":457.627, "y":-1078, "z":-1492, "fillColor":"blue"}
-{"x":457.742, "y":-1101, "z":-1503, "fillColor":"blue"}
-{"x":457.823, "y":-1102, "z":-1508, "fillColor":"blue"}
-{"x":457.895, "y":-1110, "z":-1518, "fillColor":"blue"}
-{"x":457.983, "y":-1129, "z":-1580, "fillColor":"blue"}
-{"x":458.089, "y":-1133, "z":-1581, "fillColor":"blue"}
-{"x":458.258, "y":-873, "z":-1287, "fillColor":"blue"}
-{"x":458.357, "y":-868, "z":-1211, "fillColor":"blue"}
-{"x":458.427, "y":-888, "z":-1227, "fillColor":"blue"}
-{"x":458.535, "y":-888, "z":-1233, "fillColor":"blue"}
-{"x":458.618, "y":-844, "z":-1258, "fillColor":"blue"}
-{"x":458.725, "y":-831, "z":-1254, "fillColor":"blue"}
-{"x":458.814, "y":-777, "z":-1233, "fillColor":"blue"}
-{"x":458.925, "y":-776, "z":-1216, "fillColor":"blue"}
-{"x":459.007, "y":-736, "z":-1197, "fillColor":"blue"}
-{"x":459.126, "y":-716, "z":-1195, "fillColor":"blue"}
-{"x":459.197, "y":-717, "z":-1196, "fillColor":"blue"}
-{"x":459.310, "y":-756, "z":-1244, "fillColor":"blue"}
-{"x":459.405, "y":-830, "z":-1242, "fillColor":"blue"}
-{"x":459.517, "y":-833, "z":-1255, "fillColor":"blue"}
-{"x":459.591, "y":-832, "z":-1302, "fillColor":"blue"}
-{"x":459.730, "y":-832, "z":-1310, "fillColor":"blue"}
-{"x":459.817, "y":-836, "z":-1318, "fillColor":"blue"}
-{"x":459.921, "y":-823, "z":-1261, "fillColor":"blue"}
-{"x":459.999, "y":-796, "z":-1241, "fillColor":"blue"}
-{"x":460.104, "y":-803, "z":-1230, "fillColor":"blue"}
-{"x":460.194, "y":-840, "z":-1252, "fillColor":"blue"}
-{"x":460.299, "y":-839, "z":-1252, "fillColor":"blue"}
-{"x":460.380, "y":-829, "z":-1259, "fillColor":"blue"}
-{"x":460.498, "y":-829, "z":-1259, "fillColor":"blue"}
-{"x":460.583, "y":-829, "z":-1258, "fillColor":"blue"}
-{"x":460.672, "y":-829, "z":-1257, "fillColor":"blue"}
-{"x":460.772, "y":-691, "z":-1194, "fillColor":"blue"}
-{"x":460.869, "y":-703, "z":-1150, "fillColor":"blue"}
-{"x":460.965, "y":-680, "z":-1105, "fillColor":"blue"}
-{"x":461.076, "y":-667, "z":-1105, "fillColor":"blue"}
-{"x":461.163, "y":-623, "z":-1096, "fillColor":"blue"}
-{"x":461.288, "y":-620, "z":-1100, "fillColor":"blue"}
-{"x":461.387, "y":-623, "z":-1082, "fillColor":"blue"}
-{"x":461.516, "y":-683, "z":-999, "fillColor":"blue"}
-{"x":461.603, "y":-763, "z":-1175, "fillColor":"blue"}
-{"x":461.710, "y":-810, "z":-1123, "fillColor":"blue"}
-{"x":461.793, "y":-806, "z":-1091, "fillColor":"blue"}
-{"x":461.927, "y":-807, "z":-1122, "fillColor":"blue"}
-{"x":461.989, "y":-818, "z":-1123, "fillColor":"blue"}
-{"x":462.118, "y":-882, "z":-1085, "fillColor":"blue"}
-{"x":462.166, "y":-879, "z":-1077, "fillColor":"blue"}
-{"x":462.291, "y":-882, "z":-1072, "fillColor":"blue"}
-{"x":462.350, "y":-882, "z":-1074, "fillColor":"blue"}
-{"x":462.475, "y":-881, "z":-1087, "fillColor":"blue"}
-{"x":462.527, "y":-881, "z":-1088, "fillColor":"blue"}
-{"x":462.673, "y":-882, "z":-1090, "fillColor":"blue"}
-{"x":462.734, "y":-883, "z":-1095, "fillColor":"blue"}
-{"x":462.868, "y":-883, "z":-1096, "fillColor":"blue"}
-{"x":462.927, "y":-883, "z":-1104, "fillColor":"blue"}
-{"x":463.038, "y":-886, "z":-1109, "fillColor":"blue"}
-{"x":463.100, "y":-885, "z":-1100, "fillColor":"blue"}
-{"x":463.200, "y":-884, "z":-1100, "fillColor":"blue"}
-{"x":463.323, "y":-653, "z":-1107, "fillColor":"blue"}
-{"x":463.413, "y":-624, "z":-1056, "fillColor":"blue"}
-{"x":463.504, "y":-570, "z":-1030, "fillColor":"blue"}
-{"x":463.615, "y":-564, "z":-1013, "fillColor":"blue"}
-{"x":463.700, "y":-492, "z":-958, "fillColor":"blue"}
-{"x":463.813, "y":-490, "z":-946, "fillColor":"blue"}
-{"x":463.894, "y":-459, "z":-895, "fillColor":"blue"}
-{"x":464.011, "y":-455, "z":-892, "fillColor":"blue"}
-{"x":464.103, "y":-422, "z":-867, "fillColor":"blue"}
-{"x":464.236, "y":-421, "z":-868, "fillColor":"blue"}
-{"x":464.316, "y":-375, "z":-813, "fillColor":"blue"}
-{"x":464.418, "y":-355, "z":-758, "fillColor":"blue"}
-{"x":464.522, "y":-253, "z":-669, "fillColor":"blue"}
-{"x":464.651, "y":-232, "z":-620, "fillColor":"blue"}
-{"x":465.396, "y":-482, "z":-434, "fillColor":"blue"}
-{"x":465.530, "y":-617, "z":-461, "fillColor":"blue"}
-{"x":465.574, "y":-621, "z":-464, "fillColor":"blue"}
-{"x":465.668, "y":-654, "z":-477, "fillColor":"blue"}
-{"x":465.768, "y":-695, "z":-522, "fillColor":"blue"}
-{"x":465.873, "y":-700, "z":-529, "fillColor":"blue"}
-{"x":465.950, "y":-706, "z":-541, "fillColor":"blue"}
-{"x":466.077, "y":-710, "z":-549, "fillColor":"blue"}
-{"x":467.747, "y":-414, "z":-548, "fillColor":"blue"}
-{"x":467.823, "y":-414, "z":-548, "fillColor":"blue"}
-{"x":469.737, "y":-320, "z":-564, "fillColor":"blue"}
-{"x":469.839, "y":-320, "z":-564, "fillColor":"blue"}
-{"x":470.588, "y":-466, "z":-681, "fillColor":"blue"}
-{"x":470.695, "y":-483, "z":-691, "fillColor":"blue"}
-{"x":470.780, "y":-528, "z":-696, "fillColor":"blue"}
-{"x":470.890, "y":-538, "z":-705, "fillColor":"blue"}
-{"x":471.758, "y":-761, "z":-667, "fillColor":"blue"}
-{"x":471.841, "y":-758, "z":-665, "fillColor":"blue"}
-{"x":471.938, "y":-716, "z":-679, "fillColor":"blue"}
-{"x":472.047, "y":-728, "z":-678, "fillColor":"blue"}
-{"x":472.195, "y":-763, "z":-562, "fillColor":"blue"}
-{"x":472.286, "y":-693, "z":-735, "fillColor":"blue"}
-{"x":473.768, "y":-700, "z":-425, "fillColor":"blue"}
-{"x":473.869, "y":-699, "z":-426, "fillColor":"blue"}
-{"x":473.999, "y":-693, "z":-443, "fillColor":"blue"}
-{"x":474.114, "y":-692, "z":-444, "fillColor":"blue"}
-{"x":478.234, "y":-672, "z":-574, "fillColor":"blue"}
-{"x":478.313, "y":-671, "z":-569, "fillColor":"blue"}
-{"x":478.406, "y":-672, "z":-567, "fillColor":"blue"}
-{"x":478.526, "y":-671, "z":-569, "fillColor":"blue"}
-{"x":480.128, "y":-609, "z":-585, "fillColor":"blue"}
-{"x":480.209, "y":-609, "z":-585, "fillColor":"blue"}
-{"x":482.462, "y":-622, "z":-608, "fillColor":"blue"}
-{"x":482.561, "y":-624, "z":-613, "fillColor":"blue"}
-{"x":483.104, "y":-558, "z":-807, "fillColor":"blue"}
-{"x":483.219, "y":-557, "z":-803, "fillColor":"blue"}
-{"x":484.013, "y":-1068, "z":-939, "fillColor":"red"}
-{"x":484.122, "y":-1068, "z":-940, "fillColor":"red"}
-{"x":484.568, "y":-623, "z":-1422, "fillColor":"blue"}
-{"x":484.665, "y":-626, "z":-1415, "fillColor":"blue"}
-{"x":484.755, "y":-652, "z":-1310, "fillColor":"blue"}
-{"x":484.870, "y":-650, "z":-1312, "fillColor":"blue"}
-{"x":485.283, "y":-528, "z":-1327, "fillColor":"blue"}
-{"x":485.386, "y":-510, "z":-1377, "fillColor":"blue"}
-{"x":485.482, "y":-426, "z":-1526, "fillColor":"blue"}
-{"x":485.575, "y":-420, "z":-1554, "fillColor":"blue"}
-{"x":485.673, "y":-423, "z":-1588, "fillColor":"blue"}
-{"x":485.787, "y":-435, "z":-1623, "fillColor":"blue"}
-{"x":486.245, "y":-708, "z":-1152, "fillColor":"blue"}
-{"x":486.362, "y":-692, "z":-1180, "fillColor":"blue"}
-{"x":486.751, "y":-646, "z":-776, "fillColor":"blue"}
-{"x":486.843, "y":-646, "z":-776, "fillColor":"blue"}
-{"x":487.441, "y":-350, "z":-703, "fillColor":"blue"}
-{"x":487.532, "y":-244, "z":-836, "fillColor":"blue"}
-{"x":487.628, "y":-217, "z":-824, "fillColor":"blue"}
-{"x":487.727, "y":-136, "z":-804, "fillColor":"blue"}
-{"x":487.816, "y":-54, "z":-831, "fillColor":"blue"}
-{"x":487.947, "y":-135, "z":-767, "fillColor":"blue"}
-{"x":488.337, "y":-669, "z":-326, "fillColor":"blue"}
-{"x":488.439, "y":-710, "z":-304, "fillColor":"blue"}
-{"x":488.531, "y":-696, "z":-321, "fillColor":"blue"}
-{"x":488.622, "y":-711, "z":-301, "fillColor":"blue"}
-{"x":488.715, "y":-715, "z":-306, "fillColor":"blue"}
-{"x":488.843, "y":-716, "z":-313, "fillColor":"blue"}
-{"x":488.916, "y":-716, "z":-313, "fillColor":"blue"}
-{"x":489.042, "y":-716, "z":-313, "fillColor":"blue"}
-{"x":489.115, "y":-715, "z":-314, "fillColor":"blue"}
-{"x":489.223, "y":-713, "z":-320, "fillColor":"blue"}
-{"x":489.309, "y":-709, "z":-316, "fillColor":"blue"}
-{"x":489.422, "y":-710, "z":-323, "fillColor":"blue"}
-{"x":489.511, "y":-710, "z":-321, "fillColor":"blue"}
-{"x":489.627, "y":-710, "z":-321, "fillColor":"blue"}
-{"x":489.912, "y":-434, "z":-750, "fillColor":"blue"}
-{"x":490.011, "y":-431, "z":-831, "fillColor":"blue"}
-{"x":490.098, "y":-520, "z":-849, "fillColor":"blue"}
-{"x":490.247, "y":-603, "z":-845, "fillColor":"blue"}
-{"x":490.351, "y":-553, "z":-898, "fillColor":"blue"}
-{"x":490.469, "y":-656, "z":-788, "fillColor":"blue"}
-{"x":490.576, "y":-675, "z":-764, "fillColor":"blue"}
-{"x":490.715, "y":-748, "z":-738, "fillColor":"blue"}
-{"x":490.814, "y":-746, "z":-736, "fillColor":"blue"}
-{"x":490.919, "y":-746, "z":-735, "fillColor":"blue"}
-{"x":491.230, "y":-518, "z":-933, "fillColor":"blue"}
-{"x":491.334, "y":-519, "z":-928, "fillColor":"blue"}
-{"x":491.610, "y":-372, "z":-1049, "fillColor":"blue"}
-{"x":491.700, "y":-364, "z":-1058, "fillColor":"blue"}
-{"x":491.820, "y":-271, "z":-1154, "fillColor":"blue"}
-{"x":491.931, "y":-245, "z":-1176, "fillColor":"blue"}
-{"x":492.436, "y":-287, "z":-854, "fillColor":"blue"}
-{"x":492.533, "y":-300, "z":-851, "fillColor":"blue"}
-{"x":497.474, "y":-597, "z":-1054, "fillColor":"blue"}
-{"x":497.575, "y":-605, "z":-1068, "fillColor":"blue"}
-{"x":497.684, "y":-609, "z":-1011, "fillColor":"blue"}
-{"x":497.784, "y":-651, "z":-792, "fillColor":"blue"}
-{"x":497.901, "y":-656, "z":-687, "fillColor":"blue"}
-{"x":497.986, "y":-585, "z":-706, "fillColor":"blue"}
-{"x":498.089, "y":-102, "z":-872, "fillColor":"blue"}
-{"x":498.186, "y":-179, "z":-847, "fillColor":"blue"}
-{"x":498.278, "y":-200, "z":-831, "fillColor":"blue"}
-{"x":498.392, "y":-239, "z":-832, "fillColor":"blue"}
-{"x":499.184, "y":-0, "z":-687, "fillColor":"blue"}
-{"x":499.299, "y":-122, "z":-697, "fillColor":"blue"}
-{"x":499.505, "y":-250, "z":-772, "fillColor":"blue"}
-{"x":499.573, "y":-291, "z":-790, "fillColor":"blue"}
-{"x":499.664, "y":-338, "z":-924, "fillColor":"blue"}
-{"x":499.787, "y":-367, "z":-861, "fillColor":"blue"}
-{"x":499.870, "y":-394, "z":-806, "fillColor":"blue"}
-{"x":499.984, "y":-466, "z":-774, "fillColor":"blue"}
-{"x":500.077, "y":-495, "z":-764, "fillColor":"blue"}
-{"x":500.195, "y":-567, "z":-734, "fillColor":"blue"}
-{"x":500.260, "y":-637, "z":-657, "fillColor":"blue"}
-{"x":500.377, "y":-649, "z":-663, "fillColor":"blue"}
-{"x":500.432, "y":-646, "z":-659, "fillColor":"blue"}
-{"x":500.534, "y":-705, "z":-650, "fillColor":"blue"}
-{"x":500.622, "y":-739, "z":-632, "fillColor":"blue"}
-{"x":500.691, "y":-737, "z":-633, "fillColor":"blue"}
-{"x":500.819, "y":-470, "z":-671, "fillColor":"blue"}
-{"x":500.922, "y":-349, "z":-728, "fillColor":"blue"}
-{"x":501.004, "y":-275, "z":-746, "fillColor":"blue"}
-{"x":501.121, "y":-264, "z":-733, "fillColor":"blue"}
-{"x":501.204, "y":-265, "z":-714, "fillColor":"blue"}
-{"x":501.324, "y":-507, "z":-575, "fillColor":"blue"}
-{"x":501.411, "y":-624, "z":-522, "fillColor":"blue"}
-{"x":501.519, "y":-696, "z":-528, "fillColor":"blue"}
-{"x":501.602, "y":-696, "z":-558, "fillColor":"blue"}
-{"x":501.709, "y":-754, "z":-564, "fillColor":"blue"}
-{"x":501.800, "y":-737, "z":-589, "fillColor":"blue"}
-{"x":501.904, "y":-738, "z":-596, "fillColor":"blue"}
-{"x":501.978, "y":-708, "z":-550, "fillColor":"blue"}
-{"x":502.096, "y":-714, "z":-562, "fillColor":"blue"}
-{"x":502.163, "y":-715, "z":-561, "fillColor":"blue"}
-{"x":502.284, "y":-718, "z":-580, "fillColor":"blue"}
-{"x":502.362, "y":-706, "z":-587, "fillColor":"blue"}
-{"x":502.476, "y":-703, "z":-594, "fillColor":"blue"}
-{"x":502.558, "y":-715, "z":-587, "fillColor":"blue"}
-{"x":502.685, "y":-717, "z":-597, "fillColor":"blue"}
-{"x":502.767, "y":-693, "z":-604, "fillColor":"blue"}
-{"x":502.878, "y":-704, "z":-620, "fillColor":"blue"}
-{"x":502.997, "y":-634, "z":-659, "fillColor":"blue"}
-{"x":503.105, "y":-619, "z":-677, "fillColor":"blue"}
-{"x":503.205, "y":-584, "z":-692, "fillColor":"blue"}
-{"x":503.319, "y":-583, "z":-694, "fillColor":"blue"}
-{"x":503.430, "y":-572, "z":-688, "fillColor":"blue"}
-{"x":503.555, "y":-604, "z":-676, "fillColor":"blue"}
-{"x":503.658, "y":-614, "z":-669, "fillColor":"blue"}
-{"x":503.764, "y":-617, "z":-673, "fillColor":"blue"}
-{"x":503.886, "y":-672, "z":-621, "fillColor":"blue"}
-{"x":503.995, "y":-692, "z":-602, "fillColor":"blue"}
-{"x":504.106, "y":-695, "z":-623, "fillColor":"blue"}
-{"x":504.197, "y":-698, "z":-635, "fillColor":"blue"}
-{"x":504.334, "y":-689, "z":-648, "fillColor":"blue"}
-{"x":504.449, "y":-690, "z":-651, "fillColor":"blue"}
-{"x":504.555, "y":-687, "z":-648, "fillColor":"blue"}
-{"x":504.663, "y":-687, "z":-648, "fillColor":"blue"}
-{"x":504.769, "y":-671, "z":-644, "fillColor":"blue"}
-{"x":504.881, "y":-670, "z":-644, "fillColor":"blue"}
-{"x":505.009, "y":-618, "z":-652, "fillColor":"blue"}
-{"x":505.069, "y":-617, "z":-651, "fillColor":"blue"}
-{"x":505.194, "y":-530, "z":-683, "fillColor":"blue"}
-{"x":505.300, "y":-528, "z":-682, "fillColor":"blue"}
-{"x":505.377, "y":-523, "z":-746, "fillColor":"blue"}
-{"x":505.499, "y":-546, "z":-790, "fillColor":"blue"}
-{"x":505.583, "y":-513, "z":-803, "fillColor":"blue"}
-{"x":505.685, "y":-522, "z":-815, "fillColor":"blue"}
-{"x":505.762, "y":-507, "z":-812, "fillColor":"blue"}
-{"x":505.872, "y":-527, "z":-808, "fillColor":"blue"}
-{"x":505.970, "y":-426, "z":-826, "fillColor":"blue"}
-{"x":506.072, "y":-419, "z":-824, "fillColor":"blue"}
-{"x":506.170, "y":-399, "z":-836, "fillColor":"blue"}
-{"x":506.269, "y":-399, "z":-846, "fillColor":"blue"}
-{"x":506.383, "y":-318, "z":-809, "fillColor":"blue"}
-{"x":506.481, "y":-308, "z":-804, "fillColor":"blue"}
-{"x":506.578, "y":-187, "z":-862, "fillColor":"blue"}
-{"x":506.690, "y":-4, "z":-914, "fillColor":"blue"}
-{"x":506.765, "y":-0, "z":-995, "fillColor":"blue"}
-{"x":506.893, "y":-113, "z":-922, "fillColor":"blue"}
-{"x":506.986, "y":-71, "z":-878, "fillColor":"blue"}
-{"x":507.097, "y":-60, "z":-859, "fillColor":"blue"}
-{"x":507.183, "y":-53, "z":-819, "fillColor":"blue"}
-{"x":507.301, "y":-74, "z":-803, "fillColor":"blue"}
-{"x":507.395, "y":-70, "z":-797, "fillColor":"blue"}
-{"x":507.505, "y":-70, "z":-796, "fillColor":"blue"}
-{"x":507.602, "y":-68, "z":-794, "fillColor":"blue"}
-{"x":507.715, "y":-67, "z":-794, "fillColor":"blue"}
-{"x":507.805, "y":-68, "z":-791, "fillColor":"blue"}
-{"x":507.924, "y":-247, "z":-700, "fillColor":"blue"}
-{"x":508.024, "y":-508, "z":-658, "fillColor":"blue"}
-{"x":508.134, "y":-512, "z":-650, "fillColor":"blue"}
-{"x":508.211, "y":-506, "z":-616, "fillColor":"blue"}
-{"x":508.320, "y":-625, "z":-633, "fillColor":"blue"}
-{"x":508.396, "y":-641, "z":-656, "fillColor":"blue"}
-{"x":508.516, "y":-702, "z":-665, "fillColor":"blue"}
-{"x":508.592, "y":-692, "z":-634, "fillColor":"blue"}
-{"x":508.708, "y":-723, "z":-627, "fillColor":"blue"}
-{"x":508.804, "y":-766, "z":-636, "fillColor":"blue"}
-{"x":508.924, "y":-781, "z":-631, "fillColor":"blue"}
-{"x":509.034, "y":-801, "z":-610, "fillColor":"blue"}
-{"x":509.164, "y":-865, "z":-496, "fillColor":"blue"}
-{"x":509.236, "y":-856, "z":-472, "fillColor":"blue"}
-{"x":509.353, "y":-858, "z":-484, "fillColor":"blue"}
-{"x":509.445, "y":-846, "z":-535, "fillColor":"blue"}
-{"x":509.545, "y":-858, "z":-532, "fillColor":"blue"}
-{"x":509.703, "y":-793, "z":-624, "fillColor":"blue"}
-{"x":509.804, "y":-789, "z":-726, "fillColor":"blue"}
-{"x":509.914, "y":-770, "z":-767, "fillColor":"blue"}
-{"x":510.010, "y":-765, "z":-766, "fillColor":"blue"}
-{"x":510.149, "y":-579, "z":-856, "fillColor":"blue"}
-{"x":510.250, "y":-591, "z":-855, "fillColor":"blue"}
-{"x":510.378, "y":-582, "z":-823, "fillColor":"blue"}
-{"x":510.473, "y":-706, "z":-772, "fillColor":"blue"}
-{"x":510.565, "y":-792, "z":-552, "fillColor":"blue"}
-{"x":510.697, "y":-881, "z":-516, "fillColor":"blue"}
-{"x":510.773, "y":-881, "z":-508, "fillColor":"blue"}
-{"x":510.881, "y":-915, "z":-493, "fillColor":"blue"}
-{"x":511.018, "y":-718, "z":-676, "fillColor":"blue"}
-{"x":511.140, "y":-437, "z":-686, "fillColor":"blue"}
-{"x":511.245, "y":-272, "z":-696, "fillColor":"blue"}
-{"x":511.356, "y":-271, "z":-702, "fillColor":"blue"}
-{"x":511.464, "y":-234, "z":-783, "fillColor":"blue"}
-{"x":511.590, "y":-243, "z":-789, "fillColor":"blue"}
-{"x":511.690, "y":-243, "z":-789, "fillColor":"blue"}
-{"x":511.817, "y":-243, "z":-792, "fillColor":"blue"}
-{"x":511.922, "y":-236, "z":-761, "fillColor":"blue"}
-{"x":512.050, "y":-291, "z":-707, "fillColor":"blue"}
-{"x":512.150, "y":-334, "z":-680, "fillColor":"blue"}
-{"x":512.253, "y":-402, "z":-620, "fillColor":"blue"}
-{"x":512.367, "y":-390, "z":-609, "fillColor":"blue"}
-{"x":512.477, "y":-410, "z":-567, "fillColor":"blue"}
-{"x":513.203, "y":-543, "z":-849, "fillColor":"blue"}
-{"x":513.317, "y":-572, "z":-860, "fillColor":"blue"}
-{"x":513.421, "y":-705, "z":-701, "fillColor":"blue"}
-{"x":513.531, "y":-710, "z":-697, "fillColor":"blue"}
-{"x":513.652, "y":-668, "z":-708, "fillColor":"blue"}
-{"x":513.770, "y":-703, "z":-701, "fillColor":"blue"}
-{"x":513.942, "y":-491, "z":-784, "fillColor":"blue"}
-{"x":514.031, "y":-449, "z":-777, "fillColor":"blue"}
-{"x":514.126, "y":-333, "z":-799, "fillColor":"blue"}
-{"x":514.232, "y":-333, "z":-800, "fillColor":"blue"}
-{"x":514.332, "y":-266, "z":-759, "fillColor":"blue"}
-{"x":514.440, "y":-259, "z":-750, "fillColor":"blue"}
-{"x":514.565, "y":-217, "z":-732, "fillColor":"blue"}
-{"x":514.663, "y":-216, "z":-679, "fillColor":"blue"}
-{"x":514.774, "y":-194, "z":-604, "fillColor":"blue"}
-{"x":514.885, "y":-200, "z":-579, "fillColor":"blue"}
-{"x":515.026, "y":-200, "z":-578, "fillColor":"blue"}
-{"x":515.137, "y":-210, "z":-550, "fillColor":"blue"}
-{"x":515.246, "y":-264, "z":-411, "fillColor":"blue"}
-{"x":515.365, "y":-321, "z":-299, "fillColor":"blue"}
-{"x":516.284, "y":-65, "z":-727, "fillColor":"blue"}
-{"x":516.379, "y":-0, "z":-780, "fillColor":"blue"}
-{"x":516.574, "y":-160, "z":-800, "fillColor":"blue"}
-{"x":516.669, "y":-152, "z":-803, "fillColor":"blue"}
-{"x":516.778, "y":-61, "z":-834, "fillColor":"blue"}
-{"x":516.898, "y":-58, "z":-835, "fillColor":"blue"}
-{"x":517.004, "y":-0, "z":-911, "fillColor":"blue"}
-{"x":517.117, "y":-10, "z":-927, "fillColor":"blue"}
-{"x":517.470, "y":-405, "z":-1084, "fillColor":"blue"}
-{"x":517.575, "y":-411, "z":-1088, "fillColor":"blue"}
-{"x":518.170, "y":-155, "z":-1160, "fillColor":"blue"}
-{"x":518.266, "y":-102, "z":-1159, "fillColor":"blue"}
-{"x":518.377, "y":-33, "z":-1146, "fillColor":"blue"}
-{"x":518.487, "y":-18, "z":-1152, "fillColor":"blue"}
-{"x":518.956, "y":-0, "z":-1211, "fillColor":"blue"}
-{"x":519.052, "y":-0, "z":-1211, "fillColor":"blue"}
-{"x":520.407, "y":-137, "z":-1027, "fillColor":"blue"}
-{"x":520.516, "y":-132, "z":-1017, "fillColor":"blue"}
-{"x":521.126, "y":-119, "z":-947, "fillColor":"blue"}
-{"x":521.223, "y":-119, "z":-947, "fillColor":"blue"}
-{"x":523.041, "y":-0, "z":-1067, "fillColor":"blue"}
-{"x":523.160, "y":-0, "z":-1067, "fillColor":"blue"}
-{"x":523.609, "y":-183, "z":-1470, "fillColor":"blue"}
-{"x":523.723, "y":-188, "z":-1444, "fillColor":"blue"}
-{"x":524.277, "y":-410, "z":-1634, "fillColor":"blue"}
-{"x":524.328, "y":-423, "z":-1610, "fillColor":"blue"}
-{"x":524.437, "y":-472, "z":-1517, "fillColor":"blue"}
-{"x":524.528, "y":-475, "z":-1526, "fillColor":"blue"}
-{"x":524.626, "y":-492, "z":-1548, "fillColor":"blue"}
-{"x":524.729, "y":-484, "z":-1567, "fillColor":"blue"}
-{"x":525.200, "y":-621, "z":-1393, "fillColor":"blue"}
-{"x":525.308, "y":-731, "z":-1316, "fillColor":"blue"}
-{"x":525.391, "y":-777, "z":-1306, "fillColor":"blue"}
-{"x":525.497, "y":-807, "z":-1296, "fillColor":"blue"}
-{"x":525.590, "y":-834, "z":-1302, "fillColor":"blue"}
-{"x":525.694, "y":-910, "z":-1284, "fillColor":"blue"}
-{"x":525.782, "y":-904, "z":-1267, "fillColor":"blue"}
-{"x":525.887, "y":-910, "z":-1261, "fillColor":"blue"}
-{"x":525.975, "y":-909, "z":-1252, "fillColor":"blue"}
-{"x":526.090, "y":-923, "z":-1257, "fillColor":"blue"}
-{"x":526.196, "y":-926, "z":-1243, "fillColor":"blue"}
-{"x":526.300, "y":-925, "z":-1246, "fillColor":"blue"}
-{"x":526.402, "y":-932, "z":-1244, "fillColor":"blue"}
-{"x":526.512, "y":-944, "z":-1249, "fillColor":"blue"}
-{"x":526.925, "y":-732, "z":-1206, "fillColor":"blue"}
-{"x":527.046, "y":-771, "z":-1224, "fillColor":"blue"}
-{"x":527.136, "y":-801, "z":-1232, "fillColor":"blue"}
-{"x":527.241, "y":-826, "z":-1249, "fillColor":"blue"}
-{"x":527.347, "y":-825, "z":-1251, "fillColor":"blue"}
-{"x":527.456, "y":-826, "z":-1249, "fillColor":"blue"}
-{"x":528.237, "y":-533, "z":-1454, "fillColor":"blue"}
-{"x":528.269, "y":-533, "z":-1454, "fillColor":"blue"}
-{"x":528.505, "y":-381, "z":-1325, "fillColor":"blue"}
-{"x":528.610, "y":-187, "z":-1325, "fillColor":"blue"}
-{"x":528.701, "y":-124, "z":-1452, "fillColor":"blue"}
-{"x":528.801, "y":-112, "z":-1470, "fillColor":"blue"}
-{"x":528.892, "y":-73, "z":-1511, "fillColor":"blue"}
-{"x":529.010, "y":-130, "z":-1537, "fillColor":"blue"}
-{"x":529.209, "y":-48, "z":-1579, "fillColor":"blue"}
-{"x":529.351, "y":-1, "z":-1573, "fillColor":"blue"}
-{"x":530.179, "y":-570, "z":-1242, "fillColor":"blue"}
-{"x":530.272, "y":-593, "z":-1265, "fillColor":"blue"}
-{"x":530.366, "y":-659, "z":-1325, "fillColor":"blue"}
-{"x":530.474, "y":-691, "z":-1327, "fillColor":"blue"}
-{"x":530.547, "y":-743, "z":-1288, "fillColor":"blue"}
-{"x":530.655, "y":-767, "z":-1290, "fillColor":"blue"}
-{"x":531.798, "y":-758, "z":-1438, "fillColor":"blue"}
-{"x":531.881, "y":-758, "z":-1438, "fillColor":"blue"}
-{"x":531.996, "y":-761, "z":-1438, "fillColor":"blue"}
-{"x":532.036, "y":-760, "z":-1438, "fillColor":"blue"}
-{"x":532.191, "y":-753, "z":-1438, "fillColor":"blue"}
-{"x":532.272, "y":-753, "z":-1437, "fillColor":"blue"}
-{"x":532.427, "y":-720, "z":-1430, "fillColor":"blue"}
-{"x":532.549, "y":-703, "z":-1431, "fillColor":"blue"}
-{"x":532.638, "y":-704, "z":-1431, "fillColor":"blue"}
-{"x":532.746, "y":-709, "z":-1444, "fillColor":"blue"}
-{"x":532.849, "y":-712, "z":-1437, "fillColor":"blue"}
-{"x":532.943, "y":-728, "z":-1368, "fillColor":"blue"}
-{"x":533.272, "y":-653, "z":-1362, "fillColor":"blue"}
-{"x":533.393, "y":-690, "z":-1368, "fillColor":"blue"}
-{"x":533.513, "y":-686, "z":-1375, "fillColor":"blue"}
-{"x":533.624, "y":-685, "z":-1374, "fillColor":"blue"}
-{"x":535.074, "y":-686, "z":-1092, "fillColor":"blue"}
-{"x":535.160, "y":-686, "z":-1091, "fillColor":"blue"}
-{"x":535.250, "y":-684, "z":-1078, "fillColor":"blue"}
-{"x":535.349, "y":-684, "z":-1078, "fillColor":"blue"}
-{"x":535.444, "y":-683, "z":-1100, "fillColor":"blue"}
-{"x":535.538, "y":-681, "z":-1100, "fillColor":"blue"}
-{"x":535.636, "y":-662, "z":-1110, "fillColor":"blue"}
-{"x":535.731, "y":-659, "z":-1108, "fillColor":"blue"}
-{"x":535.814, "y":-654, "z":-1106, "fillColor":"blue"}
-{"x":535.923, "y":-656, "z":-1094, "fillColor":"blue"}
-{"x":536.047, "y":-654, "z":-1094, "fillColor":"blue"}
-{"x":536.139, "y":-653, "z":-1089, "fillColor":"blue"}
-{"x":536.228, "y":-653, "z":-1089, "fillColor":"blue"}
-{"x":536.326, "y":-653, "z":-1087, "fillColor":"blue"}
-{"x":536.665, "y":-515, "z":-1049, "fillColor":"blue"}
-{"x":536.744, "y":-492, "z":-996, "fillColor":"blue"}
-{"x":536.844, "y":-385, "z":-993, "fillColor":"blue"}
-{"x":536.953, "y":-327, "z":-954, "fillColor":"blue"}
-{"x":537.038, "y":-278, "z":-955, "fillColor":"blue"}
-{"x":537.151, "y":-274, "z":-955, "fillColor":"blue"}
-{"x":537.241, "y":-146, "z":-965, "fillColor":"blue"}
-{"x":537.368, "y":-131, "z":-957, "fillColor":"blue"}
-{"x":537.724, "y":-41, "z":-815, "fillColor":"blue"}
-{"x":537.813, "y":-59, "z":-789, "fillColor":"blue"}
-{"x":537.950, "y":-149, "z":-603, "fillColor":"blue"}
-{"x":538.083, "y":-118, "z":-438, "fillColor":"blue"}
-{"x":538.872, "y":-395, "z":-479, "fillColor":"blue"}
-{"x":538.982, "y":-412, "z":-464, "fillColor":"blue"}
-{"x":539.081, "y":-416, "z":-435, "fillColor":"blue"}
-{"x":539.189, "y":-416, "z":-428, "fillColor":"blue"}
-{"x":540.377, "y":-279, "z":-916, "fillColor":"blue"}
-{"x":540.475, "y":-335, "z":-890, "fillColor":"blue"}
-{"x":540.589, "y":-395, "z":-813, "fillColor":"blue"}
-{"x":540.707, "y":-450, "z":-733, "fillColor":"blue"}
-{"x":540.805, "y":-461, "z":-663, "fillColor":"blue"}
-{"x":540.904, "y":-494, "z":-591, "fillColor":"blue"}
-{"x":540.992, "y":-493, "z":-585, "fillColor":"blue"}
-{"x":541.102, "y":-493, "z":-585, "fillColor":"blue"}
-{"x":541.200, "y":-490, "z":-589, "fillColor":"blue"}
-{"x":541.296, "y":-489, "z":-590, "fillColor":"blue"}
-{"x":541.408, "y":-488, "z":-592, "fillColor":"blue"}
-{"x":541.511, "y":-488, "z":-592, "fillColor":"blue"}
-{"x":541.621, "y":-488, "z":-592, "fillColor":"blue"}
-{"x":541.728, "y":-489, "z":-596, "fillColor":"blue"}
-{"x":541.831, "y":-489, "z":-601, "fillColor":"blue"}
-{"x":541.935, "y":-489, "z":-605, "fillColor":"blue"}
-{"x":542.017, "y":-489, "z":-603, "fillColor":"blue"}
-{"x":542.137, "y":-489, "z":-605, "fillColor":"blue"}
-{"x":542.238, "y":-490, "z":-614, "fillColor":"blue"}
-{"x":542.345, "y":-490, "z":-612, "fillColor":"blue"}
-{"x":542.428, "y":-490, "z":-608, "fillColor":"blue"}
-{"x":542.549, "y":-498, "z":-600, "fillColor":"blue"}
-{"x":542.647, "y":-495, "z":-588, "fillColor":"blue"}
-{"x":542.739, "y":-495, "z":-580, "fillColor":"blue"}
-{"x":542.851, "y":-481, "z":-588, "fillColor":"blue"}
-{"x":542.934, "y":-482, "z":-594, "fillColor":"blue"}
-{"x":543.030, "y":-488, "z":-638, "fillColor":"blue"}
-{"x":543.129, "y":-502, "z":-626, "fillColor":"blue"}
-{"x":543.237, "y":-511, "z":-589, "fillColor":"blue"}
-{"x":543.347, "y":-512, "z":-588, "fillColor":"blue"}
-{"x":543.447, "y":-512, "z":-588, "fillColor":"blue"}
-{"x":543.543, "y":-513, "z":-591, "fillColor":"blue"}
-{"x":543.661, "y":-513, "z":-592, "fillColor":"blue"}
-{"x":543.755, "y":-513, "z":-592, "fillColor":"blue"}
-{"x":543.887, "y":-513, "z":-592, "fillColor":"blue"}
-{"x":543.996, "y":-513, "z":-592, "fillColor":"blue"}
-{"x":544.106, "y":-513, "z":-592, "fillColor":"blue"}
-{"x":544.221, "y":-512, "z":-592, "fillColor":"blue"}
-{"x":544.310, "y":-512, "z":-592, "fillColor":"blue"}
-{"x":544.413, "y":-512, "z":-592, "fillColor":"blue"}
-{"x":544.492, "y":-512, "z":-592, "fillColor":"blue"}
-{"x":544.611, "y":-512, "z":-592, "fillColor":"blue"}
-{"x":544.709, "y":-511, "z":-591, "fillColor":"blue"}
-{"x":544.800, "y":-511, "z":-592, "fillColor":"blue"}
-{"x":544.901, "y":-508, "z":-607, "fillColor":"blue"}
-{"x":545.014, "y":-508, "z":-606, "fillColor":"blue"}
-{"x":545.116, "y":-509, "z":-605, "fillColor":"blue"}
-{"x":545.226, "y":-509, "z":-605, "fillColor":"blue"}
-{"x":545.313, "y":-509, "z":-605, "fillColor":"blue"}
-{"x":545.424, "y":-509, "z":-605, "fillColor":"blue"}
-{"x":545.506, "y":-509, "z":-605, "fillColor":"blue"}
-{"x":545.622, "y":-510, "z":-600, "fillColor":"blue"}
-{"x":545.721, "y":-510, "z":-600, "fillColor":"blue"}
-{"x":545.844, "y":-510, "z":-599, "fillColor":"blue"}
-{"x":545.921, "y":-510, "z":-595, "fillColor":"blue"}
-{"x":546.054, "y":-510, "z":-594, "fillColor":"blue"}
-{"x":546.138, "y":-510, "z":-594, "fillColor":"blue"}
-{"x":546.253, "y":-510, "z":-594, "fillColor":"blue"}
-{"x":546.353, "y":-510, "z":-594, "fillColor":"blue"}
-{"x":546.480, "y":-511, "z":-595, "fillColor":"blue"}
-{"x":546.574, "y":-511, "z":-595, "fillColor":"blue"}
-{"x":546.695, "y":-511, "z":-595, "fillColor":"blue"}
-{"x":546.788, "y":-511, "z":-595, "fillColor":"blue"}
-{"x":546.921, "y":-511, "z":-595, "fillColor":"blue"}
-{"x":547.022, "y":-511, "z":-595, "fillColor":"blue"}
-{"x":547.134, "y":-511, "z":-595, "fillColor":"blue"}
-{"x":547.223, "y":-509, "z":-602, "fillColor":"blue"}
-{"x":547.343, "y":-509, "z":-602, "fillColor":"blue"}
-{"x":547.444, "y":-509, "z":-602, "fillColor":"blue"}
-{"x":547.563, "y":-509, "z":-602, "fillColor":"blue"}
-{"x":547.648, "y":-509, "z":-602, "fillColor":"blue"}
-{"x":547.773, "y":-509, "z":-602, "fillColor":"blue"}
-{"x":547.862, "y":-509, "z":-602, "fillColor":"blue"}
-{"x":547.994, "y":-509, "z":-602, "fillColor":"blue"}
-{"x":548.097, "y":-509, "z":-602, "fillColor":"blue"}
-{"x":548.241, "y":-509, "z":-602, "fillColor":"blue"}
-{"x":548.342, "y":-509, "z":-602, "fillColor":"blue"}
-{"x":548.445, "y":-509, "z":-601, "fillColor":"blue"}
-{"x":548.544, "y":-509, "z":-601, "fillColor":"blue"}
-{"x":548.684, "y":-511, "z":-598, "fillColor":"blue"}
-{"x":548.813, "y":-511, "z":-598, "fillColor":"blue"}
-{"x":548.924, "y":-511, "z":-598, "fillColor":"blue"}
-{"x":549.025, "y":-511, "z":-598, "fillColor":"blue"}
-{"x":549.152, "y":-511, "z":-598, "fillColor":"blue"}
-{"x":549.409, "y":-636, "z":-947, "fillColor":"blue"}
-{"x":549.512, "y":-673, "z":-1013, "fillColor":"blue"}
-{"x":549.599, "y":-741, "z":-1150, "fillColor":"blue"}
-{"x":549.701, "y":-749, "z":-1155, "fillColor":"blue"}
-{"x":549.790, "y":-768, "z":-1228, "fillColor":"blue"}
-{"x":549.887, "y":-773, "z":-1249, "fillColor":"blue"}
-{"x":550.656, "y":-825, "z":-1430, "fillColor":"blue"}
-{"x":550.749, "y":-826, "z":-1436, "fillColor":"blue"}
-{"x":551.533, "y":-921, "z":-1380, "fillColor":"blue"}
-{"x":551.645, "y":-920, "z":-1380, "fillColor":"blue"}
-{"x":551.712, "y":-921, "z":-1380, "fillColor":"blue"}
-{"x":551.839, "y":-920, "z":-1378, "fillColor":"blue"}
-{"x":551.921, "y":-921, "z":-1379, "fillColor":"blue"}
-{"x":552.025, "y":-921, "z":-1379, "fillColor":"blue"}
-{"x":552.125, "y":-890, "z":-1401, "fillColor":"blue"}
-{"x":552.221, "y":-888, "z":-1401, "fillColor":"blue"}
-{"x":552.352, "y":-744, "z":-1446, "fillColor":"blue"}
-{"x":552.445, "y":-743, "z":-1444, "fillColor":"blue"}
-{"x":552.559, "y":-712, "z":-1384, "fillColor":"blue"}
-{"x":552.666, "y":-713, "z":-1366, "fillColor":"blue"}
-{"x":552.736, "y":-708, "z":-1364, "fillColor":"blue"}
-{"x":552.840, "y":-707, "z":-1365, "fillColor":"blue"}
-{"x":552.931, "y":-702, "z":-1371, "fillColor":"blue"}
-{"x":553.042, "y":-702, "z":-1366, "fillColor":"blue"}
-{"x":553.129, "y":-702, "z":-1369, "fillColor":"blue"}
-{"x":553.226, "y":-702, "z":-1367, "fillColor":"blue"}
-{"x":553.319, "y":-702, "z":-1367, "fillColor":"blue"}
-{"x":553.430, "y":-702, "z":-1367, "fillColor":"blue"}
-{"x":553.722, "y":-720, "z":-1407, "fillColor":"blue"}
-{"x":553.836, "y":-722, "z":-1411, "fillColor":"blue"}
-{"x":554.075, "y":-722, "z":-1406, "fillColor":"blue"}
-{"x":554.119, "y":-724, "z":-1401, "fillColor":"blue"}
-{"x":554.263, "y":-733, "z":-1350, "fillColor":"blue"}
-{"x":554.341, "y":-752, "z":-1308, "fillColor":"blue"}
-{"x":554.463, "y":-755, "z":-1288, "fillColor":"blue"}
-{"x":554.565, "y":-758, "z":-1262, "fillColor":"blue"}
-{"x":554.679, "y":-768, "z":-1254, "fillColor":"blue"}
-{"x":554.785, "y":-771, "z":-1237, "fillColor":"blue"}
-{"x":554.887, "y":-771, "z":-1237, "fillColor":"blue"}
-{"x":554.968, "y":-771, "z":-1236, "fillColor":"blue"}
-{"x":562.878, "y":-1190, "z":-309, "fillColor":"blue"}
-{"x":562.985, "y":-1128, "z":-351, "fillColor":"blue"}
-{"x":563.069, "y":-1129, "z":-350, "fillColor":"blue"}
-{"x":563.165, "y":-1172, "z":-247, "fillColor":"blue"}
-{"x":563.990, "y":-895, "z":-677, "fillColor":"blue"}
-{"x":564.091, "y":-878, "z":-753, "fillColor":"blue"}
-{"x":564.194, "y":-840, "z":-869, "fillColor":"blue"}
-{"x":564.240, "y":-872, "z":-864, "fillColor":"blue"}
-{"x":565.950, "y":-576, "z":-1939, "fillColor":"blue"}
-{"x":566.054, "y":-555, "z":-1972, "fillColor":"blue"}
-{"x":567.035, "y":-345, "z":-1655, "fillColor":"blue"}
-{"x":567.119, "y":-344, "z":-1653, "fillColor":"blue"}
-{"x":567.210, "y":-355, "z":-1635, "fillColor":"blue"}
-{"x":567.320, "y":-353, "z":-1635, "fillColor":"blue"}
-{"x":572.711, "y":-845, "z":-492, "fillColor":"blue"}
-{"x":572.805, "y":-845, "z":-492, "fillColor":"blue"}
-{"x":573.287, "y":-518, "z":-841, "fillColor":"blue"}
-{"x":573.396, "y":-522, "z":-850, "fillColor":"blue"}
-{"x":573.527, "y":-514, "z":-846, "fillColor":"blue"}
-{"x":573.629, "y":-512, "z":-845, "fillColor":"blue"}
-{"x":573.750, "y":-503, "z":-837, "fillColor":"blue"}
-{"x":573.872, "y":-503, "z":-836, "fillColor":"blue"}
-{"x":576.861, "y":-463, "z":-910, "fillColor":"blue"}
-{"x":576.964, "y":-463, "z":-909, "fillColor":"blue"}
-{"x":577.352, "y":-385, "z":-817, "fillColor":"blue"}
-{"x":577.471, "y":-385, "z":-816, "fillColor":"blue"}
-{"x":578.556, "y":-1097, "z":-1023, "fillColor":"red"}
-{"x":578.657, "y":-1097, "z":-1023, "fillColor":"red"}
-{"x":579.283, "y":-644, "z":-554, "fillColor":"blue"}
-{"x":579.366, "y":-624, "z":-545, "fillColor":"blue"}
-{"x":579.773, "y":-542, "z":-559, "fillColor":"blue"}
-{"x":579.881, "y":-545, "z":-569, "fillColor":"blue"}
-{"x":581.312, "y":-782, "z":-568, "fillColor":"blue"}
-{"x":581.472, "y":-782, "z":-568, "fillColor":"blue"}
-{"x":581.964, "y":-416, "z":-1179, "fillColor":"blue"}
-{"x":582.063, "y":-473, "z":-1281, "fillColor":"blue"}
-{"x":582.148, "y":-527, "z":-1392, "fillColor":"blue"}
-{"x":582.258, "y":-527, "z":-1420, "fillColor":"blue"}
-{"x":582.339, "y":-532, "z":-1452, "fillColor":"blue"}
-{"x":582.445, "y":-532, "z":-1455, "fillColor":"blue"}
-{"x":582.527, "y":-532, "z":-1457, "fillColor":"blue"}
-{"x":582.648, "y":-533, "z":-1459, "fillColor":"blue"}
-{"x":582.748, "y":-533, "z":-1477, "fillColor":"blue"}
-{"x":582.862, "y":-537, "z":-1471, "fillColor":"blue"}
-{"x":582.967, "y":-537, "z":-1472, "fillColor":"blue"}
-{"x":583.085, "y":-510, "z":-1464, "fillColor":"blue"}
-{"x":583.185, "y":-356, "z":-1528, "fillColor":"blue"}
-{"x":583.286, "y":-333, "z":-1528, "fillColor":"blue"}
-{"x":583.768, "y":-281, "z":-1814, "fillColor":"blue"}
-{"x":583.873, "y":-283, "z":-1818, "fillColor":"blue"}
-{"x":584.725, "y":-137, "z":-1827, "fillColor":"blue"}
-{"x":584.828, "y":-138, "z":-1828, "fillColor":"blue"}
-{"x":586.018, "y":-734, "z":-1792, "fillColor":"blue"}
-{"x":586.131, "y":-732, "z":-1791, "fillColor":"blue"}
-{"x":586.249, "y":-712, "z":-1816, "fillColor":"blue"}
-{"x":586.360, "y":-712, "z":-1816, "fillColor":"blue"}
-{"x":586.467, "y":-712, "z":-1816, "fillColor":"blue"}
-{"x":586.576, "y":-712, "z":-1817, "fillColor":"blue"}
-{"x":587.334, "y":-1188, "z":-1980, "fillColor":"blue"}
-{"x":587.428, "y":-1188, "z":-1980, "fillColor":"blue"}
-{"x":587.702, "y":-1167, "z":-2004, "fillColor":"blue"}
-{"x":587.821, "y":-1166, "z":-2004, "fillColor":"blue"}
-{"x":588.094, "y":-1166, "z":-2004, "fillColor":"red"}
-{"x":588.195, "y":-1166, "z":-2004, "fillColor":"red"}
-{"x":592.637, "y":-1231, "z":-1982, "fillColor":"blue"}
-{"x":592.829, "y":-1230, "z":-1982, "fillColor":"blue"}
-{"x":593.963, "y":-1237, "z":-1997, "fillColor":"red"}
-{"x":594.050, "y":-1236, "z":-1997, "fillColor":"red"}
-{"x":594.591, "y":-0, "z":-1857, "fillColor":"blue"}
-{"x":594.736, "y":-0, "z":-1857, "fillColor":"blue"}
-{"x":596.304, "y":-797, "z":-581, "fillColor":"blue"}
-{"x":596.404, "y":-899, "z":-556, "fillColor":"blue"}
-{"x":596.495, "y":-922, "z":-514, "fillColor":"blue"}
-{"x":596.578, "y":-922, "z":-518, "fillColor":"blue"}
-{"x":596.994, "y":-929, "z":-196, "fillColor":"blue"}
-{"x":597.070, "y":-930, "z":-172, "fillColor":"blue"}
-{"x":597.159, "y":-915, "z":-40, "fillColor":"blue"}
-{"x":597.266, "y":-1027, "z":-0, "fillColor":"blue"}
-{"x":597.497, "y":-1118, "z":-204, "fillColor":"blue"}
-{"x":597.588, "y":-1086, "z":-321, "fillColor":"blue"}
-{"x":601.786, "y":-483, "z":-1872, "fillColor":"blue"}
-{"x":601.881, "y":-482, "z":-1872, "fillColor":"blue"}
-{"x":601.991, "y":-476, "z":-1872, "fillColor":"blue"}
-{"x":602.084, "y":-461, "z":-1872, "fillColor":"blue"}
-{"x":602.196, "y":-372, "z":-1901, "fillColor":"blue"}
-{"x":602.318, "y":-373, "z":-1899, "fillColor":"blue"}
-{"x":604.614, "y":-370, "z":-487, "fillColor":"blue"}
-{"x":604.701, "y":-308, "z":-481, "fillColor":"blue"}
-{"x":604.779, "y":-261, "z":-469, "fillColor":"blue"}
-{"x":604.870, "y":-271, "z":-470, "fillColor":"blue"}
-{"x":604.941, "y":-271, "z":-470, "fillColor":"blue"}
-{"x":605.068, "y":-275, "z":-471, "fillColor":"blue"}
-{"x":606.566, "y":-1244, "z":-1311, "fillColor":"red"}
-{"x":606.649, "y":-1243, "z":-1312, "fillColor":"red"}
-{"x":608.035, "y":-360, "z":-1053, "fillColor":"blue"}
-{"x":608.126, "y":-358, "z":-1053, "fillColor":"blue"}
-{"x":608.529, "y":-359, "z":-1053, "fillColor":"blue"}
-{"x":608.639, "y":-359, "z":-1053, "fillColor":"blue"}
-{"x":620.144, "y":-1241, "z":-1777, "fillColor":"red"}
-{"x":620.238, "y":-1241, "z":-1777, "fillColor":"red"}
-{"x":623.964, "y":-1256, "z":-1318, "fillColor":"red"}
-{"x":624.046, "y":-1256, "z":-1318, "fillColor":"red"}
-{"x":624.856, "y":-301, "z":-1144, "fillColor":"blue"}
-{"x":625.011, "y":-293, "z":-1161, "fillColor":"blue"}
-{"x":628.830, "y":-592, "z":-352, "fillColor":"red"}
-{"x":628.934, "y":-592, "z":-352, "fillColor":"red"}
+z,y,x,button
+0.468,-742,1102,right
+0.576,-613,1093,right
+0.683,-514,1183,right
+0.791,-507,1188,right
+0.898,-342,1158,right
+1.025,-362,1141,right
+1.146,-363,1147,right
+1.269,-368,1155,right
+1.372,-384,1168,right
+1.483,-420,1151,right
+1.597,-414,1175,right
+1.715,-433,1153,right
+1.814,-481,1164,right
+1.902,-486,1159,right
+2.325,-495,1120,right
+2.420,-501,1095,right
+2.530,-503,1094,right
+2.630,-504,1090,right
+3.018,-454,1103,right
+3.106,-451,1103,right
+4.002,-1093,782,left
+4.096,-1092,782,left
+4.738,-527,1086,right
+4.809,-527,1084,right
+4.934,-519,1069,right
+5.041,-519,1071,right
+5.229,-535,1094,right
+5.350,-540,1094,right
+5.453,-540,1094,right
+5.572,-542,1086,right
+5.668,-542,1086,right
+5.792,-542,1086,right
+5.891,-542,1086,right
+6.004,-542,1085,right
+6.508,-444,1022,right
+6.632,-444,1022,right
+7.540,-544,1070,right
+7.639,-545,1070,right
+8.585,-394,1096,right
+8.628,-394,1096,right
+9.110,-381,1246,right
+9.199,-381,1254,right
+9.732,-337,1491,right
+9.831,-353,1534,right
+9.926,-447,1473,right
+10.021,-515,1442,right
+10.129,-528,1475,right
+10.225,-532,1487,right
+10.325,-541,1571,right
+10.431,-572,1584,right
+10.517,-573,1584,right
+10.604,-583,1582,right
+10.703,-582,1600,right
+10.795,-584,1598,right
+10.896,-583,1607,right
+10.986,-583,1607,right
+11.090,-563,1616,right
+11.199,-563,1620,right
+14.110,-1237,1390,left
+14.181,-1237,1390,left
+20.309,-278,1153,right
+20.419,-278,1153,right
+23.431,-619,214,left
+23.507,-619,214,left
+24.374,-380,1309,right
+24.518,-373,1314,right
+25.563,-1128,1892,left
+25.651,-1128,1891,left
+27.597,-1047,1809,left
+27.723,-1047,1809,left
+37.107,-1132,1878,left
+37.208,-1132,1878,left
+41.729,-1195,2010,left
+41.833,-1199,2010,left
+46.674,-577,1086,right
+46.855,-554,1067,right
+46.908,-529,1061,right
+47.001,-540,1076,right
+47.071,-537,1077,right
+47.182,-538,1085,right
+47.275,-551,1119,right
+47.394,-550,1113,right
+47.465,-550,1113,right
+47.575,-550,1111,right
+47.655,-552,1109,right
+47.765,-560,1108,right
+47.854,-559,1107,right
+47.965,-559,1107,right
+48.050,-553,1110,right
+48.153,-553,1111,right
+48.239,-553,1111,right
+48.342,-553,1111,right
+48.434,-553,1110,right
+48.551,-553,1109,right
+48.638,-554,1109,right
+48.745,-554,1109,right
+48.826,-554,1109,right
+48.937,-554,1108,right
+49.033,-554,1108,right
+49.149,-554,1108,right
+49.238,-554,1108,right
+49.345,-554,1108,right
+49.438,-554,1108,right
+49.554,-554,1108,right
+49.648,-554,1108,right
+49.766,-554,1108,right
+49.858,-554,1108,right
+49.991,-554,1108,right
+50.102,-554,1108,right
+50.217,-554,1108,right
+50.721,-621,1115,right
+50.825,-630,1112,right
+51.220,-648,1102,right
+51.331,-648,1102,right
+57.602,-749,757,right
+57.698,-749,757,right
+58.501,-603,1082,right
+58.578,-592,1084,right
+58.696,-551,1113,right
+58.793,-483,1122,right
+58.875,-403,1151,right
+58.977,-416,1163,right
+59.457,-156,1222,right
+59.542,-151,1222,right
+59.638,-141,1225,right
+59.738,-149,1230,right
+60.269,-198,996,right
+60.365,-201,996,right
+60.486,-227,938,right
+60.587,-263,870,right
+60.680,-276,857,right
+60.804,-326,845,right
+60.924,-376,833,right
+61.030,-386,832,right
+61.742,-605,864,right
+61.831,-676,810,right
+61.945,-704,806,right
+62.021,-762,758,right
+62.220,-362,898,right
+62.302,-411,900,right
+62.423,-355,964,right
+62.528,-291,1001,right
+62.617,-250,1138,right
+62.723,-262,1148,right
+62.818,-286,1186,right
+62.935,-374,1178,right
+63.029,-408,1180,right
+63.127,-502,1154,right
+63.465,-763,1277,right
+63.573,-805,1291,right
+63.699,-850,1247,right
+63.815,-833,1247,right
+63.983,-651,1354,right
+64.075,-447,1291,right
+64.163,-436,1263,right
+64.271,-442,1213,right
+64.370,-370,1133,right
+64.472,-355,1129,right
+64.550,-285,1125,right
+64.657,-315,1116,right
+65.082,-648,1133,right
+65.153,-667,1145,right
+65.256,-662,1120,right
+65.389,-748,1005,right
+65.487,-795,959,right
+65.583,-834,934,right
+65.676,-849,886,right
+65.806,-849,885,right
+65.867,-849,874,right
+65.976,-891,833,right
+66.066,-920,730,right
+66.155,-943,661,right
+66.241,-934,658,right
+66.354,-940,645,right
+66.566,-623,868,right
+66.655,-598,860,right
+66.732,-439,982,right
+66.869,-401,1045,right
+66.946,-332,1102,right
+67.063,-301,1120,right
+67.152,-222,1174,right
+67.266,-197,1188,right
+67.734,-277,1239,right
+67.817,-278,1240,right
+67.911,-267,1313,right
+68.034,-272,1314,right
+69.374,-302,1262,right
+69.462,-303,1272,right
+69.574,-258,1330,right
+69.665,-250,1337,right
+70.495,-390,1187,right
+70.599,-390,1187,right
+71.108,-354,1286,right
+71.222,-356,1295,right
+71.916,-178,1330,right
+72.056,-197,1314,right
+72.139,-252,1328,right
+72.270,-362,1332,right
+72.352,-483,1335,right
+72.455,-562,1333,right
+72.549,-554,1345,right
+72.650,-550,1348,right
+74.059,-642,1199,right
+74.150,-642,1200,right
+75.700,-680,1133,right
+75.797,-680,1133,right
+79.798,-208,1320,right
+79.891,-208,1321,right
+80.005,-218,1389,right
+80.129,-218,1394,right
+80.682,-338,1537,right
+80.785,-338,1536,right
+80.873,-335,1533,right
+80.996,-326,1529,right
+81.515,-209,1334,right
+81.614,-214,1324,right
+81.683,-273,1275,right
+81.808,-322,1250,right
+81.878,-334,1242,right
+81.997,-373,1197,right
+82.552,-421,1065,right
+82.627,-434,1072,right
+83.495,-595,792,right
+83.614,-596,799,right
+84.776,-345,1361,right
+84.879,-348,1377,right
+85.004,-358,1361,right
+85.116,-379,1328,right
+85.716,-443,1251,right
+85.808,-474,1219,right
+86.473,-628,1377,right
+86.562,-628,1376,right
+86.657,-677,1388,right
+86.757,-744,1368,right
+87.173,-923,1112,right
+87.293,-922,1120,right
+87.800,-446,1226,right
+87.899,-380,1256,right
+87.987,-337,1251,right
+88.081,-332,1246,right
+88.163,-359,1184,right
+88.280,-438,1072,right
+88.359,-432,1058,right
+88.482,-437,1053,right
+88.565,-443,1048,right
+88.662,-448,1040,right
+88.748,-448,1040,right
+88.848,-448,1040,right
+89.174,-568,918,right
+89.261,-568,918,right
+89.356,-580,894,right
+89.451,-579,872,right
+89.551,-528,830,right
+89.682,-536,808,right
+89.752,-538,783,right
+89.877,-554,772,right
+89.970,-554,772,right
+90.073,-563,772,right
+90.190,-561,770,right
+90.304,-560,770,right
+91.060,-476,810,right
+91.187,-477,810,right
+91.630,-553,795,right
+91.721,-555,802,right
+94.453,-658,714,right
+94.533,-657,714,right
+96.136,-500,953,right
+96.242,-500,952,right
+96.526,-373,1118,right
+96.627,-373,1120,right
+96.873,-352,1205,right
+96.979,-353,1208,right
+97.791,-516,916,right
+97.906,-646,826,right
+98.242,-459,797,right
+98.360,-394,823,right
+99.666,-1112,848,left
+99.754,-1111,846,left
+100.287,-668,682,right
+100.392,-662,691,right
+101.745,-418,1065,right
+101.838,-418,1065,right
+102.381,-370,1642,right
+102.690,-357,1646,right
+102.786,-338,1646,right
+102.889,-341,1654,right
+102.999,-339,1660,right
+103.106,-341,1660,right
+103.826,-319,1642,right
+103.913,-283,1636,right
+104.018,-203,1564,right
+104.124,-272,1406,right
+104.206,-315,1334,right
+104.310,-323,1323,right
+107.237,-428,1396,right
+107.332,-441,1400,right
+107.423,-445,1399,right
+107.531,-448,1402,right
+107.723,-432,1570,right
+107.828,-387,1595,right
+107.913,-239,1787,right
+108.023,-247,1735,right
+108.892,-232,1692,right
+109.000,-232,1695,right
+109.460,-439,1491,right
+109.556,-439,1491,right
+110.013,-422,1764,right
+110.109,-424,1776,right
+110.877,-307,1770,right
+110.972,-303,1755,right
+111.649,-395,1486,right
+111.751,-396,1486,right
+112.234,-452,1606,right
+112.330,-450,1606,right
+112.543,-289,1612,right
+112.670,-283,1608,right
+113.236,-250,1831,right
+113.327,-268,1864,right
+113.457,-268,1892,right
+113.574,-300,1905,right
+114.032,-51,1883,right
+114.137,-42,1879,right
+114.239,-53,1889,right
+114.348,-107,1918,right
+114.659,-187,1687,right
+114.751,-173,1669,right
+114.858,-172,1637,right
+114.950,-180,1609,right
+115.054,-175,1605,right
+115.153,-191,1593,right
+115.261,-214,1572,right
+115.370,-263,1474,right
+115.460,-321,1403,right
+115.581,-425,1289,right
+115.667,-461,1242,right
+115.781,-480,1212,right
+115.870,-460,1193,right
+115.978,-476,1167,right
+116.060,-501,1104,right
+116.150,-501,1104,right
+116.724,-499,994,right
+116.839,-498,994,right
+116.924,-508,981,right
+117.045,-545,921,right
+117.145,-582,891,right
+117.251,-607,875,right
+118.276,-415,950,right
+118.377,-430,1000,right
+118.456,-432,975,right
+118.579,-621,821,right
+118.669,-693,771,right
+118.759,-728,746,right
+118.939,-542,1133,right
+119.044,-642,1182,right
+119.141,-697,1175,right
+119.223,-701,1180,right
+119.337,-727,1254,right
+119.424,-731,1265,right
+119.552,-617,1352,right
+119.645,-616,1352,right
+119.737,-550,1411,right
+119.849,-547,1414,right
+119.941,-533,1431,right
+120.045,-535,1444,right
+120.521,-638,1199,right
+120.616,-638,1199,right
+120.948,-364,1382,right
+121.047,-379,1369,right
+121.138,-388,1375,right
+121.244,-416,1373,right
+121.341,-339,1380,right
+121.461,-351,1375,right
+121.566,-318,1375,right
+121.634,-317,1375,right
+122.120,-245,1681,right
+122.238,-245,1684,right
+122.792,-500,1687,right
+122.844,-513,1684,right
+123.498,-828,1164,right
+123.598,-838,1161,right
+125.044,-451,1457,right
+125.133,-392,1517,right
+125.220,-243,1686,right
+125.319,-224,1661,right
+125.388,-145,1689,right
+125.497,-144,1728,right
+125.939,-174,1754,right
+126.031,-193,1739,right
+126.974,-290,1561,right
+127.057,-285,1561,right
+127.708,-253,1509,right
+127.801,-247,1511,right
+128.938,-235,1327,right
+129.028,-235,1326,right
+129.137,-246,1314,right
+129.220,-246,1320,right
+129.344,-217,1349,right
+129.428,-219,1356,right
+129.549,-322,1315,right
+129.632,-367,1262,right
+129.739,-425,1174,right
+129.834,-467,1141,right
+129.931,-523,1092,right
+130.024,-566,1050,right
+130.132,-591,1041,right
+130.233,-630,979,right
+130.322,-669,887,right
+130.420,-673,889,right
+130.518,-672,888,right
+130.602,-670,891,right
+130.680,-657,921,right
+130.778,-674,894,right
+130.858,-682,869,right
+130.953,-811,727,right
+131.038,-802,712,right
+131.151,-841,698,right
+131.241,-836,685,right
+131.338,-838,682,right
+131.437,-849,655,right
+131.563,-856,651,right
+131.661,-891,594,right
+131.759,-977,508,right
+131.830,-1022,431,right
+131.936,-1097,378,right
+132.342,-750,603,right
+132.418,-843,524,right
+132.505,-853,517,right
+132.709,-959,494,right
+132.794,-942,512,right
+132.817,-941,512,right
+132.891,-924,527,right
+132.991,-942,480,right
+133.487,-781,408,right
+133.574,-812,394,right
+133.682,-865,415,right
+133.779,-887,380,right
+133.872,-874,343,right
+133.980,-888,336,right
+134.062,-889,321,right
+134.160,-889,321,right
+134.265,-876,306,right
+134.333,-874,307,right
+134.444,-779,361,right
+134.543,-775,365,right
+134.647,-783,347,right
+134.744,-816,312,right
+135.099,-414,816,right
+135.198,-411,828,right
+135.293,-328,942,right
+135.406,-336,977,right
+135.498,-328,1057,right
+135.636,-398,1076,right
+135.716,-431,1140,right
+135.819,-483,1130,right
+136.389,-834,883,right
+136.481,-828,877,right
+136.595,-726,686,right
+136.696,-728,684,right
+136.806,-754,603,right
+136.896,-793,446,right
+137.169,-499,1208,right
+137.242,-454,1273,right
+137.344,-356,1414,right
+137.447,-324,1347,right
+137.561,-155,1376,right
+137.666,-156,1380,right
+137.934,-76,1398,right
+138.019,-78,1399,right
+138.254,-209,1479,right
+138.347,-211,1491,right
+140.343,-233,1610,right
+140.454,-142,1668,right
+141.302,-413,959,right
+141.403,-405,957,right
+141.525,-382,945,right
+141.643,-372,945,right
+142.441,-406,1397,right
+142.551,-408,1399,right
+142.717,-379,1479,right
+142.763,-380,1479,right
+143.200,-890,924,right
+143.296,-723,1058,right
+143.384,-645,1281,right
+143.480,-770,1230,right
+143.780,-451,1604,right
+143.882,-454,1602,right
+144.704,-1119,949,left
+144.816,-1105,948,left
+145.103,-513,1430,right
+145.212,-512,1429,right
+145.302,-514,1429,right
+145.408,-516,1450,right
+145.685,-475,1541,right
+145.742,-455,1553,right
+145.835,-411,1589,right
+145.947,-410,1589,right
+146.027,-403,1611,right
+146.135,-403,1610,right
+146.244,-403,1610,right
+146.350,-403,1603,right
+146.693,-263,1620,right
+146.807,-248,1620,right
+147.157,-319,1656,right
+147.258,-342,1654,right
+147.371,-369,1679,right
+147.467,-367,1682,right
+147.591,-311,1729,right
+147.677,-311,1730,right
+147.900,-244,1747,right
+147.985,-241,1747,right
+148.076,-181,1770,right
+148.191,-197,1755,right
+148.577,-267,1451,right
+148.674,-266,1451,right
+148.762,-237,1463,right
+148.857,-240,1448,right
+148.935,-230,1451,right
+149.038,-235,1452,right
+149.178,-204,1481,right
+149.310,-173,1470,right
+149.411,-148,1474,right
+149.501,-104,1482,right
+149.558,-13,1499,right
+149.670,-10,1471,right
+150.105,-601,1568,right
+150.209,-597,1610,right
+150.299,-514,1623,right
+150.411,-547,1609,right
+150.490,-539,1623,right
+150.604,-561,1637,right
+150.678,-501,1650,right
+150.801,-498,1648,right
+150.887,-484,1640,right
+150.995,-482,1639,right
+151.072,-467,1622,right
+151.177,-458,1622,right
+151.259,-438,1612,right
+151.391,-426,1613,right
+151.460,-403,1607,right
+151.621,-357,1594,right
+151.662,-348,1587,right
+151.825,-337,1588,right
+151.907,-325,1706,right
+152.007,-317,1711,right
+152.124,-200,1680,right
+152.204,-198,1680,right
+152.300,-74,1671,right
+152.410,-105,1679,right
+152.919,-269,1498,right
+153.021,-281,1500,right
+153.129,-278,1466,right
+153.224,-281,1447,right
+153.349,-246,1370,right
+153.478,-289,1340,right
+153.622,-387,1340,right
+153.723,-386,1348,right
+153.904,-326,1512,right
+154.002,-320,1528,right
+154.640,-243,1522,right
+154.793,-225,1523,right
+154.901,-224,1519,right
+155.006,-224,1519,right
+163.404,-1253,1314,left
+163.491,-1253,1314,left
+165.737,-383,1144,right
+165.840,-382,1143,right
+168.144,-1180,2013,left
+168.237,-1180,2013,left
+174.076,-416,933,right
+174.178,-414,933,right
+174.273,-415,933,right
+174.367,-414,933,right
+174.470,-406,927,right
+174.572,-406,927,right
+174.672,-398,923,right
+174.793,-398,922,right
+174.876,-398,922,right
+175.000,-398,922,right
+175.259,-433,978,right
+175.353,-436,987,right
+175.467,-433,1010,right
+175.577,-433,1011,right
+176.222,-496,1112,right
+176.289,-498,1111,right
+176.395,-541,1111,right
+176.483,-557,1106,right
+177.180,-1229,643,right
+177.292,-1089,694,right
+177.449,-1097,661,right
+177.480,-1224,473,right
+177.846,-596,754,right
+177.968,-663,789,right
+178.315,-742,712,right
+178.421,-749,696,right
+178.520,-776,645,right
+178.637,-781,635,right
+178.767,-756,644,right
+178.880,-755,644,right
+179.193,-673,674,right
+179.301,-673,674,right
+179.443,-666,676,right
+179.527,-666,676,right
+179.653,-652,704,right
+179.753,-649,703,right
+182.241,-462,993,right
+182.326,-466,995,right
+182.411,-467,991,right
+182.522,-517,906,right
+182.592,-547,881,right
+182.703,-614,832,right
+182.775,-623,811,right
+182.872,-659,765,right
+182.980,-658,769,right
+183.068,-673,789,right
+183.164,-665,797,right
+183.249,-672,792,right
+183.345,-667,776,right
+183.441,-668,772,right
+183.719,-546,973,right
+183.780,-546,974,right
+183.906,-485,1012,right
+183.983,-485,1012,right
+184.103,-467,1032,right
+184.197,-469,1025,right
+184.323,-489,956,right
+184.406,-484,925,right
+184.519,-456,939,right
+184.618,-464,932,right
+184.751,-662,835,right
+184.842,-685,811,right
+185.007,-687,798,right
+185.067,-689,792,right
+185.317,-688,781,right
+185.403,-688,781,right
+185.738,-685,774,right
+185.839,-685,774,right
+186.347,-432,1064,right
+186.423,-431,1062,right
+187.246,-340,1270,right
+187.329,-338,1272,right
+187.434,-322,1295,right
+187.534,-324,1283,right
+188.043,-448,1298,right
+188.128,-499,1292,right
+188.583,-410,1206,right
+188.652,-384,1176,right
+188.758,-369,1068,right
+188.840,-435,973,right
+188.950,-463,897,right
+189.037,-523,815,right
+189.125,-653,818,right
+189.227,-699,811,right
+189.659,-788,598,right
+189.742,-785,590,right
+190.696,-786,1406,right
+190.793,-810,1413,right
+190.893,-834,1550,right
+190.982,-844,1550,right
+191.533,-972,1522,right
+191.640,-972,1520,right
+192.041,-699,1685,right
+192.121,-684,1692,right
+192.215,-612,1719,right
+192.315,-602,1730,right
+192.784,-348,1402,right
+192.910,-457,1427,right
+192.999,-486,1422,right
+193.091,-509,1228,right
+193.200,-524,877,right
+193.294,-537,847,right
+194.273,-381,918,right
+194.368,-402,887,right
+194.460,-488,789,right
+194.553,-518,736,right
+195.213,-469,1107,right
+195.291,-452,1138,right
+195.395,-472,1202,right
+195.481,-498,1224,right
+195.594,-547,1325,right
+195.665,-564,1311,right
+195.780,-584,1306,right
+195.887,-631,1265,right
+196.347,-778,832,right
+196.449,-755,881,right
+196.535,-654,1062,right
+196.638,-674,1032,right
+196.748,-727,987,right
+196.842,-732,983,right
+196.956,-751,981,right
+197.049,-787,949,right
+197.180,-665,1126,right
+197.287,-737,1061,right
+197.391,-745,1052,right
+197.481,-776,988,right
+197.578,-733,1010,right
+197.665,-741,1003,right
+197.754,-747,996,right
+197.834,-753,930,right
+197.918,-741,937,right
+198.024,-843,810,right
+198.108,-839,801,right
+198.235,-850,770,right
+198.287,-856,738,right
+198.394,-897,664,right
+198.496,-893,659,right
+198.584,-943,573,right
+198.664,-941,568,right
+198.762,-962,536,right
+198.836,-985,474,right
+198.956,-993,461,right
+199.351,-705,846,right
+199.462,-670,959,right
+199.539,-639,996,right
+199.637,-664,980,right
+199.726,-601,1032,right
+199.832,-590,1059,right
+199.929,-486,1183,right
+200.015,-522,1136,right
+201.212,-569,948,right
+201.297,-625,855,right
+201.384,-580,878,right
+201.462,-579,879,right
+201.583,-556,915,right
+201.679,-473,1090,right
+201.782,-475,1091,right
+201.854,-474,1093,right
+201.966,-428,1151,right
+202.063,-426,1151,right
+202.140,-410,1170,right
+202.255,-437,1130,right
+202.326,-426,1146,right
+202.599,-456,1119,right
+202.686,-417,1124,right
+202.786,-429,1119,right
+202.885,-419,1130,right
+202.978,-431,1114,right
+203.066,-415,1116,right
+203.161,-421,1108,right
+203.284,-411,1129,right
+203.341,-368,1163,right
+203.430,-327,1231,right
+203.535,-331,1217,right
+203.639,-263,1262,right
+203.743,-267,1276,right
+203.822,-247,1323,right
+203.919,-244,1318,right
+204.013,-186,1385,right
+204.114,-217,1370,right
+204.212,-170,1412,right
+204.312,-173,1418,right
+204.898,-463,1340,right
+204.948,-441,1355,right
+205.026,-356,1424,right
+205.144,-343,1428,right
+205.212,-318,1430,right
+205.322,-337,1378,right
+205.407,-406,1292,right
+205.563,-348,1399,right
+205.647,-384,1382,right
+205.763,-418,1369,right
+205.855,-422,1347,right
+205.975,-453,1326,right
+206.040,-454,1308,right
+206.341,-445,1358,right
+206.425,-421,1340,right
+206.532,-459,1300,right
+206.625,-440,1297,right
+206.721,-447,1298,right
+206.805,-440,1310,right
+206.951,-446,1304,right
+207.019,-446,1308,right
+207.131,-446,1309,right
+207.211,-444,1308,right
+207.348,-444,1310,right
+207.437,-445,1310,right
+207.555,-447,1311,right
+207.646,-447,1332,right
+207.751,-458,1304,right
+207.853,-449,1297,right
+207.956,-450,1298,right
+208.049,-424,1325,right
+208.160,-425,1324,right
+208.248,-425,1324,right
+208.356,-433,1317,right
+208.451,-429,1329,right
+208.559,-440,1317,right
+208.658,-438,1336,right
+208.759,-440,1332,right
+208.856,-431,1338,right
+208.958,-434,1333,right
+209.039,-433,1331,right
+209.142,-448,1316,right
+209.221,-447,1310,right
+209.321,-447,1314,right
+209.398,-446,1340,right
+209.511,-462,1335,right
+209.606,-448,1361,right
+209.715,-422,1470,right
+209.815,-364,1529,right
+209.934,-465,1525,right
+210.038,-433,1608,right
+210.140,-431,1623,right
+210.241,-291,1762,right
+210.341,-263,1859,right
+210.679,-146,1836,right
+210.795,-148,1851,right
+210.880,-134,1848,right
+210.997,-96,1944,right
+211.457,-224,1548,right
+211.551,-205,1556,right
+212.540,-352,1572,right
+212.629,-343,1577,right
+212.961,-273,1600,right
+213.037,-253,1612,right
+213.584,-213,1665,right
+213.714,-212,1665,right
+214.786,-95,1498,right
+214.891,-88,1471,right
+215.265,-95,1454,right
+215.347,-95,1445,right
+215.453,-73,1452,right
+215.579,-73,1453,right
+216.246,-182,1351,right
+216.356,-182,1351,right
+226.444,-1247,1359,left
+226.534,-1247,1359,left
+227.470,-368,1004,right
+227.571,-367,1004,right
+228.521,-1155,1997,left
+228.611,-1158,1999,left
+239.150,-646,1214,right
+239.260,-646,1213,right
+239.340,-646,1213,right
+239.457,-646,1212,right
+239.656,-646,1212,right
+239.767,-646,1211,right
+239.883,-648,1211,right
+240.009,-653,1208,right
+240.122,-654,1208,right
+240.226,-654,1208,right
+240.332,-654,1208,right
+240.436,-654,1208,right
+240.534,-654,1208,right
+240.655,-654,1207,right
+240.757,-654,1207,right
+240.883,-654,1207,right
+244.427,-759,1206,right
+244.519,-759,1206,right
+244.625,-759,1206,right
+244.708,-757,1205,right
+245.070,-681,1221,right
+245.180,-680,1221,right
+247.064,-562,1195,right
+247.154,-564,1190,right
+247.679,-538,1177,right
+247.770,-536,1175,right
+247.907,-503,1167,right
+248.017,-503,1166,right
+248.153,-502,1171,right
+248.258,-502,1171,right
+248.460,-502,1171,right
+248.548,-501,1172,right
+248.671,-557,1219,right
+248.808,-585,1222,right
+248.905,-591,1221,right
+249.015,-637,1215,right
+249.123,-644,1217,right
+249.206,-644,1217,right
+249.679,-420,1176,right
+249.771,-400,1175,right
+249.870,-343,1221,right
+249.988,-342,1206,right
+251.614,-411,1235,right
+251.719,-413,1224,right
+253.476,-270,840,right
+253.569,-263,835,right
+253.653,-263,818,right
+253.772,-340,526,right
+255.345,-1169,1824,right
+255.445,-1170,1827,right
+256.416,-1094,1033,left
+256.496,-1094,1033,left
+257.761,-1203,1830,left
+257.858,-1203,1830,left
+265.602,-827,861,left
+265.995,-640,1024,left
+272.271,-224,1527,right
+272.393,-306,1501,right
+272.453,-346,1466,right
+272.538,-356,1456,right
+274.796,-113,1261,right
+274.923,-86,1263,right
+275.015,-91,1256,right
+275.123,-71,1257,right
+275.695,-287,1117,right
+275.803,-393,924,right
+275.889,-424,848,right
+275.998,-465,789,right
+276.081,-479,738,right
+276.193,-496,635,right
+276.278,-492,616,right
+276.377,-475,616,right
+276.467,-439,667,right
+276.563,-483,636,right
+276.656,-438,792,right
+276.766,-444,831,right
+276.831,-427,878,right
+276.942,-426,871,right
+277.017,-399,920,right
+277.117,-406,903,right
+277.192,-397,933,right
+277.302,-408,951,right
+277.367,-401,969,right
+277.476,-410,985,right
+277.550,-408,990,right
+277.652,-428,994,right
+277.723,-403,990,right
+277.846,-402,967,right
+277.924,-402,963,right
+278.028,-409,965,right
+278.102,-411,975,right
+278.205,-413,970,right
+278.332,-412,973,right
+278.399,-415,966,right
+278.504,-623,687,right
+278.613,-638,677,right
+278.690,-645,757,right
+278.792,-701,715,right
+278.869,-703,705,right
+278.978,-707,675,right
+279.055,-695,636,right
+279.168,-757,577,right
+279.250,-755,563,right
+279.348,-765,556,right
+279.540,-473,927,right
+279.650,-476,910,right
+279.755,-500,794,right
+279.889,-571,613,right
+279.974,-582,590,right
+280.086,-593,506,right
+280.174,-599,494,right
+280.281,-655,454,right
+280.374,-675,445,right
+280.483,-695,427,right
+280.718,-620,416,right
+280.833,-623,407,right
+281.033,-401,695,right
+281.132,-352,731,right
+281.218,-276,877,right
+281.320,-341,896,right
+281.416,-345,1123,right
+281.528,-353,1119,right
+281.628,-209,1137,right
+281.732,-212,1144,right
+282.303,-232,1526,right
+282.389,-254,1506,right
+282.489,-250,1536,right
+282.602,-257,1545,right
+284.157,-362,1371,right
+284.255,-362,1371,right
+284.753,-204,1320,right
+284.863,-214,1279,right
+284.980,-237,1230,right
+285.106,-366,1079,right
+285.187,-434,1015,right
+285.291,-471,988,right
+285.390,-518,913,right
+285.514,-605,817,right
+285.586,-684,780,right
+285.697,-737,750,right
+285.801,-706,773,right
+285.919,-706,775,right
+285.999,-688,793,right
+286.101,-692,778,right
+286.179,-679,764,right
+286.286,-686,760,right
+286.358,-678,756,right
+286.460,-683,752,right
+286.554,-677,756,right
+286.665,-679,762,right
+286.740,-672,759,right
+286.855,-671,756,right
+286.934,-671,748,right
+287.054,-671,753,right
+287.142,-671,750,right
+287.251,-673,752,right
+287.355,-674,751,right
+287.454,-675,753,right
+287.684,-565,915,right
+287.831,-479,997,right
+287.930,-468,1016,right
+288.018,-470,1009,right
+288.146,-461,984,right
+288.242,-450,995,right
+288.345,-422,1009,right
+288.451,-439,994,right
+288.544,-544,980,right
+288.649,-608,954,right
+288.785,-533,997,right
+288.865,-521,1017,right
+288.966,-483,1042,right
+289.073,-515,1037,right
+289.169,-584,1020,right
+289.282,-637,1019,right
+289.366,-633,1018,right
+289.454,-637,1007,right
+289.558,-612,1024,right
+289.677,-559,1018,right
+289.756,-526,1011,right
+289.853,-520,1015,right
+289.944,-470,1015,right
+290.067,-498,1010,right
+290.130,-488,998,right
+290.254,-499,1008,right
+290.596,-431,1208,right
+290.687,-392,1214,right
+290.773,-302,1321,right
+290.874,-310,1334,right
+290.956,-258,1387,right
+291.073,-267,1399,right
+291.623,-301,1566,right
+291.718,-302,1565,right
+291.829,-313,1556,right
+291.939,-311,1562,right
+292.459,-236,1713,right
+292.566,-237,1725,right
+293.960,-168,1788,right
+294.070,-174,1799,right
+294.790,-190,1584,right
+294.897,-199,1640,right
+295.000,-201,1666,right
+295.098,-206,1666,right
+295.572,-82,1483,right
+295.678,-78,1422,right
+295.923,-141,1409,right
+296.019,-156,1399,right
+296.695,-123,1250,right
+296.815,-123,1250,right
+296.927,-123,1250,right
+297.018,-124,1250,right
+299.131,-766,964,right
+299.256,-785,904,right
+299.357,-776,890,right
+299.464,-780,876,right
+299.553,-791,865,right
+299.662,-807,850,right
+299.758,-810,847,right
+299.856,-815,842,right
+299.974,-816,842,right
+300.056,-818,838,right
+300.726,-751,869,right
+300.851,-748,873,right
+300.953,-676,892,right
+301.058,-676,892,right
+301.147,-640,929,right
+301.251,-600,938,right
+301.304,-561,953,right
+301.602,-692,933,right
+301.681,-680,916,right
+301.778,-714,898,right
+301.853,-715,903,right
+301.964,-739,881,right
+302.050,-723,861,right
+302.161,-709,862,right
+302.256,-660,863,right
+302.367,-666,873,right
+302.441,-644,821,right
+302.566,-683,771,right
+302.649,-722,737,right
+302.758,-779,712,right
+302.844,-771,772,right
+302.948,-779,769,right
+303.028,-793,749,right
+303.132,-795,744,right
+303.235,-795,744,right
+303.350,-795,744,right
+303.987,-648,451,right
+304.101,-652,559,right
+304.193,-656,607,right
+304.295,-841,582,right
+304.379,-857,604,right
+304.508,-874,605,right
+304.568,-873,606,right
+304.700,-904,620,right
+304.768,-905,619,right
+304.884,-919,610,right
+304.955,-942,567,right
+305.058,-1058,443,right
+305.195,-936,609,right
+305.298,-1033,399,right
+305.378,-1156,317,right
+305.481,-1279,0,right
+305.630,-843,423,right
+305.732,-826,470,right
+305.825,-767,451,right
+305.928,-598,368,right
+306.005,-550,360,right
+306.126,-452,394,right
+306.194,-394,393,right
+306.305,-525,430,right
+306.358,-501,397,right
+306.520,-529,400,right
+306.623,-543,365,right
+306.725,-560,356,right
+306.885,-506,720,right
+307.029,-531,681,right
+307.110,-502,681,right
+307.198,-526,656,right
+307.288,-493,630,right
+307.379,-494,618,right
+307.468,-427,696,right
+307.557,-426,709,right
+307.642,-398,897,right
+307.750,-408,882,right
+307.833,-368,924,right
+307.950,-373,941,right
+309.070,-1249,1358,left
+309.162,-1249,1358,left
+322.776,-1083,856,left
+322.875,-1083,856,left
+332.837,-996,1882,right
+333.043,-996,1882,right
+333.256,-996,1882,right
+333.343,-996,1882,right
+333.769,-998,1882,left
+333.861,-998,1882,left
+338.233,-1109,1899,right
+338.335,-1109,1900,right
+338.804,-1125,1900,left
+338.893,-1125,1900,left
+345.704,-536,1164,right
+345.813,-537,1167,right
+345.918,-545,1175,right
+346.030,-557,1175,right
+346.117,-556,1166,right
+346.231,-556,1167,right
+346.893,-533,1082,right
+346.991,-531,1071,right
+347.088,-497,1037,right
+347.198,-465,1030,right
+347.317,-263,1099,right
+347.414,-171,1242,right
+347.491,-161,1320,right
+347.589,-167,1309,right
+347.705,-232,1300,right
+347.828,-390,1286,right
+347.914,-405,1286,right
+348.031,-449,1247,right
+348.109,-482,1225,right
+348.254,-634,1105,right
+348.701,-413,769,right
+348.799,-370,766,right
+348.902,-433,830,right
+349.021,-480,839,right
+349.109,-494,839,right
+349.220,-502,834,right
+350.106,-928,472,right
+350.202,-898,510,right
+350.309,-829,556,right
+350.454,-822,553,right
+350.702,-349,728,right
+350.787,-338,727,right
+350.884,-301,717,right
+351.005,-307,721,right
+351.215,-346,773,right
+351.326,-346,777,right
+351.654,-107,764,right
+351.748,-107,776,right
+351.832,-73,775,right
+351.957,-91,800,right
+353.091,-24,942,right
+353.176,-19,946,right
+353.877,-116,1015,right
+353.972,-116,1014,right
+354.108,-123,909,right
+354.210,-134,823,right
+354.299,-134,768,right
+354.412,-166,672,right
+354.496,-175,645,right
+354.640,-218,596,right
+354.937,-602,100,right
+355.053,-588,157,right
+355.620,-836,1636,right
+355.714,-836,1637,right
+355.804,-837,1769,right
+355.892,-969,1810,right
+356.523,-752,1671,right
+356.604,-752,1670,right
+356.712,-752,1670,right
+356.813,-752,1670,right
+356.960,-761,1696,right
+357.054,-761,1696,right
+358.343,-796,1147,right
+358.452,-796,1146,right
+358.567,-793,1137,right
+358.673,-794,1113,right
+358.771,-788,1103,right
+358.887,-788,1102,right
+358.985,-788,1104,right
+359.093,-790,1100,right
+359.199,-790,1106,right
+359.296,-791,1102,right
+359.391,-789,1099,right
+359.491,-789,1098,right
+359.586,-783,1100,right
+359.683,-783,1098,right
+359.778,-779,1099,right
+359.890,-781,1095,right
+360.006,-779,1095,right
+360.101,-779,1095,right
+360.457,-832,1266,right
+360.550,-826,1254,right
+362.187,-734,1535,right
+362.282,-733,1536,right
+362.392,-668,1565,right
+362.478,-663,1562,right
+362.564,-627,1644,right
+362.684,-636,1633,right
+362.765,-618,1661,right
+362.888,-656,1721,right
+362.949,-740,1786,right
+363.090,-766,1794,right
+363.163,-737,1835,right
+363.290,-744,1834,right
+363.364,-745,1834,right
+363.487,-773,1827,right
+363.560,-773,1829,right
+363.681,-837,1844,right
+363.757,-870,1916,right
+363.861,-1128,2047,right
+364.104,-837,1377,right
+364.207,-871,1418,right
+364.296,-999,1564,right
+364.405,-1003,1563,right
+364.487,-947,1636,right
+364.604,-948,1594,right
+364.671,-939,1613,right
+364.764,-919,1617,right
+364.860,-849,1630,right
+364.962,-805,1608,right
+365.048,-682,1588,right
+365.151,-668,1539,right
+365.236,-659,1573,right
+365.351,-656,1573,right
+365.420,-584,1549,right
+365.546,-587,1520,right
+365.626,-573,1549,right
+365.743,-590,1499,right
+365.817,-585,1506,right
+365.951,-590,1480,right
+366.030,-576,1519,right
+366.162,-584,1523,right
+366.238,-568,1542,right
+366.351,-569,1529,right
+366.429,-566,1543,right
+366.551,-568,1470,right
+366.629,-547,1388,right
+366.761,-456,1180,right
+366.827,-448,1140,right
+366.939,-452,1106,right
+367.030,-417,1070,right
+367.143,-413,1066,right
+367.226,-391,1053,right
+367.342,-385,1045,right
+367.413,-370,1042,right
+367.530,-371,1034,right
+367.606,-371,1034,right
+367.721,-371,1034,right
+367.801,-356,1037,right
+367.930,-357,1037,right
+368.017,-355,1049,right
+368.135,-355,1041,right
+368.217,-358,1056,right
+368.333,-363,1046,right
+368.427,-358,1041,right
+368.530,-373,976,right
+368.607,-366,969,right
+368.724,-391,944,right
+368.821,-354,1029,right
+368.938,-360,1018,right
+369.032,-320,1038,right
+369.145,-316,1029,right
+369.216,-316,1030,right
+369.326,-324,1014,right
+369.433,-251,1038,right
+369.487,-16,1042,right
+369.631,-210,1059,right
+369.738,-207,1073,right
+369.849,-206,1056,right
+370.009,-288,1040,right
+370.089,-373,1071,right
+370.230,-437,1049,right
+370.336,-447,1060,right
+370.456,-469,1051,right
+370.542,-515,1135,right
+370.662,-560,1149,right
+370.750,-600,1164,right
+370.849,-598,1156,right
+370.937,-458,1029,right
+371.051,-457,1029,right
+371.117,-419,994,right
+371.243,-425,1003,right
+371.312,-427,1029,right
+371.434,-449,1053,right
+371.506,-450,1053,right
+371.612,-464,1054,right
+371.690,-475,1081,right
+371.800,-517,1088,right
+371.874,-542,1093,right
+371.976,-602,1115,right
+372.051,-597,1154,right
+372.161,-606,1165,right
+372.230,-618,1168,right
+372.365,-669,1189,right
+372.442,-686,1213,right
+372.563,-727,1237,right
+372.640,-776,1270,right
+372.745,-815,1282,right
+372.823,-831,1312,right
+372.946,-866,1312,right
+373.013,-887,1340,right
+373.144,-922,1347,right
+373.218,-982,1400,right
+373.306,-1144,1541,right
+373.710,-621,1134,right
+373.803,-648,1074,right
+373.896,-595,967,right
+374.004,-600,877,right
+374.101,-594,880,right
+374.224,-595,872,right
+374.683,-793,1426,right
+374.794,-829,1426,right
+374.885,-919,1502,right
+375.000,-936,1518,right
+375.689,-615,439,right
+375.806,-602,415,right
+375.918,-439,396,right
+376.043,-338,322,right
+376.321,-836,228,right
+376.443,-953,44,right
+378.131,-1119,869,left
+378.201,-1118,869,left
+379.184,-229,753,right
+379.306,-221,759,right
+379.404,-9,706,right
+379.543,-0,706,right
+379.975,-294,1001,right
+380.070,-291,1001,right
+380.179,-272,1022,right
+380.293,-260,1007,right
+381.351,-112,817,right
+381.470,-116,778,right
+381.691,-116,711,right
+381.828,-97,481,right
+383.662,-339,946,right
+383.764,-333,945,right
+384.553,-615,744,right
+384.636,-611,746,right
+384.735,-612,745,right
+384.821,-582,723,right
+384.935,-545,744,right
+385.033,-549,740,right
+385.157,-617,715,right
+385.247,-645,724,right
+385.343,-558,754,right
+385.460,-563,751,right
+385.547,-566,763,right
+385.643,-587,764,right
+385.729,-547,770,right
+385.836,-547,761,right
+385.943,-504,761,right
+386.048,-494,750,right
+386.138,-399,746,right
+386.237,-384,748,right
+386.334,-327,732,right
+386.427,-319,725,right
+386.517,-264,721,right
+386.628,-281,713,right
+386.729,-268,729,right
+386.839,-267,729,right
+386.933,-261,735,right
+387.054,-256,735,right
+387.565,-627,688,right
+387.672,-668,660,right
+387.757,-622,635,right
+387.884,-659,625,right
+388.013,-652,717,right
+388.127,-680,668,right
+388.857,-660,709,right
+388.949,-660,707,right
+389.038,-659,595,right
+389.156,-642,539,right
+389.231,-645,533,right
+389.360,-729,426,right
+389.904,-709,617,right
+389.997,-706,612,right
+390.113,-648,578,right
+390.230,-623,438,right
+390.946,-140,442,right
+391.076,-140,442,right
+391.379,-143,434,right
+391.482,-181,442,right
+391.549,-181,442,right
+391.629,-181,442,right
+391.746,-181,442,right
+391.872,-181,441,right
+393.724,-246,546,right
+393.831,-247,548,right
+398.883,-392,547,right
+398.999,-392,547,right
+400.596,-448,521,right
+400.715,-615,526,right
+400.787,-712,498,right
+400.886,-846,420,right
+400.975,-862,383,right
+401.081,-1073,0,right
+401.520,-642,605,right
+401.614,-642,605,right
+401.734,-535,571,right
+401.852,-525,540,right
+401.962,-320,480,right
+402.058,-220,434,right
+402.158,-0,221,right
+402.288,-40,0,right
+403.469,-506,773,right
+403.573,-505,772,right
+403.688,-458,780,right
+403.772,-350,832,right
+404.376,-266,1475,right
+404.480,-284,1545,right
+404.569,-290,1564,right
+404.667,-300,1577,right
+404.763,-342,1521,right
+404.874,-342,1519,right
+404.953,-341,1512,right
+405.058,-339,1506,right
+405.148,-329,1471,right
+405.272,-327,1465,right
+405.349,-323,1451,right
+405.499,-323,1450,right
+405.613,-323,1450,right
+405.757,-323,1451,right
+405.914,-326,1451,right
+405.997,-329,1449,right
+406.089,-345,1496,right
+406.199,-348,1510,right
+407.338,-448,1426,right
+407.448,-515,1376,right
+407.539,-522,1373,right
+407.661,-523,1373,right
+408.759,-471,1293,right
+408.858,-577,1182,right
+408.956,-669,1111,right
+409.064,-759,938,right
+410.366,-1094,935,left
+410.470,-1094,935,left
+410.828,-887,608,right
+410.927,-824,822,right
+411.619,-900,0,right
+411.659,-942,0,right
+412.075,-429,1218,right
+412.153,-428,1214,right
+412.250,-418,1233,right
+412.336,-414,1251,right
+412.678,-370,1392,right
+412.788,-371,1399,right
+412.896,-367,1317,right
+412.985,-404,1238,right
+413.094,-483,1227,right
+413.204,-531,1138,right
+413.308,-533,1114,right
+413.431,-537,1011,right
+413.557,-344,943,right
+413.669,-287,919,right
+413.774,-217,875,right
+413.882,-198,833,right
+413.968,-188,778,right
+414.104,-200,738,right
+414.197,-207,714,right
+414.312,-410,604,right
+414.421,-455,610,right
+414.540,-460,612,right
+414.711,-525,688,right
+414.820,-545,698,right
+414.914,-575,569,right
+415.017,-575,569,right
+415.228,-690,755,right
+415.327,-702,762,right
+415.426,-733,771,right
+415.529,-755,798,right
+415.615,-787,801,right
+415.700,-835,814,right
+415.798,-832,869,right
+415.887,-832,869,right
+416.005,-746,872,right
+416.093,-708,855,right
+416.179,-660,794,right
+416.271,-659,792,right
+416.366,-629,756,right
+416.475,-625,758,right
+416.603,-319,1256,right
+416.715,-262,1382,right
+416.785,-222,1466,right
+416.920,-215,1587,right
+416.974,-199,1667,right
+417.107,-211,1673,right
+417.176,-211,1673,right
+417.295,-241,1654,right
+418.706,-1245,1395,left
+418.792,-1245,1395,left
+419.957,-284,1179,right
+420.067,-298,1162,right
+420.918,-50,998,left
+421.008,-50,998,left
+422.159,-50,998,right
+422.275,-50,998,right
+422.592,-50,998,left
+422.710,-50,998,left
+422.936,-51,998,left
+423.032,-51,998,left
+423.536,-51,998,left
+423.633,-51,998,left
+427.101,-1263,1348,left
+427.197,-1262,1347,left
+429.952,-57,881,left
+430.066,-56,881,left
+430.787,-55,880,left
+430.887,-55,880,left
+431.583,-1255,1347,left
+431.670,-1259,1353,left
+435.204,-721,292,left
+435.319,-721,292,left
+436.526,-364,1282,right
+436.636,-364,1283,right
+438.672,-1246,1373,left
+438.782,-1246,1374,left
+442.873,-480,990,right
+443.003,-479,990,right
+445.024,-1168,1777,left
+445.116,-1168,1777,left
+453.048,-528,1096,right
+453.128,-527,1096,right
+453.213,-516,1101,right
+453.392,-505,1115,right
+453.444,-503,1124,right
+453.538,-473,1159,right
+453.581,-471,1160,right
+453.695,-529,1221,right
+453.761,-552,1243,right
+453.873,-626,1241,right
+453.951,-639,1261,right
+454.073,-685,1272,right
+454.140,-710,1299,right
+454.243,-708,1299,right
+454.317,-654,1383,right
+454.423,-668,1400,right
+454.506,-666,1501,right
+454.622,-686,1509,right
+454.706,-677,1514,right
+454.809,-677,1525,right
+454.877,-677,1522,right
+454.984,-677,1526,right
+455.086,-686,1562,right
+455.170,-688,1565,right
+455.445,-700,1436,right
+455.553,-684,1396,right
+455.650,-705,1429,right
+455.755,-720,1448,right
+455.856,-746,1474,right
+455.964,-756,1445,right
+456.076,-765,1332,right
+456.204,-767,1310,right
+456.289,-789,1209,right
+456.384,-789,1229,right
+456.481,-808,1386,right
+456.590,-887,1597,right
+456.665,-890,1629,right
+456.778,-890,1632,right
+456.848,-919,1795,right
+456.955,-1070,1835,right
+457.627,-1078,1492,right
+457.742,-1101,1503,right
+457.823,-1102,1508,right
+457.895,-1110,1518,right
+457.983,-1129,1580,right
+458.089,-1133,1581,right
+458.258,-873,1287,right
+458.357,-868,1211,right
+458.427,-888,1227,right
+458.535,-888,1233,right
+458.618,-844,1258,right
+458.725,-831,1254,right
+458.814,-777,1233,right
+458.925,-776,1216,right
+459.007,-736,1197,right
+459.126,-716,1195,right
+459.197,-717,1196,right
+459.310,-756,1244,right
+459.405,-830,1242,right
+459.517,-833,1255,right
+459.591,-832,1302,right
+459.730,-832,1310,right
+459.817,-836,1318,right
+459.921,-823,1261,right
+459.999,-796,1241,right
+460.104,-803,1230,right
+460.194,-840,1252,right
+460.299,-839,1252,right
+460.380,-829,1259,right
+460.498,-829,1259,right
+460.583,-829,1258,right
+460.672,-829,1257,right
+460.772,-691,1194,right
+460.869,-703,1150,right
+460.965,-680,1105,right
+461.076,-667,1105,right
+461.163,-623,1096,right
+461.288,-620,1100,right
+461.387,-623,1082,right
+461.516,-683,999,right
+461.603,-763,1175,right
+461.710,-810,1123,right
+461.793,-806,1091,right
+461.927,-807,1122,right
+461.989,-818,1123,right
+462.118,-882,1085,right
+462.166,-879,1077,right
+462.291,-882,1072,right
+462.350,-882,1074,right
+462.475,-881,1087,right
+462.527,-881,1088,right
+462.673,-882,1090,right
+462.734,-883,1095,right
+462.868,-883,1096,right
+462.927,-883,1104,right
+463.038,-886,1109,right
+463.100,-885,1100,right
+463.200,-884,1100,right
+463.323,-653,1107,right
+463.413,-624,1056,right
+463.504,-570,1030,right
+463.615,-564,1013,right
+463.700,-492,958,right
+463.813,-490,946,right
+463.894,-459,895,right
+464.011,-455,892,right
+464.103,-422,867,right
+464.236,-421,868,right
+464.316,-375,813,right
+464.418,-355,758,right
+464.522,-253,669,right
+464.651,-232,620,right
+465.396,-482,434,right
+465.530,-617,461,right
+465.574,-621,464,right
+465.668,-654,477,right
+465.768,-695,522,right
+465.873,-700,529,right
+465.950,-706,541,right
+466.077,-710,549,right
+467.747,-414,548,right
+467.823,-414,548,right
+469.737,-320,564,right
+469.839,-320,564,right
+470.588,-466,681,right
+470.695,-483,691,right
+470.780,-528,696,right
+470.890,-538,705,right
+471.758,-761,667,right
+471.841,-758,665,right
+471.938,-716,679,right
+472.047,-728,678,right
+472.195,-763,562,right
+472.286,-693,735,right
+473.768,-700,425,right
+473.869,-699,426,right
+473.999,-693,443,right
+474.114,-692,444,right
+478.234,-672,574,right
+478.313,-671,569,right
+478.406,-672,567,right
+478.526,-671,569,right
+480.128,-609,585,right
+480.209,-609,585,right
+482.462,-622,608,right
+482.561,-624,613,right
+483.104,-558,807,right
+483.219,-557,803,right
+484.013,-1068,939,left
+484.122,-1068,940,left
+484.568,-623,1422,right
+484.665,-626,1415,right
+484.755,-652,1310,right
+484.870,-650,1312,right
+485.283,-528,1327,right
+485.386,-510,1377,right
+485.482,-426,1526,right
+485.575,-420,1554,right
+485.673,-423,1588,right
+485.787,-435,1623,right
+486.245,-708,1152,right
+486.362,-692,1180,right
+486.751,-646,776,right
+486.843,-646,776,right
+487.441,-350,703,right
+487.532,-244,836,right
+487.628,-217,824,right
+487.727,-136,804,right
+487.816,-54,831,right
+487.947,-135,767,right
+488.337,-669,326,right
+488.439,-710,304,right
+488.531,-696,321,right
+488.622,-711,301,right
+488.715,-715,306,right
+488.843,-716,313,right
+488.916,-716,313,right
+489.042,-716,313,right
+489.115,-715,314,right
+489.223,-713,320,right
+489.309,-709,316,right
+489.422,-710,323,right
+489.511,-710,321,right
+489.627,-710,321,right
+489.912,-434,750,right
+490.011,-431,831,right
+490.098,-520,849,right
+490.247,-603,845,right
+490.351,-553,898,right
+490.469,-656,788,right
+490.576,-675,764,right
+490.715,-748,738,right
+490.814,-746,736,right
+490.919,-746,735,right
+491.230,-518,933,right
+491.334,-519,928,right
+491.610,-372,1049,right
+491.700,-364,1058,right
+491.820,-271,1154,right
+491.931,-245,1176,right
+492.436,-287,854,right
+492.533,-300,851,right
+497.474,-597,1054,right
+497.575,-605,1068,right
+497.684,-609,1011,right
+497.784,-651,792,right
+497.901,-656,687,right
+497.986,-585,706,right
+498.089,-102,872,right
+498.186,-179,847,right
+498.278,-200,831,right
+498.392,-239,832,right
+499.184,-0,687,right
+499.299,-122,697,right
+499.505,-250,772,right
+499.573,-291,790,right
+499.664,-338,924,right
+499.787,-367,861,right
+499.870,-394,806,right
+499.984,-466,774,right
+500.077,-495,764,right
+500.195,-567,734,right
+500.260,-637,657,right
+500.377,-649,663,right
+500.432,-646,659,right
+500.534,-705,650,right
+500.622,-739,632,right
+500.691,-737,633,right
+500.819,-470,671,right
+500.922,-349,728,right
+501.004,-275,746,right
+501.121,-264,733,right
+501.204,-265,714,right
+501.324,-507,575,right
+501.411,-624,522,right
+501.519,-696,528,right
+501.602,-696,558,right
+501.709,-754,564,right
+501.800,-737,589,right
+501.904,-738,596,right
+501.978,-708,550,right
+502.096,-714,562,right
+502.163,-715,561,right
+502.284,-718,580,right
+502.362,-706,587,right
+502.476,-703,594,right
+502.558,-715,587,right
+502.685,-717,597,right
+502.767,-693,604,right
+502.878,-704,620,right
+502.997,-634,659,right
+503.105,-619,677,right
+503.205,-584,692,right
+503.319,-583,694,right
+503.430,-572,688,right
+503.555,-604,676,right
+503.658,-614,669,right
+503.764,-617,673,right
+503.886,-672,621,right
+503.995,-692,602,right
+504.106,-695,623,right
+504.197,-698,635,right
+504.334,-689,648,right
+504.449,-690,651,right
+504.555,-687,648,right
+504.663,-687,648,right
+504.769,-671,644,right
+504.881,-670,644,right
+505.009,-618,652,right
+505.069,-617,651,right
+505.194,-530,683,right
+505.300,-528,682,right
+505.377,-523,746,right
+505.499,-546,790,right
+505.583,-513,803,right
+505.685,-522,815,right
+505.762,-507,812,right
+505.872,-527,808,right
+505.970,-426,826,right
+506.072,-419,824,right
+506.170,-399,836,right
+506.269,-399,846,right
+506.383,-318,809,right
+506.481,-308,804,right
+506.578,-187,862,right
+506.690,-4,914,right
+506.765,-0,995,right
+506.893,-113,922,right
+506.986,-71,878,right
+507.097,-60,859,right
+507.183,-53,819,right
+507.301,-74,803,right
+507.395,-70,797,right
+507.505,-70,796,right
+507.602,-68,794,right
+507.715,-67,794,right
+507.805,-68,791,right
+507.924,-247,700,right
+508.024,-508,658,right
+508.134,-512,650,right
+508.211,-506,616,right
+508.320,-625,633,right
+508.396,-641,656,right
+508.516,-702,665,right
+508.592,-692,634,right
+508.708,-723,627,right
+508.804,-766,636,right
+508.924,-781,631,right
+509.034,-801,610,right
+509.164,-865,496,right
+509.236,-856,472,right
+509.353,-858,484,right
+509.445,-846,535,right
+509.545,-858,532,right
+509.703,-793,624,right
+509.804,-789,726,right
+509.914,-770,767,right
+510.010,-765,766,right
+510.149,-579,856,right
+510.250,-591,855,right
+510.378,-582,823,right
+510.473,-706,772,right
+510.565,-792,552,right
+510.697,-881,516,right
+510.773,-881,508,right
+510.881,-915,493,right
+511.018,-718,676,right
+511.140,-437,686,right
+511.245,-272,696,right
+511.356,-271,702,right
+511.464,-234,783,right
+511.590,-243,789,right
+511.690,-243,789,right
+511.817,-243,792,right
+511.922,-236,761,right
+512.050,-291,707,right
+512.150,-334,680,right
+512.253,-402,620,right
+512.367,-390,609,right
+512.477,-410,567,right
+513.203,-543,849,right
+513.317,-572,860,right
+513.421,-705,701,right
+513.531,-710,697,right
+513.652,-668,708,right
+513.770,-703,701,right
+513.942,-491,784,right
+514.031,-449,777,right
+514.126,-333,799,right
+514.232,-333,800,right
+514.332,-266,759,right
+514.440,-259,750,right
+514.565,-217,732,right
+514.663,-216,679,right
+514.774,-194,604,right
+514.885,-200,579,right
+515.026,-200,578,right
+515.137,-210,550,right
+515.246,-264,411,right
+515.365,-321,299,right
+516.284,-65,727,right
+516.379,-0,780,right
+516.574,-160,800,right
+516.669,-152,803,right
+516.778,-61,834,right
+516.898,-58,835,right
+517.004,-0,911,right
+517.117,-10,927,right
+517.470,-405,1084,right
+517.575,-411,1088,right
+518.170,-155,1160,right
+518.266,-102,1159,right
+518.377,-33,1146,right
+518.487,-18,1152,right
+518.956,-0,1211,right
+519.052,-0,1211,right
+520.407,-137,1027,right
+520.516,-132,1017,right
+521.126,-119,947,right
+521.223,-119,947,right
+523.041,-0,1067,right
+523.160,-0,1067,right
+523.609,-183,1470,right
+523.723,-188,1444,right
+524.277,-410,1634,right
+524.328,-423,1610,right
+524.437,-472,1517,right
+524.528,-475,1526,right
+524.626,-492,1548,right
+524.729,-484,1567,right
+525.200,-621,1393,right
+525.308,-731,1316,right
+525.391,-777,1306,right
+525.497,-807,1296,right
+525.590,-834,1302,right
+525.694,-910,1284,right
+525.782,-904,1267,right
+525.887,-910,1261,right
+525.975,-909,1252,right
+526.090,-923,1257,right
+526.196,-926,1243,right
+526.300,-925,1246,right
+526.402,-932,1244,right
+526.512,-944,1249,right
+526.925,-732,1206,right
+527.046,-771,1224,right
+527.136,-801,1232,right
+527.241,-826,1249,right
+527.347,-825,1251,right
+527.456,-826,1249,right
+528.237,-533,1454,right
+528.269,-533,1454,right
+528.505,-381,1325,right
+528.610,-187,1325,right
+528.701,-124,1452,right
+528.801,-112,1470,right
+528.892,-73,1511,right
+529.010,-130,1537,right
+529.209,-48,1579,right
+529.351,-1,1573,right
+530.179,-570,1242,right
+530.272,-593,1265,right
+530.366,-659,1325,right
+530.474,-691,1327,right
+530.547,-743,1288,right
+530.655,-767,1290,right
+531.798,-758,1438,right
+531.881,-758,1438,right
+531.996,-761,1438,right
+532.036,-760,1438,right
+532.191,-753,1438,right
+532.272,-753,1437,right
+532.427,-720,1430,right
+532.549,-703,1431,right
+532.638,-704,1431,right
+532.746,-709,1444,right
+532.849,-712,1437,right
+532.943,-728,1368,right
+533.272,-653,1362,right
+533.393,-690,1368,right
+533.513,-686,1375,right
+533.624,-685,1374,right
+535.074,-686,1092,right
+535.160,-686,1091,right
+535.250,-684,1078,right
+535.349,-684,1078,right
+535.444,-683,1100,right
+535.538,-681,1100,right
+535.636,-662,1110,right
+535.731,-659,1108,right
+535.814,-654,1106,right
+535.923,-656,1094,right
+536.047,-654,1094,right
+536.139,-653,1089,right
+536.228,-653,1089,right
+536.326,-653,1087,right
+536.665,-515,1049,right
+536.744,-492,996,right
+536.844,-385,993,right
+536.953,-327,954,right
+537.038,-278,955,right
+537.151,-274,955,right
+537.241,-146,965,right
+537.368,-131,957,right
+537.724,-41,815,right
+537.813,-59,789,right
+537.950,-149,603,right
+538.083,-118,438,right
+538.872,-395,479,right
+538.982,-412,464,right
+539.081,-416,435,right
+539.189,-416,428,right
+540.377,-279,916,right
+540.475,-335,890,right
+540.589,-395,813,right
+540.707,-450,733,right
+540.805,-461,663,right
+540.904,-494,591,right
+540.992,-493,585,right
+541.102,-493,585,right
+541.200,-490,589,right
+541.296,-489,590,right
+541.408,-488,592,right
+541.511,-488,592,right
+541.621,-488,592,right
+541.728,-489,596,right
+541.831,-489,601,right
+541.935,-489,605,right
+542.017,-489,603,right
+542.137,-489,605,right
+542.238,-490,614,right
+542.345,-490,612,right
+542.428,-490,608,right
+542.549,-498,600,right
+542.647,-495,588,right
+542.739,-495,580,right
+542.851,-481,588,right
+542.934,-482,594,right
+543.030,-488,638,right
+543.129,-502,626,right
+543.237,-511,589,right
+543.347,-512,588,right
+543.447,-512,588,right
+543.543,-513,591,right
+543.661,-513,592,right
+543.755,-513,592,right
+543.887,-513,592,right
+543.996,-513,592,right
+544.106,-513,592,right
+544.221,-512,592,right
+544.310,-512,592,right
+544.413,-512,592,right
+544.492,-512,592,right
+544.611,-512,592,right
+544.709,-511,591,right
+544.800,-511,592,right
+544.901,-508,607,right
+545.014,-508,606,right
+545.116,-509,605,right
+545.226,-509,605,right
+545.313,-509,605,right
+545.424,-509,605,right
+545.506,-509,605,right
+545.622,-510,600,right
+545.721,-510,600,right
+545.844,-510,599,right
+545.921,-510,595,right
+546.054,-510,594,right
+546.138,-510,594,right
+546.253,-510,594,right
+546.353,-510,594,right
+546.480,-511,595,right
+546.574,-511,595,right
+546.695,-511,595,right
+546.788,-511,595,right
+546.921,-511,595,right
+547.022,-511,595,right
+547.134,-511,595,right
+547.223,-509,602,right
+547.343,-509,602,right
+547.444,-509,602,right
+547.563,-509,602,right
+547.648,-509,602,right
+547.773,-509,602,right
+547.862,-509,602,right
+547.994,-509,602,right
+548.097,-509,602,right
+548.241,-509,602,right
+548.342,-509,602,right
+548.445,-509,601,right
+548.544,-509,601,right
+548.684,-511,598,right
+548.813,-511,598,right
+548.924,-511,598,right
+549.025,-511,598,right
+549.152,-511,598,right
+549.409,-636,947,right
+549.512,-673,1013,right
+549.599,-741,1150,right
+549.701,-749,1155,right
+549.790,-768,1228,right
+549.887,-773,1249,right
+550.656,-825,1430,right
+550.749,-826,1436,right
+551.533,-921,1380,right
+551.645,-920,1380,right
+551.712,-921,1380,right
+551.839,-920,1378,right
+551.921,-921,1379,right
+552.025,-921,1379,right
+552.125,-890,1401,right
+552.221,-888,1401,right
+552.352,-744,1446,right
+552.445,-743,1444,right
+552.559,-712,1384,right
+552.666,-713,1366,right
+552.736,-708,1364,right
+552.840,-707,1365,right
+552.931,-702,1371,right
+553.042,-702,1366,right
+553.129,-702,1369,right
+553.226,-702,1367,right
+553.319,-702,1367,right
+553.430,-702,1367,right
+553.722,-720,1407,right
+553.836,-722,1411,right
+554.075,-722,1406,right
+554.119,-724,1401,right
+554.263,-733,1350,right
+554.341,-752,1308,right
+554.463,-755,1288,right
+554.565,-758,1262,right
+554.679,-768,1254,right
+554.785,-771,1237,right
+554.887,-771,1237,right
+554.968,-771,1236,right
+562.878,-1190,309,right
+562.985,-1128,351,right
+563.069,-1129,350,right
+563.165,-1172,247,right
+563.990,-895,677,right
+564.091,-878,753,right
+564.194,-840,869,right
+564.240,-872,864,right
+565.950,-576,1939,right
+566.054,-555,1972,right
+567.035,-345,1655,right
+567.119,-344,1653,right
+567.210,-355,1635,right
+567.320,-353,1635,right
+572.711,-845,492,right
+572.805,-845,492,right
+573.287,-518,841,right
+573.396,-522,850,right
+573.527,-514,846,right
+573.629,-512,845,right
+573.750,-503,837,right
+573.872,-503,836,right
+576.861,-463,910,right
+576.964,-463,909,right
+577.352,-385,817,right
+577.471,-385,816,right
+578.556,-1097,1023,left
+578.657,-1097,1023,left
+579.283,-644,554,right
+579.366,-624,545,right
+579.773,-542,559,right
+579.881,-545,569,right
+581.312,-782,568,right
+581.472,-782,568,right
+581.964,-416,1179,right
+582.063,-473,1281,right
+582.148,-527,1392,right
+582.258,-527,1420,right
+582.339,-532,1452,right
+582.445,-532,1455,right
+582.527,-532,1457,right
+582.648,-533,1459,right
+582.748,-533,1477,right
+582.862,-537,1471,right
+582.967,-537,1472,right
+583.085,-510,1464,right
+583.185,-356,1528,right
+583.286,-333,1528,right
+583.768,-281,1814,right
+583.873,-283,1818,right
+584.725,-137,1827,right
+584.828,-138,1828,right
+586.018,-734,1792,right
+586.131,-732,1791,right
+586.249,-712,1816,right
+586.360,-712,1816,right
+586.467,-712,1816,right
+586.576,-712,1817,right
+587.334,-1188,1980,right
+587.428,-1188,1980,right
+587.702,-1167,2004,right
+587.821,-1166,2004,right
+588.094,-1166,2004,left
+588.195,-1166,2004,left
+592.637,-1231,1982,right
+592.829,-1230,1982,right
+593.963,-1237,1997,left
+594.050,-1236,1997,left
+594.591,-0,1857,right
+594.736,-0,1857,right
+596.304,-797,581,right
+596.404,-899,556,right
+596.495,-922,514,right
+596.578,-922,518,right
+596.994,-929,196,right
+597.070,-930,172,right
+597.159,-915,40,right
+597.266,-1027,0,right
+597.497,-1118,204,right
+597.588,-1086,321,right
+601.786,-483,1872,right
+601.881,-482,1872,right
+601.991,-476,1872,right
+602.084,-461,1872,right
+602.196,-372,1901,right
+602.318,-373,1899,right
+604.614,-370,487,right
+604.701,-308,481,right
+604.779,-261,469,right
+604.870,-271,470,right
+604.941,-271,470,right
+605.068,-275,471,right
+606.566,-1244,1311,left
+606.649,-1243,1312,left
+608.035,-360,1053,right
+608.126,-358,1053,right
+608.529,-359,1053,right
+608.639,-359,1053,right
+620.144,-1241,1777,left
+620.238,-1241,1777,left
+623.964,-1256,1318,left
+624.046,-1256,1318,left
+624.856,-301,1144,right
+625.011,-293,1161,right
+628.830,-592,352,left
+628.934,-592,352,left

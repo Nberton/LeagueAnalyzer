@@ -1,29 +1,35 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
 <head>
-  <link rel="stylesheet" href="index.css">
   <link rel="stylesheet" href="d3.parcoords.css">
   <link rel="stylesheet" href="css/para.css">
   <link rel="stylesheet" href="css/bootstrap.min.css">
 </head>
 <body>
-	<h1 class="text-center"> League Analyzer Test Page</h1>
+  <h1 class="text-center"> League Analyzer: Parallel Coordinates</h1>
 
-	<h3 class="text-center"> Paralell Coordinates </h3>
+  <h3 class="text-center"> Paralell Coordinates </h3>
   <div id="parawrap">
-  	<div id="para" class="parcoords" style="width:900px;height:500px">
-  	</div>
+    <div id="para" class="parcoords" style="width:900px;height:500px">
+    </div>
   </div>
 
-	<div id="controlBar" class="text-center">
-		<div class="btn-group" role="group" aria-label="...">
-		  <button type="button" id="champ" class="btn btn-default">Champion</button>
-		  <button type="button" id="lane" class="btn btn-default">Lane</button>
-		  <button type="button" id="ult" class="btn btn-default">Ultimates </button>
-		</div>
-	</div>
+  <div id="controlBar" class="text-center">
+    <div class="btn-group" role="group" aria-label="...">
+      <button type="button" id="champ" class="btn btn-default">Champion</button>
+      <button type="button" id="lane" class="btn btn-default">Lane</button>
+      <button type="button" id="ult" class="btn btn-default">Ultimates </button>
+    </div>
+  </div>
 
-	<div id="instructionPanel" class="text-center">
+  <div id="instructionPanel" class="panel panel-default">
+    <div class="panel-heading">
+      <h3 class="panel-title">What is this?</h3>
+    </div>
+    <div class="panel-body">
+    This is a parallel coordinates plot of key presses for Champions in League of Legends. You can select areas of each axis to be brushed to analyze correlations in the data. All of the axes can be reordered in any way you want. You can change the coloring of the lines but pressing one of the three color setting in the button bar. 
+    </div>
+  </div>
 
   <script src="//d3js.org/d3.v3.min.js"></script>
   <script src="d3.parcoords.js"></script>
