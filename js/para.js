@@ -10,7 +10,7 @@ d3.csv('Data/test.csv', function(data) {
             "#cab2d6","#6a3d9a","#ffff99","#b15928"]);
 
   var blue_to_brown = d3.scale.linear()
-  .domain([0, 170])
+  .domain([25, 170])
   .range(["steelblue", "red"])
   .interpolate(d3.interpolateLab);
 
