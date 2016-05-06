@@ -1,2 +1,4 @@
 https://syntagmatic.github.io/parallel-coordinates/
 http://philipwalton.github.io/solved-by-flexbox/demos/vertical-centering/
+https://github.com/syntagmatic/parallel-coordinates/issues/298
+http://bl.ocks.org/jasondavies/1341281
