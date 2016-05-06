@@ -1,7 +1,7 @@
 
 var colors = d3.scale.category20b();
 
-d3.csv('test.csv', function(data) {
+d3.csv('data/test.csv', function(data) {
 
 	   //color on champ type
   var colorgen = d3.scale.ordinal()
